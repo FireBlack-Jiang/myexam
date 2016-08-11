@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:textSize="9pt" >
+
+        <RelativeLayout
+            style="@color/red"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/bg_lianxi" >
+
+             <TextView
+                 android:id="@+id/edit_table_name"
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:layout_alignParentTop="true"
+                 android:layout_centerHorizontal="true"
+                 android:layout_marginTop="35dp"
+                 android:text="TextView"
+                 android:textColor="@color/red"
+                 android:textSize="9pt"
+                 android:textStyle="bold" />
+
+                <Button
+                    android:id="@+id/table_mdf"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_above="@+id/table_del"
+                    android:layout_alignParentLeft="true"
+                    android:layout_marginBottom="35dp"
+                    android:text="题库修改" />
+
+                <Button
+                    android:id="@+id/table_del"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_above="@+id/table_reset"
+                    android:layout_alignParentLeft="true"
+                    android:layout_marginBottom="35dp"
+                    android:text="批量删除" />
+
+                <Button
+                    android:id="@+id/table_reset"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentLeft="true"
+                    android:layout_marginBottom="35dp"
+                    android:text="重置题库" />
+
+                <Button
+                    android:id="@+id/table_insert_single"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_above="@+id/table_mdf"
+                    android:layout_alignParentLeft="true"
+                    android:layout_marginBottom="35dp"
+                    android:text="单笔新增" />
+
+                <Button
+                    android:id="@+id/table_insert"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_above="@+id/table_insert_single"
+                    android:layout_alignParentLeft="true"
+                    android:layout_marginBottom="35dp"
+                    android:text="批量新增" />
+        
+        </RelativeLayout>
+
+</LinearLayout>
+

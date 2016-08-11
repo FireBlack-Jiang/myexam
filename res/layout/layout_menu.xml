@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#00000000" >
+ <ScrollView
+        android:id="@+id/myScrollView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="7"
+         >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:orientation="vertical" 
+        android:scrollbars="vertical">
+       
+
+        <RelativeLayout
+            android:id="@+id/layout_one"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <ImageView
+                android:id="@+id/one"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="20dp"
+                android:src="@drawable/img_1" />
+
+            <TextView
+                android:id="@+id/TextOne"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="20dp"
+                android:layout_toRightOf="@id/one"
+                android:text="三基本（2016）"
+                android:textColor="#f0f0f0"
+                android:background="@drawable/btn_version_next"
+                android:textSize="20sp"/>
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <ImageView
+                android:id="@+id/two"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="20dp"
+                android:src="@drawable/img_2" />
+
+            <TextView
+                android:id="@+id/TextTwo"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="20dp"
+                android:layout_toRightOf="@id/two"
+                android:text="运营主管（2016）"
+                android:textColor="#f0f0f0"
+                android:background="@drawable/btn_version_next"
+                android:textSize="20sp" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <ImageView
+                android:id="@+id/three"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="20dp"
+                android:src="@drawable/img_3" />
+
+            <TextView
+                android:id="@+id/TextThr"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="20dp"
+                android:layout_toRightOf="@id/three"
+                android:text="三基本（标准题库）"
+                android:textColor="#f0f0f0"
+                  android:background="@drawable/btn_version_next"
+                android:textSize="20sp" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/layoutfour"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <ImageView
+                android:id="@+id/four"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="20dp"
+                android:src="@drawable/img_4" />
+
+            <TextView
+                android:id="@+id/TextFour"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="20dp"
+                android:layout_toRightOf="@id/four"
+                android:text="客户经理（对公）考试"
+                android:textColor="#f0f0f0"
+                  android:background="@drawable/btn_version_next"
+                android:textSize="20sp" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/layoutfive"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <ImageView
+                android:id="@+id/five"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="20dp"
+                android:src="@drawable/img_5" />
+
+            <TextView
+                android:id="@+id/TextFive"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="20dp"
+                android:layout_toRightOf="@id/five"
+                android:text="网点负责人岗位考试"
+                android:textColor="#f0f0f0"
+                  android:background="@drawable/btn_version_next"
+                android:textSize="20sp" />
+        </RelativeLayout>
+          <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <ImageView
+                android:id="@+id/six"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="20dp"
+                android:src="@drawable/img_5" />
+
+            <TextView
+                android:id="@+id/TextSix"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="20dp"
+                android:layout_toRightOf="@id/six"
+                android:text="个人客户经理岗位考试"
+                android:textColor="#f0f0f0"
+                  android:background="@drawable/btn_version_next"
+                android:textSize="20sp" />
+        </RelativeLayout>
+          <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <ImageView
+                android:id="@+id/seven"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="20dp"
+                android:src="@drawable/img_5" />
+
+            <TextView
+                android:id="@+id/TextSeven"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="20dp"
+                android:layout_toRightOf="@id/seven"
+                android:text="信息科技岗位考试"
+                android:textColor="#f0f0f0"
+                  android:background="@drawable/btn_version_next"
+                android:textSize="20sp" />
+        </RelativeLayout>
+          <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <ImageView
+                android:id="@+id/eight"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="20dp"
+                android:src="@drawable/img_5" />
+
+            <TextView
+                android:id="@+id/TextEight"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="20dp"
+                android:layout_toRightOf="@id/eight"
+                android:text="押品管理岗位考试"
+                android:textColor="#f0f0f0"
+                  android:background="@drawable/btn_version_next"
+                android:textSize="20sp" />
+        </RelativeLayout>
+          <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <ImageView
+                android:id="@+id/nine"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="20dp"
+                android:src="@drawable/img_5" />
+
+            <TextView
+                android:id="@+id/TextNine"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="20dp"
+                android:layout_toRightOf="@id/nine"
+                android:text="国际业务岗位考试"
+                android:textColor="#f0f0f0"
+                  android:background="@drawable/btn_version_next"
+                android:textSize="20sp" />
+        </RelativeLayout>
+             <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <ImageView
+                android:id="@+id/Ten"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="20dp"
+                android:src="@drawable/img_5" />
+
+            <TextView
+                android:id="@+id/TextTen"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="20dp"
+                android:layout_toRightOf="@id/Ten"
+                android:text="技术管理岗位考试"
+                android:textColor="#f0f0f0"
+                  android:background="@drawable/btn_version_next"
+                android:textSize="20sp" />
+        </RelativeLayout>
+             <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <ImageView
+                android:id="@+id/Elenven"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="20dp"
+                android:src="@drawable/img_5" />
+
+            <TextView
+                android:id="@+id/TextElenven"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="20dp"
+                android:layout_toRightOf="@id/Elenven"
+                android:text="银行卡岗位考试"
+                android:textColor="#f0f0f0"
+                  android:background="@drawable/btn_version_next"
+                android:textSize="20sp" />
+        </RelativeLayout>
+           
+             <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <ImageView
+                android:id="@+id/Twelve"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="20dp"
+                android:src="@drawable/img_5" />
+
+            <TextView
+                android:id="@+id/TextTwelve"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="20dp"
+                android:layout_toRightOf="@id/Twelve"
+                android:text="三基本(响应平台)"
+                android:textColor="#f0f0f0"
+                  android:background="@drawable/btn_version_next"
+                android:textSize="20sp" />
+        </RelativeLayout>           
+             <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <ImageView
+                android:id="@+id/Thirteen"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="20dp"
+                android:src="@drawable/img_5" />
+
+            <TextView
+                android:id="@+id/TextThirteen"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="20dp"
+                android:layout_toRightOf="@id/Thirteen"
+                android:text="三基本（河南）"
+                android:textColor="#f0f0f0"
+                  android:background="@drawable/btn_version_next"
+                android:textSize="20sp" />
+        </RelativeLayout>
+         <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <ImageView
+                android:id="@+id/Furteen"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="20dp"
+                android:src="@drawable/img_5" />
+
+            <TextView
+                android:id="@+id/TextFurteen"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="20dp"
+                android:layout_toRightOf="@id/Furteen"
+                android:text="三基本（安徽）"
+                android:textColor="#f0f0f0"
+                  android:background="@drawable/btn_version_next"
+                android:textSize="20sp" />
+        </RelativeLayout>
+           <RelativeLayout
+                android:id="@+id/layoutFifteen"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <ImageView
+                android:id="@+id/Fifteen"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="20dp"
+                android:src="@drawable/img_5" />
+
+            <TextView
+                android:id="@+id/TextFifteen"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="20dp"
+                android:layout_toRightOf="@id/Fifteen"
+                android:text="三基本（安徽）-精简"
+                android:textColor="#f0f0f0"
+                  android:background="@drawable/btn_version_next"
+                android:textSize="20sp" />
+        </RelativeLayout>
+         <RelativeLayout
+              android:id="@+id/myTextdingzhi"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <ImageView
+                android:id="@+id/Sixteeth"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="20dp"
+                android:src="@drawable/img_5" />
+
+            <TextView
+                android:id="@+id/TextSixteeth"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="20dp"
+                android:layout_toRightOf="@id/Sixteeth"
+                android:text="题库管理"
+                android:textColor="#f0f0f0"
+                  android:background="@drawable/btn_version_next"
+                android:textSize="20sp" />
+        </RelativeLayout>
+      <RelativeLayout android:layout_height="wrap_content" android:layout_width="match_parent">
+
+<ImageView android:layout_height="50dp" android:layout_width="50dp" android:id="@+id/dingzhi" android:layout_centerVertical="true" android:src="@drawable/img_5" android:layout_marginTop="20dp" android:layout_marginLeft="20dp"/>
+
+<TextView android:background="@drawable/btn_version_next" android:layout_height="wrap_content" android:layout_width="fill_parent" android:id="@+id/Textdingzhi" android:layout_centerVertical="true" android:layout_marginLeft="20dp" android:textSize="20sp" android:textColor="#f0f0f0" android:text="题库管理" android:layout_toRightOf="@id/dingzhi"/>
+
+</RelativeLayout>
+    </LinearLayout>
+    </ScrollView>
+       <LinearLayout
+        android:id="@+id/adLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:orientation="horizontal" >
+    </LinearLayout>
+    
+
+</RelativeLayout>

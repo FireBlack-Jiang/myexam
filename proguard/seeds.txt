@@ -1,0 +1,2674 @@
+abc.myexam.CustomFAB
+abc.myexam.CustomFAB: CustomFAB(android.content.Context)
+abc.myexam.CustomFAB: CustomFAB(android.content.Context,android.util.AttributeSet)
+abc.myexam.CustomFAB: CustomFAB(android.content.Context,android.util.AttributeSet,int)
+abc.myexam.CustomFAB: void setBgColorPressed(int)
+abc.myexam.CustomFAB: void setBgColor(int)
+abc.myexam.E_zhuanxiang
+abc.myexam.E_zhuanxiang: E_zhuanxiang()
+abc.myexam.Edit_exam_table
+abc.myexam.Edit_exam_table: Edit_exam_table()
+abc.myexam.ExamActivity
+abc.myexam.ExamActivity: ExamActivity()
+abc.myexam.Exam_add_table
+abc.myexam.Exam_add_table: Exam_add_table()
+abc.myexam.ExerciseActivity
+abc.myexam.ExerciseActivity: ExerciseActivity()
+abc.myexam.GetFromWXActivity
+abc.myexam.GetFromWXActivity: GetFromWXActivity()
+abc.myexam.MainActivity
+abc.myexam.MainActivity: MainActivity()
+abc.myexam.MainActivity: void onClick(android.view.View)
+abc.myexam.Mdf_exam_table
+abc.myexam.Mdf_exam_table: Mdf_exam_table()
+abc.myexam.Operation_table
+abc.myexam.Operation_table: Operation_table()
+abc.myexam.OptionActivity
+abc.myexam.OptionActivity: OptionActivity()
+abc.myexam.R$anim: int dialog_enter_anim
+abc.myexam.R$anim: int dialog_exit_anim
+abc.myexam.R$anim: int pic_enter_anim_alpha
+abc.myexam.R$anim: int push_up_in
+abc.myexam.R$array: int send_appdata_item
+abc.myexam.R$array: int send_emoji_item
+abc.myexam.R$array: int send_emoji_item_format
+abc.myexam.R$array: int send_img_item
+abc.myexam.R$array: int send_music_item
+abc.myexam.R$array: int send_video_item
+abc.myexam.R$array: int send_webpage_item
+abc.myexam.R$attr: int behindOffset
+abc.myexam.R$attr: int behindScrollScale
+abc.myexam.R$attr: int behindWidth
+abc.myexam.R$attr: int bg_color
+abc.myexam.R$attr: int bg_color_pressed
+abc.myexam.R$attr: int fadeDegree
+abc.myexam.R$attr: int fadeEnabled
+abc.myexam.R$attr: int mode
+abc.myexam.R$attr: int qqRightPadding
+abc.myexam.R$attr: int qqheightPadding
+abc.myexam.R$attr: int selectorDrawable
+abc.myexam.R$attr: int selectorEnabled
+abc.myexam.R$attr: int shadowDrawable
+abc.myexam.R$attr: int shadowWidth
+abc.myexam.R$attr: int touchModeAbove
+abc.myexam.R$attr: int touchModeBehind
+abc.myexam.R$attr: int viewAbove
+abc.myexam.R$attr: int viewBehind
+abc.myexam.R$color: int black
+abc.myexam.R$color: int blue
+abc.myexam.R$color: int darkgrey
+abc.myexam.R$color: int green
+abc.myexam.R$color: int grey
+abc.myexam.R$color: int lightgrey
+abc.myexam.R$color: int lightransparent
+abc.myexam.R$color: int mm_actbtn_text
+abc.myexam.R$color: int mm_btn_text
+abc.myexam.R$color: int mm_choice_text_color
+abc.myexam.R$color: int mm_hyper_text
+abc.myexam.R$color: int mm_list_textcolor_one
+abc.myexam.R$color: int mm_list_textcolor_time
+abc.myexam.R$color: int mm_list_textcolor_two
+abc.myexam.R$color: int mm_pref_summary
+abc.myexam.R$color: int mm_pref_title
+abc.myexam.R$color: int mm_style_one_btn_text
+abc.myexam.R$color: int mm_style_two_btn_text
+abc.myexam.R$color: int mm_title_btn_text
+abc.myexam.R$color: int navpage
+abc.myexam.R$color: int red
+abc.myexam.R$color: int semitransparent
+abc.myexam.R$color: int toasterro
+abc.myexam.R$color: int transparent
+abc.myexam.R$color: int white
+abc.myexam.R$dimen: int BasicTextSize
+abc.myexam.R$dimen: int ChattingContentMinHeight
+abc.myexam.R$dimen: int ChattingTextSize
+abc.myexam.R$dimen: int ConversationItemHeight
+abc.myexam.R$dimen: int LargeAvatarSize
+abc.myexam.R$dimen: int LargeTextSize
+abc.myexam.R$dimen: int LargestTextSize
+abc.myexam.R$dimen: int PreferenceItemHeight
+abc.myexam.R$dimen: int SmallTextSize
+abc.myexam.R$dimen: int SmallerTextSize
+abc.myexam.R$dimen: int TitleTextSize
+abc.myexam.R$dimen: int activity_horizontal_margin
+abc.myexam.R$dimen: int list_padding
+abc.myexam.R$dimen: int shadow_width
+abc.myexam.R$dimen: int slidingmenu_offset
+abc.myexam.R$drawable: int author
+abc.myexam.R$drawable: int background
+abc.myexam.R$drawable: int bg_lianxi
+abc.myexam.R$drawable: int btn_check_off_disable
+abc.myexam.R$drawable: int btn_check_off_normal
+abc.myexam.R$drawable: int btn_check_on_disable
+abc.myexam.R$drawable: int btn_check_on_normal
+abc.myexam.R$drawable: int btn_style_alert_dialog_background
+abc.myexam.R$drawable: int btn_style_alert_dialog_button
+abc.myexam.R$drawable: int btn_style_alert_dialog_button_normal
+abc.myexam.R$drawable: int btn_style_alert_dialog_button_pressed
+abc.myexam.R$drawable: int btn_style_alert_dialog_cancel
+abc.myexam.R$drawable: int btn_style_alert_dialog_cancel_normal
+abc.myexam.R$drawable: int btn_style_alert_dialog_special
+abc.myexam.R$drawable: int btn_style_alert_dialog_special_normal
+abc.myexam.R$drawable: int btn_style_alert_dialog_special_pressed
+abc.myexam.R$drawable: int btn_style_one
+abc.myexam.R$drawable: int btn_style_one_disabled
+abc.myexam.R$drawable: int btn_style_one_focused
+abc.myexam.R$drawable: int btn_style_one_normal
+abc.myexam.R$drawable: int btn_style_one_pressed
+abc.myexam.R$drawable: int btn_version_next
+abc.myexam.R$drawable: int collect_button_bg
+abc.myexam.R$drawable: int collect_button_normal
+abc.myexam.R$drawable: int ctck
+abc.myexam.R$drawable: int ctlx
+abc.myexam.R$drawable: int exametime_bg
+abc.myexam.R$drawable: int ic_action_github
+abc.myexam.R$drawable: int ic_action_search
+abc.myexam.R$drawable: int ic_dialog_alert
+abc.myexam.R$drawable: int ic_dialog_long_click
+abc.myexam.R$drawable: int ic_launcher
+abc.myexam.R$drawable: int ic_launcher2
+abc.myexam.R$drawable: int ic_menu_search
+abc.myexam.R$drawable: int ic_preference_first_normal
+abc.myexam.R$drawable: int ic_preference_first_pressed
+abc.myexam.R$drawable: int ic_preference_last_normal
+abc.myexam.R$drawable: int ic_preference_last_pressed
+abc.myexam.R$drawable: int ic_preference_normal
+abc.myexam.R$drawable: int ic_preference_one_normal
+abc.myexam.R$drawable: int ic_preference_one_pressed
+abc.myexam.R$drawable: int ic_preference_pressed
+abc.myexam.R$drawable: int ic_preference_single_normal
+abc.myexam.R$drawable: int ic_preference_single_pressed
+abc.myexam.R$drawable: int ic_preference_top_normal
+abc.myexam.R$drawable: int ic_preference_top_pressed
+abc.myexam.R$drawable: int img1
+abc.myexam.R$drawable: int img2
+abc.myexam.R$drawable: int img3
+abc.myexam.R$drawable: int img4
+abc.myexam.R$drawable: int img5
+abc.myexam.R$drawable: int img6
+abc.myexam.R$drawable: int img_1
+abc.myexam.R$drawable: int img_2
+abc.myexam.R$drawable: int img_3
+abc.myexam.R$drawable: int img_4
+abc.myexam.R$drawable: int img_5
+abc.myexam.R$drawable: int list_selector_background
+abc.myexam.R$drawable: int menu
+abc.myexam.R$drawable: int mm_checkbox_btn
+abc.myexam.R$drawable: int mm_checkbox_mini
+abc.myexam.R$drawable: int mm_checkbox_mini_checked
+abc.myexam.R$drawable: int mm_checkbox_mini_normal
+abc.myexam.R$drawable: int mm_edit
+abc.myexam.R$drawable: int mm_edit_focused
+abc.myexam.R$drawable: int mm_edit_normal
+abc.myexam.R$drawable: int mm_listitem_disable
+abc.myexam.R$drawable: int mm_listitem_normal
+abc.myexam.R$drawable: int mm_listitem_pressed
+abc.myexam.R$drawable: int mm_submenu
+abc.myexam.R$drawable: int mm_submenu_normal
+abc.myexam.R$drawable: int mm_submenu_pressed
+abc.myexam.R$drawable: int mm_title_act_btn_disable
+abc.myexam.R$drawable: int mm_title_act_btn_focused
+abc.myexam.R$drawable: int mm_title_act_btn_normal
+abc.myexam.R$drawable: int mm_title_act_btn_pressed
+abc.myexam.R$drawable: int mm_title_back_focused
+abc.myexam.R$drawable: int mm_title_back_normal
+abc.myexam.R$drawable: int mm_title_back_pressed
+abc.myexam.R$drawable: int mm_title_bg
+abc.myexam.R$drawable: int mm_title_btn_back
+abc.myexam.R$drawable: int mm_title_btn_focused
+abc.myexam.R$drawable: int mm_title_btn_normal
+abc.myexam.R$drawable: int mm_title_btn_pressed
+abc.myexam.R$drawable: int mm_title_btn_right
+abc.myexam.R$drawable: int mm_trans
+abc.myexam.R$drawable: int mnks
+abc.myexam.R$drawable: int my44
+abc.myexam.R$drawable: int my_sousuo
+abc.myexam.R$drawable: int myauthor
+abc.myexam.R$drawable: int next1
+abc.myexam.R$drawable: int next2
+abc.myexam.R$drawable: int pic_line
+abc.myexam.R$drawable: int preference_first_item
+abc.myexam.R$drawable: int preference_item
+abc.myexam.R$drawable: int preference_last_item
+abc.myexam.R$drawable: int preference_one_item
+abc.myexam.R$drawable: int qq
+abc.myexam.R$drawable: int review_email
+abc.myexam.R$drawable: int rootblock_default_bg
+abc.myexam.R$drawable: int rootblock_icon_add
+abc.myexam.R$drawable: int rootblock_icon_add_bg
+abc.myexam.R$drawable: int rootblock_icon_add_selected
+abc.myexam.R$drawable: int rootblock_icon_clear
+abc.myexam.R$drawable: int rootblock_icon_clear_bg
+abc.myexam.R$drawable: int rootblock_icon_clear_selected
+abc.myexam.R$drawable: int rootblock_icon_download
+abc.myexam.R$drawable: int rootblock_icon_download_bg
+abc.myexam.R$drawable: int rootblock_icon_download_selected
+abc.myexam.R$drawable: int rootblock_icon_set
+abc.myexam.R$drawable: int rootblock_icon_set_bg
+abc.myexam.R$drawable: int rootblock_icon_set_selected
+abc.myexam.R$drawable: int send_img
+abc.myexam.R$drawable: int send_music_thumb
+abc.myexam.R$drawable: int send_music_thumb_backup
+abc.myexam.R$drawable: int sjlx
+abc.myexam.R$drawable: int sxlx
+abc.myexam.R$drawable: int title_bg
+abc.myexam.R$drawable: int tkss
+abc.myexam.R$drawable: int yichu
+abc.myexam.R$drawable: int zhuan_dan
+abc.myexam.R$drawable: int zhuan_duo
+abc.myexam.R$drawable: int zhuan_pan
+abc.myexam.R$id: int Button1
+abc.myexam.R$id: int CheckBoxA
+abc.myexam.R$id: int CheckBoxB
+abc.myexam.R$id: int CheckBoxC
+abc.myexam.R$id: int CheckBoxD
+abc.myexam.R$id: int CheckBoxE
+abc.myexam.R$id: int CheckBoxF
+abc.myexam.R$id: int E_MyAnswer
+abc.myexam.R$id: int E_MyTips
+abc.myexam.R$id: int E_answerA
+abc.myexam.R$id: int E_answerB
+abc.myexam.R$id: int E_answerC
+abc.myexam.R$id: int E_answerD
+abc.myexam.R$id: int E_answerE
+abc.myexam.R$id: int E_answerF
+abc.myexam.R$id: int Elenven
+abc.myexam.R$id: int Fifteen
+abc.myexam.R$id: int Furteen
+abc.myexam.R$id: int ImageButton01
+abc.myexam.R$id: int ImageButton05
+abc.myexam.R$id: int ImageButton06
+abc.myexam.R$id: int ImageButton07
+abc.myexam.R$id: int MyAnswer
+abc.myexam.R$id: int MyTips
+abc.myexam.R$id: int Sixteeth
+abc.myexam.R$id: int Ten
+abc.myexam.R$id: int TextEight
+abc.myexam.R$id: int TextElenven
+abc.myexam.R$id: int TextFifteen
+abc.myexam.R$id: int TextFive
+abc.myexam.R$id: int TextFour
+abc.myexam.R$id: int TextFurteen
+abc.myexam.R$id: int TextLeft
+abc.myexam.R$id: int TextNine
+abc.myexam.R$id: int TextOne
+abc.myexam.R$id: int TextRight
+abc.myexam.R$id: int TextSeven
+abc.myexam.R$id: int TextSix
+abc.myexam.R$id: int TextSixteeth
+abc.myexam.R$id: int TextTen
+abc.myexam.R$id: int TextThirteen
+abc.myexam.R$id: int TextThr
+abc.myexam.R$id: int TextTwelve
+abc.myexam.R$id: int TextTwo
+abc.myexam.R$id: int TextView01
+abc.myexam.R$id: int TextView012
+abc.myexam.R$id: int Textdingzhi
+abc.myexam.R$id: int Thirteen
+abc.myexam.R$id: int Twelve
+abc.myexam.R$id: int action_settings
+abc.myexam.R$id: int adLayout
+abc.myexam.R$id: int addWAsetBtn
+abc.myexam.R$id: int authcode_change_btn
+abc.myexam.R$id: int authcode_et
+abc.myexam.R$id: int authcode_iv
+abc.myexam.R$id: int bottom_linearlayout
+abc.myexam.R$id: int btn_exit
+abc.myexam.R$id: int btn_myWAset
+abc.myexam.R$id: int btn_option
+abc.myexam.R$id: int btn_order
+abc.myexam.R$id: int btn_rdm
+abc.myexam.R$id: int btn_return
+abc.myexam.R$id: int btn_savesetting
+abc.myexam.R$id: int btn_test
+abc.myexam.R$id: int button_main_open_left
+abc.myexam.R$id: int button_main_open_right
+abc.myexam.R$id: int checkBtn
+abc.myexam.R$id: int check_timeline_supported_btn
+abc.myexam.R$id: int chk_auto2addWAset
+abc.myexam.R$id: int chk_auto2next
+abc.myexam.R$id: int chk_autocheck
+abc.myexam.R$id: int chk_checkbyrdm
+abc.myexam.R$id: int chk_sound
+abc.myexam.R$id: int content
+abc.myexam.R$id: int content_frame
+abc.myexam.R$id: int content_list
+abc.myexam.R$id: int content_ll
+abc.myexam.R$id: int customFAB2
+abc.myexam.R$id: int cutline
+abc.myexam.R$id: int dingzhi
+abc.myexam.R$id: int edit_table_name
+abc.myexam.R$id: int edittext_container
+abc.myexam.R$id: int eight
+abc.myexam.R$id: int exam_chronometer
+abc.myexam.R$id: int fankuiBtn
+abc.myexam.R$id: int firstDomainMail
+abc.myexam.R$id: int five
+abc.myexam.R$id: int forwordBtn
+abc.myexam.R$id: int four
+abc.myexam.R$id: int fullscreen
+abc.myexam.R$id: int get_appdata
+abc.myexam.R$id: int get_img
+abc.myexam.R$id: int get_music
+abc.myexam.R$id: int get_text
+abc.myexam.R$id: int get_token
+abc.myexam.R$id: int get_video
+abc.myexam.R$id: int get_webpage
+abc.myexam.R$id: int goto_send_btn
+abc.myexam.R$id: int group
+abc.myexam.R$id: int icon_preference_imageview
+abc.myexam.R$id: int image_iv
+abc.myexam.R$id: int imageview
+abc.myexam.R$id: int img1
+abc.myexam.R$id: int img2
+abc.myexam.R$id: int img3
+abc.myexam.R$id: int img4
+abc.myexam.R$id: int img5
+abc.myexam.R$id: int img6
+abc.myexam.R$id: int img_title1
+abc.myexam.R$id: int info_wv
+abc.myexam.R$id: int is_timeline_cb
+abc.myexam.R$id: int launch_wx_btn
+abc.myexam.R$id: int launch_wx_pyq
+abc.myexam.R$id: int launch_wx_wxq
+abc.myexam.R$id: int layoutFifteen
+abc.myexam.R$id: int layout_one
+abc.myexam.R$id: int layoutfive
+abc.myexam.R$id: int layoutfour
+abc.myexam.R$id: int left
+abc.myexam.R$id: int linearLayout1
+abc.myexam.R$id: int list
+abc.myexam.R$id: int listView1
+abc.myexam.R$id: int main_one
+abc.myexam.R$id: int margin
+abc.myexam.R$id: int menu_frame
+abc.myexam.R$id: int menu_frame2
+abc.myexam.R$id: int mm_body_sv
+abc.myexam.R$id: int mm_preference_ll_id
+abc.myexam.R$id: int mm_root_view
+abc.myexam.R$id: int mm_trans_layer
+abc.myexam.R$id: int myScrollView
+abc.myexam.R$id: int myTextdingzhi
+abc.myexam.R$id: int my_author
+abc.myexam.R$id: int nav_title
+abc.myexam.R$id: int nextBtn
+abc.myexam.R$id: int nine
+abc.myexam.R$id: int none
+abc.myexam.R$id: int one
+abc.myexam.R$id: int popup_layout
+abc.myexam.R$id: int popup_text
+abc.myexam.R$id: int pro_text
+abc.myexam.R$id: int promptText
+abc.myexam.R$id: int radioA
+abc.myexam.R$id: int radioB
+abc.myexam.R$id: int radioC
+abc.myexam.R$id: int radioD
+abc.myexam.R$id: int radioE
+abc.myexam.R$id: int radioF
+abc.myexam.R$id: int radioGroup
+abc.myexam.R$id: int refresh_mini_pb
+abc.myexam.R$id: int reg_btn
+abc.myexam.R$id: int result_tv
+abc.myexam.R$id: int right
+abc.myexam.R$id: int search_click
+abc.myexam.R$id: int search_view
+abc.myexam.R$id: int secondDomainMail
+abc.myexam.R$id: int selected_view
+abc.myexam.R$id: int send_appdata
+abc.myexam.R$id: int send_emoji
+abc.myexam.R$id: int send_img
+abc.myexam.R$id: int send_music
+abc.myexam.R$id: int send_text
+abc.myexam.R$id: int send_video
+abc.myexam.R$id: int send_webpage
+abc.myexam.R$id: int sendrequest
+abc.myexam.R$id: int sendrequest_content
+abc.myexam.R$id: int sendrequest_tip
+abc.myexam.R$id: int seven
+abc.myexam.R$id: int six
+abc.myexam.R$id: int slidingMenu
+abc.myexam.R$id: int slidingmenumain
+abc.myexam.R$id: int splashview
+abc.myexam.R$id: int table_del
+abc.myexam.R$id: int table_insert
+abc.myexam.R$id: int table_insert_single
+abc.myexam.R$id: int table_mdf
+abc.myexam.R$id: int table_reset
+abc.myexam.R$id: int textView1
+abc.myexam.R$id: int textView2
+abc.myexam.R$id: int textView3
+abc.myexam.R$id: int text_tv
+abc.myexam.R$id: int thirdDomainMail
+abc.myexam.R$id: int three
+abc.myexam.R$id: int tiganxuhao
+abc.myexam.R$id: int title
+abc.myexam.R$id: int title_btn
+abc.myexam.R$id: int title_btn1
+abc.myexam.R$id: int title_btn4
+abc.myexam.R$id: int title_btn_iv
+abc.myexam.R$id: int title_btn_tv
+abc.myexam.R$id: int title_button
+abc.myexam.R$id: int title_text
+abc.myexam.R$id: int tv
+abc.myexam.R$id: int tv2
+abc.myexam.R$id: int tv3
+abc.myexam.R$id: int tv4
+abc.myexam.R$id: int tv5
+abc.myexam.R$id: int tv6
+abc.myexam.R$id: int two
+abc.myexam.R$id: int unregister
+abc.myexam.R$id: int wacount_text
+abc.myexam.R$id: int walist
+abc.myexam.R$id: int waset_clearall_btn
+abc.myexam.R$id: int waset_return_btn
+abc.myexam.R$integer: int num_cols
+abc.myexam.R$layout: int alert_dialog_menu_layout
+abc.myexam.R$layout: int alert_dialog_menu_list_layout
+abc.myexam.R$layout: int alert_dialog_menu_list_layout_cancel
+abc.myexam.R$layout: int alert_dialog_menu_list_layout_special
+abc.myexam.R$layout: int alert_dialog_menu_list_layout_title
+abc.myexam.R$layout: int content_frame
+abc.myexam.R$layout: int custom_action_bar_layout
+abc.myexam.R$layout: int entry
+abc.myexam.R$layout: int exam_add_table
+abc.myexam.R$layout: int examlayout
+abc.myexam.R$layout: int exerciselayout
+abc.myexam.R$layout: int fragment
+abc.myexam.R$layout: int get_from_wx
+abc.myexam.R$layout: int image_button
+abc.myexam.R$layout: int include_menu_item
+abc.myexam.R$layout: int item_menu
+abc.myexam.R$layout: int layout_content
+abc.myexam.R$layout: int layout_main
+abc.myexam.R$layout: int layout_menu
+abc.myexam.R$layout: int layout_menu2
+abc.myexam.R$layout: int mdf_exam_table
+abc.myexam.R$layout: int menu_frame
+abc.myexam.R$layout: int menu_frame2
+abc.myexam.R$layout: int mm_activity
+abc.myexam.R$layout: int mm_example_ui
+abc.myexam.R$layout: int mm_preference
+abc.myexam.R$layout: int mm_preference_catalog
+abc.myexam.R$layout: int mm_preference_checkbox
+abc.myexam.R$layout: int mm_preference_child
+abc.myexam.R$layout: int mm_preference_content_choice
+abc.myexam.R$layout: int mm_preference_content_domainmail
+abc.myexam.R$layout: int mm_preference_content_domainmaillist
+abc.myexam.R$layout: int mm_preference_content_keyvalue
+abc.myexam.R$layout: int mm_preference_dialog_edittext
+abc.myexam.R$layout: int mm_preference_image
+abc.myexam.R$layout: int mm_preference_info
+abc.myexam.R$layout: int mm_preference_list_content
+abc.myexam.R$layout: int mm_preference_null
+abc.myexam.R$layout: int mm_preference_screen
+abc.myexam.R$layout: int mm_preference_self_vuser
+abc.myexam.R$layout: int mm_preference_submenu
+abc.myexam.R$layout: int mm_preference_widget_empty
+abc.myexam.R$layout: int mm_title
+abc.myexam.R$layout: int my_item
+abc.myexam.R$layout: int my_list_item
+abc.myexam.R$layout: int mydatabase
+abc.myexam.R$layout: int mywrongsetlayout
+abc.myexam.R$layout: int new_exerciselayout
+abc.myexam.R$layout: int operationtablelayout
+abc.myexam.R$layout: int optionlayout
+abc.myexam.R$layout: int search_main
+abc.myexam.R$layout: int security_image
+abc.myexam.R$layout: int send_to_wx
+abc.myexam.R$layout: int sendrequest_dialog
+abc.myexam.R$layout: int show_from_wx
+abc.myexam.R$layout: int slidingmenumain
+abc.myexam.R$layout: int splash_activity
+abc.myexam.R$layout: int title
+abc.myexam.R$layout: int webalert
+abc.myexam.R$menu: int main
+abc.myexam.R$string: int action_settings
+abc.myexam.R$string: int app_back
+abc.myexam.R$string: int app_cancel
+abc.myexam.R$string: int app_continue
+abc.myexam.R$string: int app_delete
+abc.myexam.R$string: int app_edit
+abc.myexam.R$string: int app_find
+abc.myexam.R$string: int app_finish
+abc.myexam.R$string: int app_name
+abc.myexam.R$string: int app_nextstep
+abc.myexam.R$string: int app_ok
+abc.myexam.R$string: int app_prevstep
+abc.myexam.R$string: int app_save
+abc.myexam.R$string: int app_send
+abc.myexam.R$string: int app_set
+abc.myexam.R$string: int app_share
+abc.myexam.R$string: int app_tip
+abc.myexam.R$string: int applet_seccode_fail_tip
+abc.myexam.R$string: int applet_seccode_tip
+abc.myexam.R$string: int applet_secimg_change
+abc.myexam.R$string: int applet_secimg_title
+abc.myexam.R$string: int check_timeline_supported
+abc.myexam.R$string: int enter
+abc.myexam.R$string: int err_getversion
+abc.myexam.R$string: int errcode_cancel
+abc.myexam.R$string: int errcode_deny
+abc.myexam.R$string: int errcode_success
+abc.myexam.R$string: int errcode_unknown
+abc.myexam.R$string: int fmt_afternoon
+abc.myexam.R$string: int fmt_date
+abc.myexam.R$string: int fmt_datetime
+abc.myexam.R$string: int fmt_dawn
+abc.myexam.R$string: int fmt_evening
+abc.myexam.R$string: int fmt_iap_err
+abc.myexam.R$string: int fmt_in60min
+abc.myexam.R$string: int fmt_justnow
+abc.myexam.R$string: int fmt_longdate
+abc.myexam.R$string: int fmt_longtime
+abc.myexam.R$string: int fmt_morning
+abc.myexam.R$string: int fmt_noon
+abc.myexam.R$string: int fmt_patime
+abc.myexam.R$string: int fmt_pre_yesterday
+abc.myexam.R$string: int get_from_wx_title
+abc.myexam.R$string: int goto_send
+abc.myexam.R$string: int hello
+abc.myexam.R$string: int hello_world
+abc.myexam.R$string: int is_timeline
+abc.myexam.R$string: int launch_wx
+abc.myexam.R$string: int prompt_right
+abc.myexam.R$string: int prompt_wrong
+abc.myexam.R$string: int receive
+abc.myexam.R$string: int reg
+abc.myexam.R$string: int register_as_weixin_app_sender
+abc.myexam.R$string: int send
+abc.myexam.R$string: int send_appdata
+abc.myexam.R$string: int send_emoji
+abc.myexam.R$string: int send_img
+abc.myexam.R$string: int send_img_file_not_exist
+abc.myexam.R$string: int send_music
+abc.myexam.R$string: int send_pic
+abc.myexam.R$string: int send_text
+abc.myexam.R$string: int send_text_default
+abc.myexam.R$string: int send_to_wx_title
+abc.myexam.R$string: int send_video
+abc.myexam.R$string: int send_webpage
+abc.myexam.R$string: int share_appdata_to_weixin
+abc.myexam.R$string: int share_music_to_weixin
+abc.myexam.R$string: int share_pic_to_weixin
+abc.myexam.R$string: int share_text_default
+abc.myexam.R$string: int share_text_to_weixin
+abc.myexam.R$string: int share_url_to_weixin
+abc.myexam.R$string: int share_video_to_weixin
+abc.myexam.R$string: int show_from_wx_tip
+abc.myexam.R$string: int show_from_wx_title
+abc.myexam.R$string: int title_search_hint
+abc.myexam.R$string: int verify_password_null_tip
+abc.myexam.R$style: int AppBaseTheme
+abc.myexam.R$style: int AppTheme
+abc.myexam.R$style: int AppTheme1
+abc.myexam.R$style: int ChattingUIContent
+abc.myexam.R$style: int ChattingUIFMessageText
+abc.myexam.R$style: int ChattingUIMailSenderText
+abc.myexam.R$style: int ChattingUISenderText
+abc.myexam.R$style: int ChattingUISplit
+abc.myexam.R$style: int ChattingUISystem
+abc.myexam.R$style: int ChattingUIText
+abc.myexam.R$style: int ChattingUIThumbnail
+abc.myexam.R$style: int ChattingUIVoiceLength
+abc.myexam.R$style: int ChattingUIWordCount
+abc.myexam.R$style: int ChoicePreferenceButton
+abc.myexam.R$style: int DataSheetAnimation
+abc.myexam.R$style: int HyperText
+abc.myexam.R$style: int MMBlock
+abc.myexam.R$style: int MMBody
+abc.myexam.R$style: int MMBriefText
+abc.myexam.R$style: int MMButton
+abc.myexam.R$style: int MMCheckBox
+abc.myexam.R$style: int MMDivider
+abc.myexam.R$style: int MMEditText
+abc.myexam.R$style: int MMFontEmptyMsgLarge
+abc.myexam.R$style: int MMFontPreferenceLarge
+abc.myexam.R$style: int MMFontPreferenceProfile
+abc.myexam.R$style: int MMFontPreferenceSmall
+abc.myexam.R$style: int MMFontPreferenceSummary
+abc.myexam.R$style: int MMFontTimeInList
+abc.myexam.R$style: int MMFontTipInList
+abc.myexam.R$style: int MMFontTitleInList
+abc.myexam.R$style: int MMFooter
+abc.myexam.R$style: int MMFriendListItem
+abc.myexam.R$style: int MMLabel
+abc.myexam.R$style: int MMLabelSplit
+abc.myexam.R$style: int MMLine
+abc.myexam.R$style: int MMLineActionButton
+abc.myexam.R$style: int MMLineButton
+abc.myexam.R$style: int MMLineEditPass
+abc.myexam.R$style: int MMLineEditText
+abc.myexam.R$style: int MMLineLabel
+abc.myexam.R$style: int MMListCatalog
+abc.myexam.R$style: int MMListItem
+abc.myexam.R$style: int MMListView
+abc.myexam.R$style: int MMLogin
+abc.myexam.R$style: int MMMultiLineEditText
+abc.myexam.R$style: int MMPreference
+abc.myexam.R$style: int MMPreference_Catagory
+abc.myexam.R$style: int MMPreference_CheckBoxPreference
+abc.myexam.R$style: int MMPreference_Child
+abc.myexam.R$style: int MMPreference_DialogPreference
+abc.myexam.R$style: int MMPreference_DialogPreference_EditTextPreference
+abc.myexam.R$style: int MMPreference_DialogPreference_YesNoPreference
+abc.myexam.R$style: int MMPreference_Information
+abc.myexam.R$style: int MMPreference_RingtonePreference
+abc.myexam.R$style: int MMPreferenceScreen
+abc.myexam.R$style: int MMPreferenceTextLarge
+abc.myexam.R$style: int MMPreferenceTextSmall
+abc.myexam.R$style: int MMScroll
+abc.myexam.R$style: int MMSplit
+abc.myexam.R$style: int MMTheme_Basic
+abc.myexam.R$style: int MMTheme_DataSheet
+abc.myexam.R$style: int MMTheme_Launcher
+abc.myexam.R$style: int MMTheme_Preference
+abc.myexam.R$style: int MMTheme_Search
+abc.myexam.R$style: int MMTitle
+abc.myexam.R$style: int MMTitleButton
+abc.myexam.R$style: int MMToolbarButton
+abc.myexam.R$style: int NavPage
+abc.myexam.R$style: int noBgFullScreen
+abc.myexam.R$style: int search
+abc.myexam.R$styleable: int[] FAB
+abc.myexam.R$styleable: int FAB_bg_color
+abc.myexam.R$styleable: int FAB_bg_color_pressed
+abc.myexam.R$styleable: int[] SlidingMenu
+abc.myexam.R$styleable: int SlidingMenu_behindOffset
+abc.myexam.R$styleable: int SlidingMenu_behindScrollScale
+abc.myexam.R$styleable: int SlidingMenu_behindWidth
+abc.myexam.R$styleable: int SlidingMenu_fadeDegree
+abc.myexam.R$styleable: int SlidingMenu_fadeEnabled
+abc.myexam.R$styleable: int SlidingMenu_mode
+abc.myexam.R$styleable: int SlidingMenu_selectorDrawable
+abc.myexam.R$styleable: int SlidingMenu_selectorEnabled
+abc.myexam.R$styleable: int SlidingMenu_shadowDrawable
+abc.myexam.R$styleable: int SlidingMenu_shadowWidth
+abc.myexam.R$styleable: int SlidingMenu_touchModeAbove
+abc.myexam.R$styleable: int SlidingMenu_touchModeBehind
+abc.myexam.R$styleable: int SlidingMenu_viewAbove
+abc.myexam.R$styleable: int SlidingMenu_viewBehind
+abc.myexam.R$styleable: int[] SlidingMenuSelf
+abc.myexam.R$styleable: int SlidingMenuSelf_qqRightPadding
+abc.myexam.R$styleable: int SlidingMenuSelf_qqheightPadding
+abc.myexam.Search_Main
+abc.myexam.Search_Main: Search_Main()
+abc.myexam.Search_detail
+abc.myexam.Search_detail: Search_detail()
+abc.myexam.SendToWXActivity
+abc.myexam.SendToWXActivity: SendToWXActivity()
+abc.myexam.ShowFromWXActivity
+abc.myexam.ShowFromWXActivity: ShowFromWXActivity()
+abc.myexam.SplashSpotActivity
+abc.myexam.SplashSpotActivity: SplashSpotActivity()
+abc.myexam.WrongSetShowList
+abc.myexam.WrongSetShowList: WrongSetShowList()
+abc.myexam.wxapi.WXEntryActivity
+abc.myexam.wxapi.WXEntryActivity: WXEntryActivity()
+android.support.v4.app.BackStackState
+android.support.v4.app.BackStackState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.Fragment$SavedState
+android.support.v4.app.Fragment$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.FragmentActivity: FragmentActivity()
+android.support.v4.app.FragmentManagerState
+android.support.v4.app.FragmentManagerState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.FragmentState
+android.support.v4.app.FragmentState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.FragmentTabHost: void setOnTabChangedListener(android.widget.TabHost$OnTabChangeListener)
+android.support.v4.app.FragmentTabHost$SavedState
+android.support.v4.app.FragmentTabHost$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.content.ModernAsyncTask$Status: android.support.v4.content.ModernAsyncTask$Status[] values()
+android.support.v4.content.ModernAsyncTask$Status: android.support.v4.content.ModernAsyncTask$Status valueOf(java.lang.String)
+android.support.v4.media.MediaMetadataCompat
+android.support.v4.media.MediaMetadataCompat: android.os.Parcelable$Creator CREATOR
+android.support.v4.media.RatingCompat
+android.support.v4.media.RatingCompat: android.os.Parcelable$Creator CREATOR
+android.support.v4.media.session.MediaSessionCompat$Token
+android.support.v4.media.session.MediaSessionCompat$Token: android.os.Parcelable$Creator CREATOR
+android.support.v4.media.session.PlaybackStateCompat
+android.support.v4.media.session.PlaybackStateCompat: android.os.Parcelable$Creator CREATOR
+android.support.v4.view.PagerTabStrip: void setTabIndicatorColor(int)
+android.support.v4.view.PagerTabStrip: void setTabIndicatorColorResource(int)
+android.support.v4.view.PagerTabStrip: int getTabIndicatorColor()
+android.support.v4.view.PagerTabStrip: void setTextSpacing(int)
+android.support.v4.view.PagerTabStrip: void setBackgroundDrawable(android.graphics.drawable.Drawable)
+android.support.v4.view.PagerTabStrip: void setBackgroundColor(int)
+android.support.v4.view.PagerTabStrip: void setBackgroundResource(int)
+android.support.v4.view.PagerTabStrip: void setDrawFullUnderline(boolean)
+android.support.v4.view.PagerTabStrip: boolean getDrawFullUnderline()
+android.support.v4.view.PagerTabStrip: int getMinHeight()
+android.support.v4.view.PagerTitleStrip: void setSingleLineAllCaps(android.widget.TextView)
+android.support.v4.view.PagerTitleStrip: void setTextSpacing(int)
+android.support.v4.view.PagerTitleStrip: int getTextSpacing()
+android.support.v4.view.PagerTitleStrip: void setNonPrimaryAlpha(float)
+android.support.v4.view.PagerTitleStrip: void setTextColor(int)
+android.support.v4.view.PagerTitleStrip: void setGravity(int)
+android.support.v4.view.PagerTitleStrip: int getMinHeight()
+android.support.v4.view.ViewPager: void setScrollState(int)
+android.support.v4.view.ViewPager: void setAdapter(android.support.v4.view.PagerAdapter)
+android.support.v4.view.ViewPager: android.support.v4.view.PagerAdapter getAdapter()
+android.support.v4.view.ViewPager: void setOnAdapterChangeListener(android.support.v4.view.ViewPager$OnAdapterChangeListener)
+android.support.v4.view.ViewPager: int getClientWidth()
+android.support.v4.view.ViewPager: void setCurrentItem(int)
+android.support.v4.view.ViewPager: int getCurrentItem()
+android.support.v4.view.ViewPager: void setOnPageChangeListener(android.support.v4.view.ViewPager$OnPageChangeListener)
+android.support.v4.view.ViewPager: void setChildrenDrawingOrderEnabledCompat(boolean)
+android.support.v4.view.ViewPager: int getOffscreenPageLimit()
+android.support.v4.view.ViewPager: void setOffscreenPageLimit(int)
+android.support.v4.view.ViewPager: void setPageMargin(int)
+android.support.v4.view.ViewPager: int getPageMargin()
+android.support.v4.view.ViewPager: void setPageMarginDrawable(android.graphics.drawable.Drawable)
+android.support.v4.view.ViewPager: void setPageMarginDrawable(int)
+android.support.v4.view.ViewPager: void setScrollingCacheEnabled(boolean)
+android.support.v4.view.ViewPager$SavedState
+android.support.v4.view.ViewPager$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.widget.DrawerLayout: void setScrimColor(int)
+android.support.v4.widget.DrawerLayout: void setDrawerListener(android.support.v4.widget.DrawerLayout$DrawerListener)
+android.support.v4.widget.DrawerLayout: void setDrawerLockMode(int)
+android.support.v4.widget.DrawerLayout: void setStatusBarBackground(android.graphics.drawable.Drawable)
+android.support.v4.widget.DrawerLayout: void setStatusBarBackground(int)
+android.support.v4.widget.DrawerLayout: void setStatusBarBackgroundColor(int)
+android.support.v4.widget.DrawerLayout$SavedState
+android.support.v4.widget.DrawerLayout$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.widget.SlidingPaneLayout: void setParallaxDistance(int)
+android.support.v4.widget.SlidingPaneLayout: int getParallaxDistance()
+android.support.v4.widget.SlidingPaneLayout: void setSliderFadeColor(int)
+android.support.v4.widget.SlidingPaneLayout: int getSliderFadeColor()
+android.support.v4.widget.SlidingPaneLayout: void setCoveredFadeColor(int)
+android.support.v4.widget.SlidingPaneLayout: int getCoveredFadeColor()
+android.support.v4.widget.SlidingPaneLayout: void setPanelSlideListener(android.support.v4.widget.SlidingPaneLayout$PanelSlideListener)
+android.support.v4.widget.SlidingPaneLayout: void setShadowDrawable(android.graphics.drawable.Drawable)
+android.support.v4.widget.SlidingPaneLayout: void setShadowDrawableLeft(android.graphics.drawable.Drawable)
+android.support.v4.widget.SlidingPaneLayout: void setShadowDrawableRight(android.graphics.drawable.Drawable)
+android.support.v4.widget.SlidingPaneLayout: void setShadowResource(int)
+android.support.v4.widget.SlidingPaneLayout: void setShadowResourceLeft(int)
+android.support.v4.widget.SlidingPaneLayout: void setShadowResourceRight(int)
+android.support.v4.widget.SlidingPaneLayout$SavedState
+android.support.v4.widget.SlidingPaneLayout$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.widget.SwipeRefreshLayout: void setColorViewAlpha(int)
+android.support.v4.widget.SwipeRefreshLayout: void setSize(int)
+android.support.v4.widget.SwipeRefreshLayout: void setOnRefreshListener(android.support.v4.widget.SwipeRefreshLayout$OnRefreshListener)
+android.support.v4.widget.SwipeRefreshLayout: void setRefreshing(boolean)
+android.support.v4.widget.SwipeRefreshLayout: void setAnimationProgress(float)
+android.support.v4.widget.SwipeRefreshLayout: void setProgressBackgroundColor(int)
+android.support.v4.widget.SwipeRefreshLayout: void setColorScheme(int[])
+android.support.v4.widget.SwipeRefreshLayout: void setColorSchemeResources(int[])
+android.support.v4.widget.SwipeRefreshLayout: void setColorSchemeColors(int[])
+android.support.v4.widget.SwipeRefreshLayout: void setDistanceToTriggerSync(int)
+com.jeremyfeinstein.slidingmenu.lib.CustomViewAbove: void setCurrentItem(int)
+com.jeremyfeinstein.slidingmenu.lib.CustomViewAbove: int getCurrentItem()
+com.jeremyfeinstein.slidingmenu.lib.CustomViewAbove: void setOnPageChangeListener(com.jeremyfeinstein.slidingmenu.lib.CustomViewAbove$OnPageChangeListener)
+com.jeremyfeinstein.slidingmenu.lib.CustomViewAbove: void setOnOpenedListener(com.jeremyfeinstein.slidingmenu.lib.SlidingMenu$OnOpenedListener)
+com.jeremyfeinstein.slidingmenu.lib.CustomViewAbove: void setOnClosedListener(com.jeremyfeinstein.slidingmenu.lib.SlidingMenu$OnClosedListener)
+com.jeremyfeinstein.slidingmenu.lib.CustomViewAbove: int getLeftBound()
+com.jeremyfeinstein.slidingmenu.lib.CustomViewAbove: int getRightBound()
+com.jeremyfeinstein.slidingmenu.lib.CustomViewAbove: int getContentLeft()
+com.jeremyfeinstein.slidingmenu.lib.CustomViewAbove: int getBehindWidth()
+com.jeremyfeinstein.slidingmenu.lib.CustomViewAbove: void setSlidingEnabled(boolean)
+com.jeremyfeinstein.slidingmenu.lib.CustomViewAbove: void setContent(android.view.View)
+com.jeremyfeinstein.slidingmenu.lib.CustomViewAbove: android.view.View getContent()
+com.jeremyfeinstein.slidingmenu.lib.CustomViewAbove: void setCustomViewBehind(com.jeremyfeinstein.slidingmenu.lib.CustomViewBehind)
+com.jeremyfeinstein.slidingmenu.lib.CustomViewAbove: void setAboveOffset(int)
+com.jeremyfeinstein.slidingmenu.lib.CustomViewAbove: void setTouchMode(int)
+com.jeremyfeinstein.slidingmenu.lib.CustomViewAbove: int getTouchMode()
+com.jeremyfeinstein.slidingmenu.lib.CustomViewAbove: float getPercentOpen()
+com.jeremyfeinstein.slidingmenu.lib.CustomViewAbove: void setScrollingCacheEnabled(boolean)
+com.jeremyfeinstein.slidingmenu.lib.CustomViewAbove: void setCanvasTransformer(com.jeremyfeinstein.slidingmenu.lib.SlidingMenu$CanvasTransformer)
+com.jeremyfeinstein.slidingmenu.lib.CustomViewBehind: void setCustomViewAbove(com.jeremyfeinstein.slidingmenu.lib.CustomViewAbove)
+com.jeremyfeinstein.slidingmenu.lib.CustomViewBehind: void setCanvasTransformer(com.jeremyfeinstein.slidingmenu.lib.SlidingMenu$CanvasTransformer)
+com.jeremyfeinstein.slidingmenu.lib.CustomViewBehind: void setWidthOffset(int)
+com.jeremyfeinstein.slidingmenu.lib.CustomViewBehind: void setMarginThreshold(int)
+com.jeremyfeinstein.slidingmenu.lib.CustomViewBehind: int getMarginThreshold()
+com.jeremyfeinstein.slidingmenu.lib.CustomViewBehind: int getBehindWidth()
+com.jeremyfeinstein.slidingmenu.lib.CustomViewBehind: void setContent(android.view.View)
+com.jeremyfeinstein.slidingmenu.lib.CustomViewBehind: android.view.View getContent()
+com.jeremyfeinstein.slidingmenu.lib.CustomViewBehind: void setSecondaryContent(android.view.View)
+com.jeremyfeinstein.slidingmenu.lib.CustomViewBehind: android.view.View getSecondaryContent()
+com.jeremyfeinstein.slidingmenu.lib.CustomViewBehind: void setChildrenEnabled(boolean)
+com.jeremyfeinstein.slidingmenu.lib.CustomViewBehind: void setMode(int)
+com.jeremyfeinstein.slidingmenu.lib.CustomViewBehind: int getMode()
+com.jeremyfeinstein.slidingmenu.lib.CustomViewBehind: void setScrollScale(float)
+com.jeremyfeinstein.slidingmenu.lib.CustomViewBehind: float getScrollScale()
+com.jeremyfeinstein.slidingmenu.lib.CustomViewBehind: void setShadowDrawable(android.graphics.drawable.Drawable)
+com.jeremyfeinstein.slidingmenu.lib.CustomViewBehind: void setSecondaryShadowDrawable(android.graphics.drawable.Drawable)
+com.jeremyfeinstein.slidingmenu.lib.CustomViewBehind: void setShadowWidth(int)
+com.jeremyfeinstein.slidingmenu.lib.CustomViewBehind: void setFadeEnabled(boolean)
+com.jeremyfeinstein.slidingmenu.lib.CustomViewBehind: void setFadeDegree(float)
+com.jeremyfeinstein.slidingmenu.lib.CustomViewBehind: void setTouchMode(int)
+com.jeremyfeinstein.slidingmenu.lib.CustomViewBehind: void setSelectorEnabled(boolean)
+com.jeremyfeinstein.slidingmenu.lib.CustomViewBehind: void setSelectedView(android.view.View)
+com.jeremyfeinstein.slidingmenu.lib.CustomViewBehind: int getSelectorTop()
+com.jeremyfeinstein.slidingmenu.lib.CustomViewBehind: void setSelectorBitmap(android.graphics.Bitmap)
+com.jeremyfeinstein.slidingmenu.lib.R$attr: int behindOffset
+com.jeremyfeinstein.slidingmenu.lib.R$attr: int behindScrollScale
+com.jeremyfeinstein.slidingmenu.lib.R$attr: int behindWidth
+com.jeremyfeinstein.slidingmenu.lib.R$attr: int fadeDegree
+com.jeremyfeinstein.slidingmenu.lib.R$attr: int fadeEnabled
+com.jeremyfeinstein.slidingmenu.lib.R$attr: int mode
+com.jeremyfeinstein.slidingmenu.lib.R$attr: int selectorDrawable
+com.jeremyfeinstein.slidingmenu.lib.R$attr: int selectorEnabled
+com.jeremyfeinstein.slidingmenu.lib.R$attr: int shadowDrawable
+com.jeremyfeinstein.slidingmenu.lib.R$attr: int shadowWidth
+com.jeremyfeinstein.slidingmenu.lib.R$attr: int touchModeAbove
+com.jeremyfeinstein.slidingmenu.lib.R$attr: int touchModeBehind
+com.jeremyfeinstein.slidingmenu.lib.R$attr: int viewAbove
+com.jeremyfeinstein.slidingmenu.lib.R$attr: int viewBehind
+com.jeremyfeinstein.slidingmenu.lib.R$id: int fullscreen
+com.jeremyfeinstein.slidingmenu.lib.R$id: int left
+com.jeremyfeinstein.slidingmenu.lib.R$id: int margin
+com.jeremyfeinstein.slidingmenu.lib.R$id: int none
+com.jeremyfeinstein.slidingmenu.lib.R$id: int right
+com.jeremyfeinstein.slidingmenu.lib.R$id: int selected_view
+com.jeremyfeinstein.slidingmenu.lib.R$id: int slidingmenumain
+com.jeremyfeinstein.slidingmenu.lib.R$layout: int slidingmenumain
+com.jeremyfeinstein.slidingmenu.lib.R$styleable: int[] SlidingMenu
+com.jeremyfeinstein.slidingmenu.lib.R$styleable: int SlidingMenu_behindOffset
+com.jeremyfeinstein.slidingmenu.lib.R$styleable: int SlidingMenu_behindScrollScale
+com.jeremyfeinstein.slidingmenu.lib.R$styleable: int SlidingMenu_behindWidth
+com.jeremyfeinstein.slidingmenu.lib.R$styleable: int SlidingMenu_fadeDegree
+com.jeremyfeinstein.slidingmenu.lib.R$styleable: int SlidingMenu_fadeEnabled
+com.jeremyfeinstein.slidingmenu.lib.R$styleable: int SlidingMenu_mode
+com.jeremyfeinstein.slidingmenu.lib.R$styleable: int SlidingMenu_selectorDrawable
+com.jeremyfeinstein.slidingmenu.lib.R$styleable: int SlidingMenu_selectorEnabled
+com.jeremyfeinstein.slidingmenu.lib.R$styleable: int SlidingMenu_shadowDrawable
+com.jeremyfeinstein.slidingmenu.lib.R$styleable: int SlidingMenu_shadowWidth
+com.jeremyfeinstein.slidingmenu.lib.R$styleable: int SlidingMenu_touchModeAbove
+com.jeremyfeinstein.slidingmenu.lib.R$styleable: int SlidingMenu_touchModeBehind
+com.jeremyfeinstein.slidingmenu.lib.R$styleable: int SlidingMenu_viewAbove
+com.jeremyfeinstein.slidingmenu.lib.R$styleable: int SlidingMenu_viewBehind
+com.jeremyfeinstein.slidingmenu.lib.SlidingMenu
+com.jeremyfeinstein.slidingmenu.lib.SlidingMenu: SlidingMenu(android.content.Context)
+com.jeremyfeinstein.slidingmenu.lib.SlidingMenu: SlidingMenu(android.app.Activity,int)
+com.jeremyfeinstein.slidingmenu.lib.SlidingMenu: SlidingMenu(android.content.Context,android.util.AttributeSet)
+com.jeremyfeinstein.slidingmenu.lib.SlidingMenu: SlidingMenu(android.content.Context,android.util.AttributeSet,int)
+com.jeremyfeinstein.slidingmenu.lib.SlidingMenu: void setContent(int)
+com.jeremyfeinstein.slidingmenu.lib.SlidingMenu: void setContent(android.view.View)
+com.jeremyfeinstein.slidingmenu.lib.SlidingMenu: void setBackgroundImage(int)
+com.jeremyfeinstein.slidingmenu.lib.SlidingMenu: android.view.View getContent()
+com.jeremyfeinstein.slidingmenu.lib.SlidingMenu: void setMenu(int)
+com.jeremyfeinstein.slidingmenu.lib.SlidingMenu: void setMenu(android.view.View)
+com.jeremyfeinstein.slidingmenu.lib.SlidingMenu: android.view.View getMenu()
+com.jeremyfeinstein.slidingmenu.lib.SlidingMenu: void setSecondaryMenu(int)
+com.jeremyfeinstein.slidingmenu.lib.SlidingMenu: void setSecondaryMenu(android.view.View)
+com.jeremyfeinstein.slidingmenu.lib.SlidingMenu: android.view.View getSecondaryMenu()
+com.jeremyfeinstein.slidingmenu.lib.SlidingMenu: void setSlidingEnabled(boolean)
+com.jeremyfeinstein.slidingmenu.lib.SlidingMenu: void setMode(int)
+com.jeremyfeinstein.slidingmenu.lib.SlidingMenu: int getMode()
+com.jeremyfeinstein.slidingmenu.lib.SlidingMenu: void setStatic(boolean)
+com.jeremyfeinstein.slidingmenu.lib.SlidingMenu: int getBehindOffset()
+com.jeremyfeinstein.slidingmenu.lib.SlidingMenu: void setBehindOffset(int)
+com.jeremyfeinstein.slidingmenu.lib.SlidingMenu: void setBehindOffsetRes(int)
+com.jeremyfeinstein.slidingmenu.lib.SlidingMenu: void setAboveOffset(int)
+com.jeremyfeinstein.slidingmenu.lib.SlidingMenu: void setAboveOffsetRes(int)
+com.jeremyfeinstein.slidingmenu.lib.SlidingMenu: void setBehindWidth(int)
+com.jeremyfeinstein.slidingmenu.lib.SlidingMenu: void setBehindWidthRes(int)
+com.jeremyfeinstein.slidingmenu.lib.SlidingMenu: float getBehindScrollScale()
+com.jeremyfeinstein.slidingmenu.lib.SlidingMenu: int getTouchmodeMarginThreshold()
+com.jeremyfeinstein.slidingmenu.lib.SlidingMenu: void setTouchmodeMarginThreshold(int)
+com.jeremyfeinstein.slidingmenu.lib.SlidingMenu: void setBehindScrollScale(float)
+com.jeremyfeinstein.slidingmenu.lib.SlidingMenu: void setBehindCanvasTransformer(com.jeremyfeinstein.slidingmenu.lib.SlidingMenu$CanvasTransformer)
+com.jeremyfeinstein.slidingmenu.lib.SlidingMenu: void setAboveCanvasTransformer(com.jeremyfeinstein.slidingmenu.lib.SlidingMenu$CanvasTransformer)
+com.jeremyfeinstein.slidingmenu.lib.SlidingMenu: int getTouchModeAbove()
+com.jeremyfeinstein.slidingmenu.lib.SlidingMenu: void setTouchModeAbove(int)
+com.jeremyfeinstein.slidingmenu.lib.SlidingMenu: void setTouchModeBehind(int)
+com.jeremyfeinstein.slidingmenu.lib.SlidingMenu: void setShadowDrawable(int)
+com.jeremyfeinstein.slidingmenu.lib.SlidingMenu: void setShadowDrawable(android.graphics.drawable.Drawable)
+com.jeremyfeinstein.slidingmenu.lib.SlidingMenu: void setSecondaryShadowDrawable(int)
+com.jeremyfeinstein.slidingmenu.lib.SlidingMenu: void setSecondaryShadowDrawable(android.graphics.drawable.Drawable)
+com.jeremyfeinstein.slidingmenu.lib.SlidingMenu: void setShadowWidthRes(int)
+com.jeremyfeinstein.slidingmenu.lib.SlidingMenu: void setShadowWidth(int)
+com.jeremyfeinstein.slidingmenu.lib.SlidingMenu: void setFadeEnabled(boolean)
+com.jeremyfeinstein.slidingmenu.lib.SlidingMenu: void setFadeDegree(float)
+com.jeremyfeinstein.slidingmenu.lib.SlidingMenu: void setSelectorEnabled(boolean)
+com.jeremyfeinstein.slidingmenu.lib.SlidingMenu: void setSelectedView(android.view.View)
+com.jeremyfeinstein.slidingmenu.lib.SlidingMenu: void setSelectorDrawable(int)
+com.jeremyfeinstein.slidingmenu.lib.SlidingMenu: void setSelectorBitmap(android.graphics.Bitmap)
+com.jeremyfeinstein.slidingmenu.lib.SlidingMenu: void setOnOpenListener(com.jeremyfeinstein.slidingmenu.lib.SlidingMenu$OnOpenListener)
+com.jeremyfeinstein.slidingmenu.lib.SlidingMenu: void setSecondaryOnOpenListner(com.jeremyfeinstein.slidingmenu.lib.SlidingMenu$OnOpenListener)
+com.jeremyfeinstein.slidingmenu.lib.SlidingMenu: void setOnCloseListener(com.jeremyfeinstein.slidingmenu.lib.SlidingMenu$OnCloseListener)
+com.jeremyfeinstein.slidingmenu.lib.SlidingMenu: void setOnOpenedListener(com.jeremyfeinstein.slidingmenu.lib.SlidingMenu$OnOpenedListener)
+com.jeremyfeinstein.slidingmenu.lib.SlidingMenu: void setOnClosedListener(com.jeremyfeinstein.slidingmenu.lib.SlidingMenu$OnClosedListener)
+com.jeremyfeinstein.slidingmenu.lib.SlidingMenu$SavedState
+com.jeremyfeinstein.slidingmenu.lib.SlidingMenu$SavedState: android.os.Parcelable$Creator CREATOR
+com.jeremyfeinstein.slidingmenu.lib.app.SlidingActivity: void setContentView(android.view.View)
+com.jeremyfeinstein.slidingmenu.lib.app.SlidingActivity: void setBehindContentView(android.view.View)
+com.jeremyfeinstein.slidingmenu.lib.app.SlidingFragmentActivity: SlidingFragmentActivity()
+com.jeremyfeinstein.slidingmenu.lib.app.SlidingFragmentActivity: void setContentView(android.view.View)
+com.jeremyfeinstein.slidingmenu.lib.app.SlidingFragmentActivity: void setBehindContentView(android.view.View)
+com.jeremyfeinstein.slidingmenu.lib.app.SlidingListActivity: void setContentView(android.view.View)
+com.jeremyfeinstein.slidingmenu.lib.app.SlidingListActivity: void setBehindContentView(android.view.View)
+com.jeremyfeinstein.slidingmenu.lib.app.SlidingPreferenceActivity: void setContentView(android.view.View)
+com.jeremyfeinstein.slidingmenu.lib.app.SlidingPreferenceActivity: void setBehindContentView(android.view.View)
+com.tencent.mm.sdk.Build
+com.tencent.mm.sdk.Build: int SDK_INT
+com.tencent.mm.sdk.Build: java.lang.String SDK_VERSION_NAME
+com.tencent.mm.sdk.Build: int TIMELINE_SUPPORTED_SDK_INT
+com.tencent.mm.sdk.Build: int EMOJI_SUPPORTED_SDK_INT
+com.tencent.mm.sdk.Build: Build()
+com.tencent.mm.sdk.BuildConfig
+com.tencent.mm.sdk.BuildConfig: boolean DEBUG
+com.tencent.mm.sdk.BuildConfig: BuildConfig()
+com.tencent.mm.sdk.ConstantsUI
+com.tencent.mm.sdk.ConstantsUI: java.lang.String PREF_FILE_PATH
+com.tencent.mm.sdk.ConstantsUI: ConstantsUI()
+com.tencent.mm.sdk.ConstantsUI$Contact
+com.tencent.mm.sdk.ConstantsUI$Contact: java.lang.String KUser
+com.tencent.mm.sdk.ConstantsUI$Contact: ConstantsUI$Contact()
+com.tencent.mm.sdk.MMAppMgr
+com.tencent.mm.sdk.MMAppMgr: MMAppMgr()
+com.tencent.mm.sdk.MMAppMgr: void activate(boolean)
+com.tencent.mm.sdk.MMAppMgr: android.content.SharedPreferences getSharedPreferences(android.content.Context,int)
+com.tencent.mm.sdk.MMAppMgr: com.tencent.mm.sdk.plugin.IMMPluginAPI getPluginMgr(android.content.Context)
+com.tencent.mm.sdk.MMSharedPreferences
+com.tencent.mm.sdk.MMSharedPreferences: android.content.ContentResolver i
+com.tencent.mm.sdk.MMSharedPreferences: java.lang.String[] columns
+com.tencent.mm.sdk.MMSharedPreferences: java.util.HashMap j
+com.tencent.mm.sdk.MMSharedPreferences: com.tencent.mm.sdk.MMSharedPreferences$REditor k
+com.tencent.mm.sdk.MMSharedPreferences: MMSharedPreferences(android.content.Context)
+com.tencent.mm.sdk.MMSharedPreferences: java.lang.Object getValue(java.lang.String)
+com.tencent.mm.sdk.MMSharedPreferences: java.util.Map getAll()
+com.tencent.mm.sdk.MMSharedPreferences: java.lang.String getString(java.lang.String,java.lang.String)
+com.tencent.mm.sdk.MMSharedPreferences: int getInt(java.lang.String,int)
+com.tencent.mm.sdk.MMSharedPreferences: long getLong(java.lang.String,long)
+com.tencent.mm.sdk.MMSharedPreferences: float getFloat(java.lang.String,float)
+com.tencent.mm.sdk.MMSharedPreferences: boolean getBoolean(java.lang.String,boolean)
+com.tencent.mm.sdk.MMSharedPreferences: boolean contains(java.lang.String)
+com.tencent.mm.sdk.MMSharedPreferences: android.content.SharedPreferences$Editor edit()
+com.tencent.mm.sdk.MMSharedPreferences: void registerOnSharedPreferenceChangeListener(android.content.SharedPreferences$OnSharedPreferenceChangeListener)
+com.tencent.mm.sdk.MMSharedPreferences: void unregisterOnSharedPreferenceChangeListener(android.content.SharedPreferences$OnSharedPreferenceChangeListener)
+com.tencent.mm.sdk.MMSharedPreferences: java.util.Set getStringSet(java.lang.String,java.util.Set)
+com.tencent.mm.sdk.MMSharedPreferences$REditor
+com.tencent.mm.sdk.MMSharedPreferences$REditor: java.util.Map l
+com.tencent.mm.sdk.MMSharedPreferences$REditor: java.util.Set m
+com.tencent.mm.sdk.MMSharedPreferences$REditor: boolean n
+com.tencent.mm.sdk.MMSharedPreferences$REditor: android.content.ContentResolver i
+com.tencent.mm.sdk.MMSharedPreferences$REditor: MMSharedPreferences$REditor(android.content.ContentResolver)
+com.tencent.mm.sdk.MMSharedPreferences$REditor: android.content.SharedPreferences$Editor putString(java.lang.String,java.lang.String)
+com.tencent.mm.sdk.MMSharedPreferences$REditor: android.content.SharedPreferences$Editor putInt(java.lang.String,int)
+com.tencent.mm.sdk.MMSharedPreferences$REditor: android.content.SharedPreferences$Editor putLong(java.lang.String,long)
+com.tencent.mm.sdk.MMSharedPreferences$REditor: android.content.SharedPreferences$Editor putFloat(java.lang.String,float)
+com.tencent.mm.sdk.MMSharedPreferences$REditor: android.content.SharedPreferences$Editor putBoolean(java.lang.String,boolean)
+com.tencent.mm.sdk.MMSharedPreferences$REditor: android.content.SharedPreferences$Editor remove(java.lang.String)
+com.tencent.mm.sdk.MMSharedPreferences$REditor: android.content.SharedPreferences$Editor clear()
+com.tencent.mm.sdk.MMSharedPreferences$REditor: boolean commit()
+com.tencent.mm.sdk.MMSharedPreferences$REditor: void apply()
+com.tencent.mm.sdk.MMSharedPreferences$REditor: android.content.SharedPreferences$Editor putStringSet(java.lang.String,java.util.Set)
+com.tencent.mm.sdk.channel.ConstantsMMessage
+com.tencent.mm.sdk.channel.ConstantsMMessage: java.lang.String APP_PACKAGE
+com.tencent.mm.sdk.channel.ConstantsMMessage: java.lang.String SDK_VERSION
+com.tencent.mm.sdk.channel.ConstantsMMessage: java.lang.String CONTENT
+com.tencent.mm.sdk.channel.ConstantsMMessage: java.lang.String CHECK_SUM
+com.tencent.mm.sdk.channel.ConstantsMMessage: java.lang.String ACTION_MESSAGE
+com.tencent.mm.sdk.channel.ConstantsMMessage: ConstantsMMessage()
+com.tencent.mm.sdk.channel.MMessage
+com.tencent.mm.sdk.channel.MMessage: MMessage()
+com.tencent.mm.sdk.channel.MMessage: boolean send(android.content.Context,java.lang.String,java.lang.String,java.lang.String,android.os.Bundle)
+com.tencent.mm.sdk.channel.MMessage: void send(android.content.Context,java.lang.String,java.lang.String)
+com.tencent.mm.sdk.channel.MMessage: void send(android.content.Context,java.lang.String,java.lang.String,java.lang.String)
+com.tencent.mm.sdk.channel.MMessage$CallBack
+com.tencent.mm.sdk.channel.MMessage$CallBack: void handleMessage(android.content.Intent)
+com.tencent.mm.sdk.channel.MMessage$Receiver
+com.tencent.mm.sdk.channel.MMessage$Receiver: java.util.Map callbacks
+com.tencent.mm.sdk.channel.MMessage$Receiver: com.tencent.mm.sdk.channel.MMessage$CallBack o
+com.tencent.mm.sdk.channel.MMessage$Receiver: MMessage$Receiver()
+com.tencent.mm.sdk.channel.MMessage$Receiver: MMessage$Receiver(com.tencent.mm.sdk.channel.MMessage$CallBack)
+com.tencent.mm.sdk.channel.MMessage$Receiver: void onReceive(android.content.Context,android.content.Intent)
+com.tencent.mm.sdk.channel.MMessage$Receiver: void registerCallBack(java.lang.String,com.tencent.mm.sdk.channel.MMessage$CallBack)
+com.tencent.mm.sdk.channel.MMessage$Receiver: void unregisterCallBack(java.lang.String)
+com.tencent.mm.sdk.channel.MMessage$Receiver: void <clinit>()
+com.tencent.mm.sdk.channel.MMessageAct
+com.tencent.mm.sdk.channel.MMessageAct: MMessageAct()
+com.tencent.mm.sdk.channel.MMessageAct: boolean send(android.content.Context,java.lang.String,java.lang.String,java.lang.String,android.os.Bundle)
+com.tencent.mm.sdk.channel.MMessageAct: boolean send(android.content.Context,java.lang.String,java.lang.String)
+com.tencent.mm.sdk.channel.MMessageAct: boolean send(android.content.Context,java.lang.String,java.lang.String,android.os.Bundle)
+com.tencent.mm.sdk.channel.MMessageAct: boolean sendToWx(android.content.Context,java.lang.String,android.os.Bundle)
+com.tencent.mm.sdk.channel.MMessageAct: boolean sendToWx(android.content.Context,java.lang.String)
+com.tencent.mm.sdk.channel.MMessageUtil
+com.tencent.mm.sdk.channel.MMessageUtil: MMessageUtil()
+com.tencent.mm.sdk.channel.MMessageUtil: byte[] a(java.lang.String,java.lang.String)
+com.tencent.mm.sdk.channel.package-info
+com.tencent.mm.sdk.contact.RContact
+com.tencent.mm.sdk.contact.RContact: java.lang.reflect.Field[] p
+com.tencent.mm.sdk.contact.RContact: java.lang.String[] COLUMNS
+com.tencent.mm.sdk.contact.RContact: java.lang.String COL_USERNAME
+com.tencent.mm.sdk.contact.RContact: java.lang.String COL_ALIAS
+com.tencent.mm.sdk.contact.RContact: java.lang.String COL_CONREMARK
+com.tencent.mm.sdk.contact.RContact: java.lang.String COL_DOMAINLIST
+com.tencent.mm.sdk.contact.RContact: java.lang.String COL_NICKNAME
+com.tencent.mm.sdk.contact.RContact: java.lang.String COL_PYINITIAL
+com.tencent.mm.sdk.contact.RContact: java.lang.String COL_QUANPIN
+com.tencent.mm.sdk.contact.RContact: java.lang.String COL_SHOWHEAD
+com.tencent.mm.sdk.contact.RContact: java.lang.String COL_TYPE
+com.tencent.mm.sdk.contact.RContact: java.lang.String COL_WEIBOFLAG
+com.tencent.mm.sdk.contact.RContact: java.lang.String COL_WEIBONICKNAME
+com.tencent.mm.sdk.contact.RContact: java.lang.String COL_CONREMARK_PYFULL
+com.tencent.mm.sdk.contact.RContact: java.lang.String COL_CONREMARK_PYSHORT
+com.tencent.mm.sdk.contact.RContact: java.lang.String COL_VERIFY_FLAG
+com.tencent.mm.sdk.contact.RContact: long contactId
+com.tencent.mm.sdk.contact.RContact: java.lang.String field_username
+com.tencent.mm.sdk.contact.RContact: java.lang.String field_alias
+com.tencent.mm.sdk.contact.RContact: java.lang.String field_conRemark
+com.tencent.mm.sdk.contact.RContact: java.lang.String field_domainList
+com.tencent.mm.sdk.contact.RContact: java.lang.String field_nickname
+com.tencent.mm.sdk.contact.RContact: java.lang.String field_pyInitial
+com.tencent.mm.sdk.contact.RContact: java.lang.String field_quanPin
+com.tencent.mm.sdk.contact.RContact: int field_showHead
+com.tencent.mm.sdk.contact.RContact: int field_type
+com.tencent.mm.sdk.contact.RContact: int field_weiboFlag
+com.tencent.mm.sdk.contact.RContact: java.lang.String field_weiboNickname
+com.tencent.mm.sdk.contact.RContact: java.lang.String field_conRemarkPYFull
+com.tencent.mm.sdk.contact.RContact: java.lang.String field_conRemarkPYShort
+com.tencent.mm.sdk.contact.RContact: byte[] field_lvbuff
+com.tencent.mm.sdk.contact.RContact: int field_verifyFlag
+com.tencent.mm.sdk.contact.RContact: int q
+com.tencent.mm.sdk.contact.RContact: int r
+com.tencent.mm.sdk.contact.RContact: java.lang.String s
+com.tencent.mm.sdk.contact.RContact: long u
+com.tencent.mm.sdk.contact.RContact: int h
+com.tencent.mm.sdk.contact.RContact: java.lang.String v
+com.tencent.mm.sdk.contact.RContact: java.lang.String w
+com.tencent.mm.sdk.contact.RContact: int x
+com.tencent.mm.sdk.contact.RContact: int y
+com.tencent.mm.sdk.contact.RContact: java.lang.String z
+com.tencent.mm.sdk.contact.RContact: java.lang.String A
+com.tencent.mm.sdk.contact.RContact: int B
+com.tencent.mm.sdk.contact.RContact: int C
+com.tencent.mm.sdk.contact.RContact: java.lang.String D
+com.tencent.mm.sdk.contact.RContact: java.lang.String E
+com.tencent.mm.sdk.contact.RContact: java.lang.String F
+com.tencent.mm.sdk.contact.RContact: java.lang.String G
+com.tencent.mm.sdk.contact.RContact: int H
+com.tencent.mm.sdk.contact.RContact: int I
+com.tencent.mm.sdk.contact.RContact: java.lang.String J
+com.tencent.mm.sdk.contact.RContact: java.lang.String K
+com.tencent.mm.sdk.contact.RContact: java.lang.String L
+com.tencent.mm.sdk.contact.RContact: java.util.Map M
+com.tencent.mm.sdk.contact.RContact: java.util.Map N
+com.tencent.mm.sdk.contact.RContact: int DEL_CONTACT_MSG
+com.tencent.mm.sdk.contact.RContact: int NOT_IN_CHAT_LIST
+com.tencent.mm.sdk.contact.RContact: int FAVOUR_CONTACT_SHOW_HEAD_CODE
+com.tencent.mm.sdk.contact.RContact: java.lang.String FAVOUR_CONTACT_SHOW_HEAD_CHAR
+com.tencent.mm.sdk.contact.RContact: int MM_CONTACTFLAG_NULL
+com.tencent.mm.sdk.contact.RContact: int MM_SEX_UNKNOWN
+com.tencent.mm.sdk.contact.RContact: int MM_SEX_MALE
+com.tencent.mm.sdk.contact.RContact: int MM_SEX_FEMALE
+com.tencent.mm.sdk.contact.RContact: int MM_CONTACT_WEIXIN
+com.tencent.mm.sdk.contact.RContact: int MM_CONTACT_QQMICROBLOG
+com.tencent.mm.sdk.contact.RContact: int MM_CONTACT_CHATROOM
+com.tencent.mm.sdk.contact.RContact: int MM_CONTACT_EMAIL
+com.tencent.mm.sdk.contact.RContact: int MM_CONTACT_QQ
+com.tencent.mm.sdk.contact.RContact: int MM_CONTACT_BOTTLE
+com.tencent.mm.sdk.contact.RContact: int MM_CONTACTFLAG_CONTACT
+com.tencent.mm.sdk.contact.RContact: int MM_CONTACTFLAG_CHATCONTACT
+com.tencent.mm.sdk.contact.RContact: int MM_CONTACTFLAG_CHATROOMCONTACT
+com.tencent.mm.sdk.contact.RContact: int MM_CONTACTFLAG_BLACKLISTCONTACT
+com.tencent.mm.sdk.contact.RContact: int MM_CONTACTFLAG_DOMAINCONTACT
+com.tencent.mm.sdk.contact.RContact: int MM_CONTACTFLAG_HIDECONTACT
+com.tencent.mm.sdk.contact.RContact: int MM_CONTACTFLAG_FAVOURCONTACT
+com.tencent.mm.sdk.contact.RContact: int MM_CONTACTFLAG_ALL
+com.tencent.mm.sdk.contact.RContact: int MM_CONTACTIMGFLAG_NOTMODIFY
+com.tencent.mm.sdk.contact.RContact: int MM_CONTACTIMGFLAG_MODIFY
+com.tencent.mm.sdk.contact.RContact: int MM_CONTACTIMGFLAG_HAS_HEADIMG
+com.tencent.mm.sdk.contact.RContact: int MM_CONTACTIMGFLAG_HAS_NO_HEADIMG
+com.tencent.mm.sdk.contact.RContact: int MM_CONTACTIMGFLAG_LOCAL_EXIST
+com.tencent.mm.sdk.contact.RContact: int COL_ID_INVALID_VALUE
+com.tencent.mm.sdk.contact.RContact: java.lang.reflect.Field[] fields()
+com.tencent.mm.sdk.contact.RContact: void reset()
+com.tencent.mm.sdk.contact.RContact: RContact(java.lang.String)
+com.tencent.mm.sdk.contact.RContact: RContact()
+com.tencent.mm.sdk.contact.RContact: void setHardCodeNickMaps(java.util.Map)
+com.tencent.mm.sdk.contact.RContact: void setHardCodeAliasMaps(java.util.Map)
+com.tencent.mm.sdk.contact.RContact: int calculateShowHead()
+com.tencent.mm.sdk.contact.RContact: void setNullContact()
+com.tencent.mm.sdk.contact.RContact: void setChatroomContact()
+com.tencent.mm.sdk.contact.RContact: void setContact()
+com.tencent.mm.sdk.contact.RContact: void unSetContact()
+com.tencent.mm.sdk.contact.RContact: void setBlackList()
+com.tencent.mm.sdk.contact.RContact: void unSetBlackList()
+com.tencent.mm.sdk.contact.RContact: void setChatContact()
+com.tencent.mm.sdk.contact.RContact: void unSetChatContact()
+com.tencent.mm.sdk.contact.RContact: void setHidden()
+com.tencent.mm.sdk.contact.RContact: void unSetHidden()
+com.tencent.mm.sdk.contact.RContact: void setFavour()
+com.tencent.mm.sdk.contact.RContact: void unSetFavour()
+com.tencent.mm.sdk.contact.RContact: int getContactBit()
+com.tencent.mm.sdk.contact.RContact: int getBlackListContactBit()
+com.tencent.mm.sdk.contact.RContact: int getDomainContactBit()
+com.tencent.mm.sdk.contact.RContact: int getHiddenContactBit()
+com.tencent.mm.sdk.contact.RContact: boolean isContact()
+com.tencent.mm.sdk.contact.RContact: boolean isContact(int)
+com.tencent.mm.sdk.contact.RContact: boolean isChatContact()
+com.tencent.mm.sdk.contact.RContact: boolean isHidden()
+com.tencent.mm.sdk.contact.RContact: boolean isImgLocalExist()
+com.tencent.mm.sdk.contact.RContact: boolean isChatRoomContact()
+com.tencent.mm.sdk.contact.RContact: boolean isBlackListContact()
+com.tencent.mm.sdk.contact.RContact: boolean isDomainContact()
+com.tencent.mm.sdk.contact.RContact: boolean isFavourContact()
+com.tencent.mm.sdk.contact.RContact: boolean isLetter(char)
+com.tencent.mm.sdk.contact.RContact: int getContactID()
+com.tencent.mm.sdk.contact.RContact: int getSex()
+com.tencent.mm.sdk.contact.RContact: void setSex(int)
+com.tencent.mm.sdk.contact.RContact: int getType()
+com.tencent.mm.sdk.contact.RContact: void setType(int)
+com.tencent.mm.sdk.contact.RContact: int getShowHead()
+com.tencent.mm.sdk.contact.RContact: void setShowHead(int)
+com.tencent.mm.sdk.contact.RContact: java.lang.String getUsername()
+com.tencent.mm.sdk.contact.RContact: void setUsername(java.lang.String)
+com.tencent.mm.sdk.contact.RContact: java.lang.String getNickname()
+com.tencent.mm.sdk.contact.RContact: void setNickname(java.lang.String)
+com.tencent.mm.sdk.contact.RContact: java.lang.String getFaceBookUsername()
+com.tencent.mm.sdk.contact.RContact: void setFaceBookUsername(java.lang.String)
+com.tencent.mm.sdk.contact.RContact: long getFaceBookId()
+com.tencent.mm.sdk.contact.RContact: void setFaceBookId(long)
+com.tencent.mm.sdk.contact.RContact: java.lang.String getPyInitial()
+com.tencent.mm.sdk.contact.RContact: void setPyInitial(java.lang.String)
+com.tencent.mm.sdk.contact.RContact: java.lang.String getQuanPin()
+com.tencent.mm.sdk.contact.RContact: void setQuanPin(java.lang.String)
+com.tencent.mm.sdk.contact.RContact: void setAlias(java.lang.String)
+com.tencent.mm.sdk.contact.RContact: java.lang.String getAlias()
+com.tencent.mm.sdk.contact.RContact: java.lang.String getDisplayNick()
+com.tencent.mm.sdk.contact.RContact: java.lang.String getDisplayRemark()
+com.tencent.mm.sdk.contact.RContact: java.lang.String getDisplayUser()
+com.tencent.mm.sdk.contact.RContact: java.lang.String formatDisplayNick(java.lang.String)
+com.tencent.mm.sdk.contact.RContact: int getUin()
+com.tencent.mm.sdk.contact.RContact: java.lang.String getEmail()
+com.tencent.mm.sdk.contact.RContact: java.lang.String getMobile()
+com.tencent.mm.sdk.contact.RContact: int getShowFlag()
+com.tencent.mm.sdk.contact.RContact: int getConType()
+com.tencent.mm.sdk.contact.RContact: java.lang.String getConRemark()
+com.tencent.mm.sdk.contact.RContact: java.lang.String getConRemarkPYShort()
+com.tencent.mm.sdk.contact.RContact: java.lang.String getConRemarkPYFull()
+com.tencent.mm.sdk.contact.RContact: java.lang.String getConSMBlog()
+com.tencent.mm.sdk.contact.RContact: java.lang.String getConQQMBlog()
+com.tencent.mm.sdk.contact.RContact: java.lang.String getDomainList()
+com.tencent.mm.sdk.contact.RContact: int getChatroomNotify()
+com.tencent.mm.sdk.contact.RContact: int getImgFlag()
+com.tencent.mm.sdk.contact.RContact: int getPersonalCard()
+com.tencent.mm.sdk.contact.RContact: void setPersonalCard(int)
+com.tencent.mm.sdk.contact.RContact: java.lang.String getSignature()
+com.tencent.mm.sdk.contact.RContact: void setSignature(java.lang.String)
+com.tencent.mm.sdk.contact.RContact: java.lang.String getProvince()
+com.tencent.mm.sdk.contact.RContact: void setProvince(java.lang.String)
+com.tencent.mm.sdk.contact.RContact: java.lang.String getCity()
+com.tencent.mm.sdk.contact.RContact: void setCity(java.lang.String)
+com.tencent.mm.sdk.contact.RContact: void setDistance(java.lang.String)
+com.tencent.mm.sdk.contact.RContact: java.lang.String getDistance()
+com.tencent.mm.sdk.contact.RContact: void setFromType(int)
+com.tencent.mm.sdk.contact.RContact: int getFromType()
+com.tencent.mm.sdk.contact.RContact: void setSource(int)
+com.tencent.mm.sdk.contact.RContact: int getSource()
+com.tencent.mm.sdk.contact.RContact: void setWeibo(java.lang.String)
+com.tencent.mm.sdk.contact.RContact: java.lang.String getWeibo()
+com.tencent.mm.sdk.contact.RContact: int getWeiboFlag()
+com.tencent.mm.sdk.contact.RContact: void setWeiboFlag(int)
+com.tencent.mm.sdk.contact.RContact: java.lang.String getWeiboNickName()
+com.tencent.mm.sdk.contact.RContact: void setWeiboNickName(java.lang.String)
+com.tencent.mm.sdk.contact.RContact: void setUin(int)
+com.tencent.mm.sdk.contact.RContact: void setEmail(java.lang.String)
+com.tencent.mm.sdk.contact.RContact: void setMobile(java.lang.String)
+com.tencent.mm.sdk.contact.RContact: void setShowFlag(int)
+com.tencent.mm.sdk.contact.RContact: void setConType(int)
+com.tencent.mm.sdk.contact.RContact: void setConRemark(java.lang.String)
+com.tencent.mm.sdk.contact.RContact: void setConRemarkPYShort(java.lang.String)
+com.tencent.mm.sdk.contact.RContact: void setConRemarkPYFull(java.lang.String)
+com.tencent.mm.sdk.contact.RContact: void setConSMBlog(java.lang.String)
+com.tencent.mm.sdk.contact.RContact: void setConQQMBlog(java.lang.String)
+com.tencent.mm.sdk.contact.RContact: void setDomainList(java.lang.String)
+com.tencent.mm.sdk.contact.RContact: void setChatroomNotify(int)
+com.tencent.mm.sdk.contact.RContact: void setImgFlag(int)
+com.tencent.mm.sdk.contact.RContact: int getVerifyFlag()
+com.tencent.mm.sdk.contact.RContact: void setVerifyFlag(int)
+com.tencent.mm.sdk.contact.RContact: java.lang.String getVerifyInfo()
+com.tencent.mm.sdk.contact.RContact: void setVerifyInfo(java.lang.String)
+com.tencent.mm.sdk.contact.RContact: java.lang.String getRegionCode()
+com.tencent.mm.sdk.contact.RContact: void setRegionCode(java.lang.String)
+com.tencent.mm.sdk.contact.RContact: byte[] a()
+com.tencent.mm.sdk.contact.RContact: void convertFrom(android.database.Cursor)
+com.tencent.mm.sdk.contact.RContact: android.content.ContentValues convertTo()
+com.tencent.mm.sdk.contact.RContact: void <clinit>()
+com.tencent.mm.sdk.contact.RContactAvatar
+com.tencent.mm.sdk.contact.RContactAvatar: RContactAvatar()
+com.tencent.mm.sdk.contact.RContactDB
+com.tencent.mm.sdk.contact.RContactDB: java.util.Map O
+com.tencent.mm.sdk.contact.RContactDB: RContactDB(android.content.Context)
+com.tencent.mm.sdk.contact.RContactDB: android.net.Uri getUriFromTable(java.lang.String)
+com.tencent.mm.sdk.contact.RContactDB: void <clinit>()
+com.tencent.mm.sdk.contact.RContactStorage
+com.tencent.mm.sdk.contact.RContactStorage: java.lang.String AUTHORITY
+com.tencent.mm.sdk.contact.RContactStorage: java.lang.String TABLE
+com.tencent.mm.sdk.contact.RContactStorage: java.lang.String PRIMARY_KEY
+com.tencent.mm.sdk.contact.RContactStorage: com.tencent.mm.sdk.contact.RContactStorage create(android.content.Context)
+com.tencent.mm.sdk.contact.RContactStorage: RContactStorage(com.tencent.mm.sdk.storage.ISQLiteDatabase)
+com.tencent.mm.sdk.contact.RContactStorage: java.lang.String getTableName()
+com.tencent.mm.sdk.contact.RContactStorage: java.lang.String getPrimaryKey()
+com.tencent.mm.sdk.contact.RContactStorage: java.lang.String[] getColumns()
+com.tencent.mm.sdk.contact.RContactStorage: com.tencent.mm.sdk.contact.RContact get(java.lang.String)
+com.tencent.mm.sdk.contact.package-info
+com.tencent.mm.sdk.conversation.RConversation
+com.tencent.mm.sdk.conversation.RConversation: java.lang.reflect.Field[] p
+com.tencent.mm.sdk.conversation.RConversation: java.lang.String[] COLUMNS
+com.tencent.mm.sdk.conversation.RConversation: int NOT_SHOWN_TIPS
+com.tencent.mm.sdk.conversation.RConversation: int HAS_SHOWN_TIPS
+com.tencent.mm.sdk.conversation.RConversation: int FLAG_NORMAL
+com.tencent.mm.sdk.conversation.RConversation: int ROOM_MUTE_ON
+com.tencent.mm.sdk.conversation.RConversation: int ROOM_MUTE_OFF
+com.tencent.mm.sdk.conversation.RConversation: int field_unReadCount
+com.tencent.mm.sdk.conversation.RConversation: int field_chatmode
+com.tencent.mm.sdk.conversation.RConversation: int field_status
+com.tencent.mm.sdk.conversation.RConversation: int field_isSend
+com.tencent.mm.sdk.conversation.RConversation: long field_conversationTime
+com.tencent.mm.sdk.conversation.RConversation: java.lang.String field_username
+com.tencent.mm.sdk.conversation.RConversation: java.lang.String field_content
+com.tencent.mm.sdk.conversation.RConversation: java.lang.String field_msgType
+com.tencent.mm.sdk.conversation.RConversation: java.lang.String field_customNotify
+com.tencent.mm.sdk.conversation.RConversation: int field_showTips
+com.tencent.mm.sdk.conversation.RConversation: long field_flag
+com.tencent.mm.sdk.conversation.RConversation: int COL_UNREAD_COUNT_INVALID_VALUE
+com.tencent.mm.sdk.conversation.RConversation: int INDEX_UNREAD_COUNT
+com.tencent.mm.sdk.conversation.RConversation: int INDEX_STATUE
+com.tencent.mm.sdk.conversation.RConversation: int INDEX_IS_SEND
+com.tencent.mm.sdk.conversation.RConversation: int INDEX_CONVERSATION_TIME
+com.tencent.mm.sdk.conversation.RConversation: int INDEX_USERNAME
+com.tencent.mm.sdk.conversation.RConversation: int INDEX_CONTENT
+com.tencent.mm.sdk.conversation.RConversation: int INDEX_MSGTYPE
+com.tencent.mm.sdk.conversation.RConversation: int INDEX_FLAG
+com.tencent.mm.sdk.conversation.RConversation: java.lang.String OLD_TABLE
+com.tencent.mm.sdk.conversation.RConversation: java.lang.String OLD_BOTTLE_TABLE
+com.tencent.mm.sdk.conversation.RConversation: java.lang.String COL_UNREAD_COUNT
+com.tencent.mm.sdk.conversation.RConversation: java.lang.String COL_CHATMODE
+com.tencent.mm.sdk.conversation.RConversation: java.lang.String COL_STATUS
+com.tencent.mm.sdk.conversation.RConversation: java.lang.String COL_IS_SEND
+com.tencent.mm.sdk.conversation.RConversation: java.lang.String COL_CONVERSATION_TIME
+com.tencent.mm.sdk.conversation.RConversation: java.lang.String COL_USERNAME
+com.tencent.mm.sdk.conversation.RConversation: java.lang.String COL_CONTENT
+com.tencent.mm.sdk.conversation.RConversation: java.lang.String COL_MSGTYPE
+com.tencent.mm.sdk.conversation.RConversation: java.lang.String COL_FLAG
+com.tencent.mm.sdk.conversation.RConversation: long MAX_TIME
+com.tencent.mm.sdk.conversation.RConversation: java.lang.reflect.Field[] fields()
+com.tencent.mm.sdk.conversation.RConversation: java.lang.reflect.Field[] getFields()
+com.tencent.mm.sdk.conversation.RConversation: RConversation()
+com.tencent.mm.sdk.conversation.RConversation: RConversation(java.lang.String)
+com.tencent.mm.sdk.conversation.RConversation: int getUnReadCount()
+com.tencent.mm.sdk.conversation.RConversation: void setUnReadCount(int)
+com.tencent.mm.sdk.conversation.RConversation: int getStatus()
+com.tencent.mm.sdk.conversation.RConversation: void setStatus(int)
+com.tencent.mm.sdk.conversation.RConversation: int getIsSend()
+com.tencent.mm.sdk.conversation.RConversation: void setIsSend(int)
+com.tencent.mm.sdk.conversation.RConversation: int getChatmode()
+com.tencent.mm.sdk.conversation.RConversation: void setChatmode(int)
+com.tencent.mm.sdk.conversation.RConversation: long getConversationTime()
+com.tencent.mm.sdk.conversation.RConversation: void setConversationTime(long)
+com.tencent.mm.sdk.conversation.RConversation: java.lang.String getUsername()
+com.tencent.mm.sdk.conversation.RConversation: void setUsername(java.lang.String)
+com.tencent.mm.sdk.conversation.RConversation: java.lang.String getCustomNotify()
+com.tencent.mm.sdk.conversation.RConversation: void setCustomNotify(java.lang.String)
+com.tencent.mm.sdk.conversation.RConversation: java.lang.String getContent()
+com.tencent.mm.sdk.conversation.RConversation: void setContent(java.lang.String)
+com.tencent.mm.sdk.conversation.RConversation: java.lang.String getMsgType()
+com.tencent.mm.sdk.conversation.RConversation: void setMsgType(java.lang.String)
+com.tencent.mm.sdk.conversation.RConversation: int getShowTips()
+com.tencent.mm.sdk.conversation.RConversation: void setShowTips(int)
+com.tencent.mm.sdk.conversation.RConversation: long getFlag()
+com.tencent.mm.sdk.conversation.RConversation: void setFlag(long)
+com.tencent.mm.sdk.conversation.RConversation: void <clinit>()
+com.tencent.mm.sdk.conversation.RConversationDB
+com.tencent.mm.sdk.conversation.RConversationDB: java.util.Map O
+com.tencent.mm.sdk.conversation.RConversationDB: RConversationDB(android.content.Context)
+com.tencent.mm.sdk.conversation.RConversationDB: android.net.Uri getUriFromTable(java.lang.String)
+com.tencent.mm.sdk.conversation.RConversationDB: void <clinit>()
+com.tencent.mm.sdk.conversation.RConversationStorage
+com.tencent.mm.sdk.conversation.RConversationStorage: java.lang.String AUTHORITY
+com.tencent.mm.sdk.conversation.RConversationStorage: java.lang.String TABLE
+com.tencent.mm.sdk.conversation.RConversationStorage: java.lang.String PRIMARY_KEY
+com.tencent.mm.sdk.conversation.RConversationStorage: com.tencent.mm.sdk.conversation.RConversationStorage create(android.content.Context)
+com.tencent.mm.sdk.conversation.RConversationStorage: RConversationStorage(com.tencent.mm.sdk.storage.ISQLiteDatabase)
+com.tencent.mm.sdk.conversation.RConversationStorage: java.lang.String getTableName()
+com.tencent.mm.sdk.conversation.RConversationStorage: java.lang.String getPrimaryKey()
+com.tencent.mm.sdk.conversation.RConversationStorage: java.lang.String[] getColumns()
+com.tencent.mm.sdk.conversation.RConversationStorage: com.tencent.mm.sdk.conversation.RConversation get(java.lang.String)
+com.tencent.mm.sdk.conversation.package-info
+com.tencent.mm.sdk.message.RMsgInfo
+com.tencent.mm.sdk.message.RMsgInfo: java.lang.reflect.Field[] p
+com.tencent.mm.sdk.message.RMsgInfo: java.lang.String[] COLUMNS
+com.tencent.mm.sdk.message.RMsgInfo: long field_msgId
+com.tencent.mm.sdk.message.RMsgInfo: int field_msgSvrId
+com.tencent.mm.sdk.message.RMsgInfo: int field_type
+com.tencent.mm.sdk.message.RMsgInfo: int field_status
+com.tencent.mm.sdk.message.RMsgInfo: int field_isSend
+com.tencent.mm.sdk.message.RMsgInfo: int field_isShowTimer
+com.tencent.mm.sdk.message.RMsgInfo: long field_createTime
+com.tencent.mm.sdk.message.RMsgInfo: java.lang.String field_talker
+com.tencent.mm.sdk.message.RMsgInfo: java.lang.String field_content
+com.tencent.mm.sdk.message.RMsgInfo: java.lang.String field_imgPath
+com.tencent.mm.sdk.message.RMsgInfo: java.lang.String field_reserved
+com.tencent.mm.sdk.message.RMsgInfo: byte[] field_lvBuffer
+com.tencent.mm.sdk.message.RMsgInfo: java.lang.String commentUrl
+com.tencent.mm.sdk.message.RMsgInfo: java.lang.String COL_ID
+com.tencent.mm.sdk.message.RMsgInfo: java.lang.String COL_ID_SVR
+com.tencent.mm.sdk.message.RMsgInfo: java.lang.String COL_TYPE
+com.tencent.mm.sdk.message.RMsgInfo: java.lang.String COL_STATUS
+com.tencent.mm.sdk.message.RMsgInfo: java.lang.String COL_IS_SEND
+com.tencent.mm.sdk.message.RMsgInfo: java.lang.String COL_IS_SHOWTIMER
+com.tencent.mm.sdk.message.RMsgInfo: java.lang.String COL_CREATE_TIME
+com.tencent.mm.sdk.message.RMsgInfo: java.lang.String COL_TALKER
+com.tencent.mm.sdk.message.RMsgInfo: java.lang.String COL_CONTENT
+com.tencent.mm.sdk.message.RMsgInfo: java.lang.String COL_IMG_PATH
+com.tencent.mm.sdk.message.RMsgInfo: java.lang.String COL_RESERVED
+com.tencent.mm.sdk.message.RMsgInfo: java.lang.String COL_LVBUFFER
+com.tencent.mm.sdk.message.RMsgInfo: java.lang.reflect.Field[] fields()
+com.tencent.mm.sdk.message.RMsgInfo: RMsgInfo()
+com.tencent.mm.sdk.message.RMsgInfo: RMsgInfo(long)
+com.tencent.mm.sdk.message.RMsgInfo: RMsgInfo(java.lang.String)
+com.tencent.mm.sdk.message.RMsgInfo: void <clinit>()
+com.tencent.mm.sdk.message.RMsgInfoDB
+com.tencent.mm.sdk.message.RMsgInfoDB: java.util.Map O
+com.tencent.mm.sdk.message.RMsgInfoDB: java.lang.String TABLE
+com.tencent.mm.sdk.message.RMsgInfoDB: RMsgInfoDB(android.content.Context)
+com.tencent.mm.sdk.message.RMsgInfoDB: android.net.Uri getUriFromTable(java.lang.String)
+com.tencent.mm.sdk.message.RMsgInfoDB: void <clinit>()
+com.tencent.mm.sdk.message.RMsgInfoStorage
+com.tencent.mm.sdk.message.RMsgInfoStorage: java.lang.String AUTHORITY
+com.tencent.mm.sdk.message.RMsgInfoStorage: java.lang.String PRIMARY_KEY
+com.tencent.mm.sdk.message.RMsgInfoStorage: com.tencent.mm.sdk.storage.ISQLiteDatabase P
+com.tencent.mm.sdk.message.RMsgInfoStorage: com.tencent.mm.sdk.message.RMsgInfoStorage create(android.content.Context)
+com.tencent.mm.sdk.message.RMsgInfoStorage: RMsgInfoStorage(com.tencent.mm.sdk.storage.ISQLiteDatabase)
+com.tencent.mm.sdk.message.RMsgInfoStorage: long doInsert(com.tencent.mm.sdk.message.RMsgInfo)
+com.tencent.mm.sdk.message.RMsgInfoStorage: int doDelete(long)
+com.tencent.mm.sdk.message.RMsgInfoStorage: int doUpdate(long,com.tencent.mm.sdk.message.RMsgInfo)
+com.tencent.mm.sdk.message.RMsgInfoStorage: com.tencent.mm.sdk.message.RMsgInfo getMsgById(long)
+com.tencent.mm.sdk.message.RMsgInfoStorage: android.database.Cursor getMsgByTalker(java.lang.String)
+com.tencent.mm.sdk.openapi.BaseReq
+com.tencent.mm.sdk.openapi.BaseReq: java.lang.String transaction
+com.tencent.mm.sdk.openapi.BaseReq: BaseReq()
+com.tencent.mm.sdk.openapi.BaseReq: int getType()
+com.tencent.mm.sdk.openapi.BaseReq: void toBundle(android.os.Bundle)
+com.tencent.mm.sdk.openapi.BaseReq: void fromBundle(android.os.Bundle)
+com.tencent.mm.sdk.openapi.BaseReq: boolean checkArgs()
+com.tencent.mm.sdk.openapi.BaseResp
+com.tencent.mm.sdk.openapi.BaseResp: int errCode
+com.tencent.mm.sdk.openapi.BaseResp: java.lang.String errStr
+com.tencent.mm.sdk.openapi.BaseResp: java.lang.String transaction
+com.tencent.mm.sdk.openapi.BaseResp: BaseResp()
+com.tencent.mm.sdk.openapi.BaseResp: int getType()
+com.tencent.mm.sdk.openapi.BaseResp: void toBundle(android.os.Bundle)
+com.tencent.mm.sdk.openapi.BaseResp: void fromBundle(android.os.Bundle)
+com.tencent.mm.sdk.openapi.BaseResp: boolean checkArgs()
+com.tencent.mm.sdk.openapi.BaseResp$ErrCode
+com.tencent.mm.sdk.openapi.BaseResp$ErrCode: int ERR_OK
+com.tencent.mm.sdk.openapi.BaseResp$ErrCode: int ERR_COMM
+com.tencent.mm.sdk.openapi.BaseResp$ErrCode: int ERR_USER_CANCEL
+com.tencent.mm.sdk.openapi.BaseResp$ErrCode: int ERR_SENT_FAILED
+com.tencent.mm.sdk.openapi.BaseResp$ErrCode: int ERR_AUTH_DENIED
+com.tencent.mm.sdk.openapi.BaseResp$ErrCode: int ERR_UNSUPPORT
+com.tencent.mm.sdk.openapi.ConstantsAPI
+com.tencent.mm.sdk.openapi.ConstantsAPI: java.lang.String ACTION_HANDLE_APP_REGISTER
+com.tencent.mm.sdk.openapi.ConstantsAPI: java.lang.String ACTION_HANDLE_APP_UNREGISTER
+com.tencent.mm.sdk.openapi.ConstantsAPI: java.lang.String ACTION_REFRESH_WXAPP
+com.tencent.mm.sdk.openapi.ConstantsAPI: int COMMAND_UNKNOWN
+com.tencent.mm.sdk.openapi.ConstantsAPI: int COMMAND_SENDAUTH
+com.tencent.mm.sdk.openapi.ConstantsAPI: int COMMAND_SENDMESSAGE_TO_WX
+com.tencent.mm.sdk.openapi.ConstantsAPI: int COMMAND_GETMESSAGE_FROM_WX
+com.tencent.mm.sdk.openapi.ConstantsAPI: int COMMAND_SHOWMESSAGE_FROM_WX
+com.tencent.mm.sdk.openapi.ConstantsAPI: java.lang.String WX_TOKEN_KEY
+com.tencent.mm.sdk.openapi.ConstantsAPI: java.lang.String WX_TOKEN_VALUE
+com.tencent.mm.sdk.openapi.GetMessageFromWX
+com.tencent.mm.sdk.openapi.GetMessageFromWX: GetMessageFromWX()
+com.tencent.mm.sdk.openapi.GetMessageFromWX$Req
+com.tencent.mm.sdk.openapi.GetMessageFromWX$Req: java.lang.String username
+com.tencent.mm.sdk.openapi.GetMessageFromWX$Req: GetMessageFromWX$Req()
+com.tencent.mm.sdk.openapi.GetMessageFromWX$Req: GetMessageFromWX$Req(android.os.Bundle)
+com.tencent.mm.sdk.openapi.GetMessageFromWX$Req: int getType()
+com.tencent.mm.sdk.openapi.GetMessageFromWX$Req: void toBundle(android.os.Bundle)
+com.tencent.mm.sdk.openapi.GetMessageFromWX$Req: void fromBundle(android.os.Bundle)
+com.tencent.mm.sdk.openapi.GetMessageFromWX$Req: boolean checkArgs()
+com.tencent.mm.sdk.openapi.GetMessageFromWX$Resp
+com.tencent.mm.sdk.openapi.GetMessageFromWX$Resp: com.tencent.mm.sdk.openapi.WXMediaMessage message
+com.tencent.mm.sdk.openapi.GetMessageFromWX$Resp: GetMessageFromWX$Resp()
+com.tencent.mm.sdk.openapi.GetMessageFromWX$Resp: GetMessageFromWX$Resp(android.os.Bundle)
+com.tencent.mm.sdk.openapi.GetMessageFromWX$Resp: int getType()
+com.tencent.mm.sdk.openapi.GetMessageFromWX$Resp: void fromBundle(android.os.Bundle)
+com.tencent.mm.sdk.openapi.GetMessageFromWX$Resp: void toBundle(android.os.Bundle)
+com.tencent.mm.sdk.openapi.GetMessageFromWX$Resp: boolean checkArgs()
+com.tencent.mm.sdk.openapi.IWXAPI
+com.tencent.mm.sdk.openapi.IWXAPI: boolean registerApp(java.lang.String)
+com.tencent.mm.sdk.openapi.IWXAPI: void unregisterApp()
+com.tencent.mm.sdk.openapi.IWXAPI: boolean handleIntent(android.content.Intent,com.tencent.mm.sdk.openapi.IWXAPIEventHandler)
+com.tencent.mm.sdk.openapi.IWXAPI: boolean isWXAppInstalled()
+com.tencent.mm.sdk.openapi.IWXAPI: boolean isWXAppSupportAPI()
+com.tencent.mm.sdk.openapi.IWXAPI: int getWXAppSupportAPI()
+com.tencent.mm.sdk.openapi.IWXAPI: boolean openWXApp()
+com.tencent.mm.sdk.openapi.IWXAPI: boolean sendReq(com.tencent.mm.sdk.openapi.BaseReq)
+com.tencent.mm.sdk.openapi.IWXAPI: boolean sendResp(com.tencent.mm.sdk.openapi.BaseResp)
+com.tencent.mm.sdk.openapi.IWXAPIEventHandler
+com.tencent.mm.sdk.openapi.IWXAPIEventHandler: void onReq(com.tencent.mm.sdk.openapi.BaseReq)
+com.tencent.mm.sdk.openapi.IWXAPIEventHandler: void onResp(com.tencent.mm.sdk.openapi.BaseResp)
+com.tencent.mm.sdk.openapi.SendAuth
+com.tencent.mm.sdk.openapi.SendAuth: SendAuth()
+com.tencent.mm.sdk.openapi.SendAuth$Req
+com.tencent.mm.sdk.openapi.SendAuth$Req: java.lang.String scope
+com.tencent.mm.sdk.openapi.SendAuth$Req: java.lang.String state
+com.tencent.mm.sdk.openapi.SendAuth$Req: SendAuth$Req()
+com.tencent.mm.sdk.openapi.SendAuth$Req: SendAuth$Req(android.os.Bundle)
+com.tencent.mm.sdk.openapi.SendAuth$Req: int getType()
+com.tencent.mm.sdk.openapi.SendAuth$Req: void fromBundle(android.os.Bundle)
+com.tencent.mm.sdk.openapi.SendAuth$Req: void toBundle(android.os.Bundle)
+com.tencent.mm.sdk.openapi.SendAuth$Req: boolean checkArgs()
+com.tencent.mm.sdk.openapi.SendAuth$Resp
+com.tencent.mm.sdk.openapi.SendAuth$Resp: java.lang.String userName
+com.tencent.mm.sdk.openapi.SendAuth$Resp: java.lang.String token
+com.tencent.mm.sdk.openapi.SendAuth$Resp: int expireDate
+com.tencent.mm.sdk.openapi.SendAuth$Resp: java.lang.String state
+com.tencent.mm.sdk.openapi.SendAuth$Resp: java.lang.String resultUrl
+com.tencent.mm.sdk.openapi.SendAuth$Resp: SendAuth$Resp()
+com.tencent.mm.sdk.openapi.SendAuth$Resp: SendAuth$Resp(android.os.Bundle)
+com.tencent.mm.sdk.openapi.SendAuth$Resp: int getType()
+com.tencent.mm.sdk.openapi.SendAuth$Resp: void fromBundle(android.os.Bundle)
+com.tencent.mm.sdk.openapi.SendAuth$Resp: void toBundle(android.os.Bundle)
+com.tencent.mm.sdk.openapi.SendAuth$Resp: boolean checkArgs()
+com.tencent.mm.sdk.openapi.SendMessageToWX
+com.tencent.mm.sdk.openapi.SendMessageToWX: SendMessageToWX()
+com.tencent.mm.sdk.openapi.SendMessageToWX$Req
+com.tencent.mm.sdk.openapi.SendMessageToWX$Req: int WXSceneSession
+com.tencent.mm.sdk.openapi.SendMessageToWX$Req: int WXSceneTimeline
+com.tencent.mm.sdk.openapi.SendMessageToWX$Req: com.tencent.mm.sdk.openapi.WXMediaMessage message
+com.tencent.mm.sdk.openapi.SendMessageToWX$Req: int scene
+com.tencent.mm.sdk.openapi.SendMessageToWX$Req: SendMessageToWX$Req()
+com.tencent.mm.sdk.openapi.SendMessageToWX$Req: SendMessageToWX$Req(android.os.Bundle)
+com.tencent.mm.sdk.openapi.SendMessageToWX$Req: int getType()
+com.tencent.mm.sdk.openapi.SendMessageToWX$Req: void fromBundle(android.os.Bundle)
+com.tencent.mm.sdk.openapi.SendMessageToWX$Req: void toBundle(android.os.Bundle)
+com.tencent.mm.sdk.openapi.SendMessageToWX$Req: boolean checkArgs()
+com.tencent.mm.sdk.openapi.SendMessageToWX$Resp
+com.tencent.mm.sdk.openapi.SendMessageToWX$Resp: SendMessageToWX$Resp()
+com.tencent.mm.sdk.openapi.SendMessageToWX$Resp: SendMessageToWX$Resp(android.os.Bundle)
+com.tencent.mm.sdk.openapi.SendMessageToWX$Resp: int getType()
+com.tencent.mm.sdk.openapi.SendMessageToWX$Resp: void fromBundle(android.os.Bundle)
+com.tencent.mm.sdk.openapi.SendMessageToWX$Resp: void toBundle(android.os.Bundle)
+com.tencent.mm.sdk.openapi.SendMessageToWX$Resp: boolean checkArgs()
+com.tencent.mm.sdk.openapi.ShowMessageFromWX
+com.tencent.mm.sdk.openapi.ShowMessageFromWX: ShowMessageFromWX()
+com.tencent.mm.sdk.openapi.ShowMessageFromWX$Req
+com.tencent.mm.sdk.openapi.ShowMessageFromWX$Req: com.tencent.mm.sdk.openapi.WXMediaMessage message
+com.tencent.mm.sdk.openapi.ShowMessageFromWX$Req: ShowMessageFromWX$Req()
+com.tencent.mm.sdk.openapi.ShowMessageFromWX$Req: ShowMessageFromWX$Req(android.os.Bundle)
+com.tencent.mm.sdk.openapi.ShowMessageFromWX$Req: int getType()
+com.tencent.mm.sdk.openapi.ShowMessageFromWX$Req: void toBundle(android.os.Bundle)
+com.tencent.mm.sdk.openapi.ShowMessageFromWX$Req: void fromBundle(android.os.Bundle)
+com.tencent.mm.sdk.openapi.ShowMessageFromWX$Req: boolean checkArgs()
+com.tencent.mm.sdk.openapi.ShowMessageFromWX$Resp
+com.tencent.mm.sdk.openapi.ShowMessageFromWX$Resp: ShowMessageFromWX$Resp()
+com.tencent.mm.sdk.openapi.ShowMessageFromWX$Resp: ShowMessageFromWX$Resp(android.os.Bundle)
+com.tencent.mm.sdk.openapi.ShowMessageFromWX$Resp: int getType()
+com.tencent.mm.sdk.openapi.ShowMessageFromWX$Resp: boolean checkArgs()
+com.tencent.mm.sdk.openapi.WXAPIFactory
+com.tencent.mm.sdk.openapi.WXAPIFactory: com.tencent.mm.sdk.openapi.WXAPIFactory Q
+com.tencent.mm.sdk.openapi.WXAPIFactory: WXAPIFactory()
+com.tencent.mm.sdk.openapi.WXAPIFactory: com.tencent.mm.sdk.openapi.IWXAPI createWXAPI(android.content.Context,java.lang.String)
+com.tencent.mm.sdk.openapi.WXAPIFactory: com.tencent.mm.sdk.openapi.IWXAPI createWXAPI(android.content.Context,java.lang.String,boolean)
+com.tencent.mm.sdk.openapi.WXAPIFactory: void <clinit>()
+com.tencent.mm.sdk.openapi.WXApiImplV10
+com.tencent.mm.sdk.openapi.WXApiImplV10: android.content.Context R
+com.tencent.mm.sdk.openapi.WXApiImplV10: java.lang.String S
+com.tencent.mm.sdk.openapi.WXApiImplV10: boolean T
+com.tencent.mm.sdk.openapi.WXApiImplV10: WXApiImplV10(android.content.Context,java.lang.String)
+com.tencent.mm.sdk.openapi.WXApiImplV10: WXApiImplV10(android.content.Context,java.lang.String,boolean)
+com.tencent.mm.sdk.openapi.WXApiImplV10: boolean registerApp(java.lang.String)
+com.tencent.mm.sdk.openapi.WXApiImplV10: void unregisterApp()
+com.tencent.mm.sdk.openapi.WXApiImplV10: boolean handleIntent(android.content.Intent,com.tencent.mm.sdk.openapi.IWXAPIEventHandler)
+com.tencent.mm.sdk.openapi.WXApiImplV10: boolean isWXAppInstalled()
+com.tencent.mm.sdk.openapi.WXApiImplV10: boolean isWXAppSupportAPI()
+com.tencent.mm.sdk.openapi.WXApiImplV10: int getWXAppSupportAPI()
+com.tencent.mm.sdk.openapi.WXApiImplV10: boolean openWXApp()
+com.tencent.mm.sdk.openapi.WXApiImplV10: boolean sendReq(com.tencent.mm.sdk.openapi.BaseReq)
+com.tencent.mm.sdk.openapi.WXApiImplV10: boolean sendResp(com.tencent.mm.sdk.openapi.BaseResp)
+com.tencent.mm.sdk.openapi.WXApiImplV10: boolean a(java.lang.String)
+com.tencent.mm.sdk.openapi.WXApiImplV10: boolean a(android.content.pm.Signature[])
+com.tencent.mm.sdk.openapi.WXApiImplV10: boolean a(byte[],byte[])
+com.tencent.mm.sdk.openapi.WXAppExtendObject
+com.tencent.mm.sdk.openapi.WXAppExtendObject: java.lang.String extInfo
+com.tencent.mm.sdk.openapi.WXAppExtendObject: java.lang.String filePath
+com.tencent.mm.sdk.openapi.WXAppExtendObject: byte[] fileData
+com.tencent.mm.sdk.openapi.WXAppExtendObject: WXAppExtendObject()
+com.tencent.mm.sdk.openapi.WXAppExtendObject: WXAppExtendObject(java.lang.String,byte[])
+com.tencent.mm.sdk.openapi.WXAppExtendObject: WXAppExtendObject(java.lang.String,java.lang.String)
+com.tencent.mm.sdk.openapi.WXAppExtendObject: void serialize(android.os.Bundle)
+com.tencent.mm.sdk.openapi.WXAppExtendObject: void unserialize(android.os.Bundle)
+com.tencent.mm.sdk.openapi.WXAppExtendObject: int type()
+com.tencent.mm.sdk.openapi.WXAppExtendObject: boolean checkArgs()
+com.tencent.mm.sdk.openapi.WXAppLaunchData
+com.tencent.mm.sdk.openapi.WXAppLaunchData: java.lang.String ACTION_HANDLE_WXAPPLAUNCH
+com.tencent.mm.sdk.openapi.WXAppLaunchData: java.lang.String ACTION_HANDLE_WXAPP_RESULT
+com.tencent.mm.sdk.openapi.WXAppLaunchData: java.lang.String ACTION_HANDLE_WXAPP_SHOW
+com.tencent.mm.sdk.openapi.WXAppLaunchData: int launchType
+com.tencent.mm.sdk.openapi.WXAppLaunchData: java.lang.String message
+com.tencent.mm.sdk.openapi.WXAppLaunchData: WXAppLaunchData()
+com.tencent.mm.sdk.openapi.WXAppLaunchData$Builder
+com.tencent.mm.sdk.openapi.WXAppLaunchData$Builder: WXAppLaunchData$Builder()
+com.tencent.mm.sdk.openapi.WXAppLaunchData$Builder: com.tencent.mm.sdk.openapi.WXAppLaunchData fromBundle(android.os.Bundle)
+com.tencent.mm.sdk.openapi.WXAppLaunchData$Builder: android.os.Bundle toBundle(com.tencent.mm.sdk.openapi.WXAppLaunchData)
+com.tencent.mm.sdk.openapi.WXEmojiObject
+com.tencent.mm.sdk.openapi.WXEmojiObject: byte[] emojiData
+com.tencent.mm.sdk.openapi.WXEmojiObject: java.lang.String emojiPath
+com.tencent.mm.sdk.openapi.WXEmojiObject: WXEmojiObject()
+com.tencent.mm.sdk.openapi.WXEmojiObject: WXEmojiObject(byte[])
+com.tencent.mm.sdk.openapi.WXEmojiObject: WXEmojiObject(java.lang.String)
+com.tencent.mm.sdk.openapi.WXEmojiObject: void setEmojiData(byte[])
+com.tencent.mm.sdk.openapi.WXEmojiObject: void setEmojiPath(java.lang.String)
+com.tencent.mm.sdk.openapi.WXEmojiObject: void serialize(android.os.Bundle)
+com.tencent.mm.sdk.openapi.WXEmojiObject: void unserialize(android.os.Bundle)
+com.tencent.mm.sdk.openapi.WXEmojiObject: int type()
+com.tencent.mm.sdk.openapi.WXEmojiObject: boolean checkArgs()
+com.tencent.mm.sdk.openapi.WXFileObject
+com.tencent.mm.sdk.openapi.WXFileObject: byte[] fileData
+com.tencent.mm.sdk.openapi.WXFileObject: java.lang.String filePath
+com.tencent.mm.sdk.openapi.WXFileObject: WXFileObject()
+com.tencent.mm.sdk.openapi.WXFileObject: WXFileObject(byte[])
+com.tencent.mm.sdk.openapi.WXFileObject: WXFileObject(java.lang.String)
+com.tencent.mm.sdk.openapi.WXFileObject: void setFileData(byte[])
+com.tencent.mm.sdk.openapi.WXFileObject: void setFilePath(java.lang.String)
+com.tencent.mm.sdk.openapi.WXFileObject: void serialize(android.os.Bundle)
+com.tencent.mm.sdk.openapi.WXFileObject: void unserialize(android.os.Bundle)
+com.tencent.mm.sdk.openapi.WXFileObject: int type()
+com.tencent.mm.sdk.openapi.WXFileObject: boolean checkArgs()
+com.tencent.mm.sdk.openapi.WXImageObject
+com.tencent.mm.sdk.openapi.WXImageObject: byte[] imageData
+com.tencent.mm.sdk.openapi.WXImageObject: java.lang.String imagePath
+com.tencent.mm.sdk.openapi.WXImageObject: java.lang.String imageUrl
+com.tencent.mm.sdk.openapi.WXImageObject: WXImageObject()
+com.tencent.mm.sdk.openapi.WXImageObject: WXImageObject(byte[])
+com.tencent.mm.sdk.openapi.WXImageObject: WXImageObject(android.graphics.Bitmap)
+com.tencent.mm.sdk.openapi.WXImageObject: void setImagePath(java.lang.String)
+com.tencent.mm.sdk.openapi.WXImageObject: void serialize(android.os.Bundle)
+com.tencent.mm.sdk.openapi.WXImageObject: void unserialize(android.os.Bundle)
+com.tencent.mm.sdk.openapi.WXImageObject: int type()
+com.tencent.mm.sdk.openapi.WXImageObject: boolean checkArgs()
+com.tencent.mm.sdk.openapi.WXMediaMessage
+com.tencent.mm.sdk.openapi.WXMediaMessage: java.lang.String ACTION_WXAPPMESSAGE
+com.tencent.mm.sdk.openapi.WXMediaMessage: int sdkVer
+com.tencent.mm.sdk.openapi.WXMediaMessage: java.lang.String title
+com.tencent.mm.sdk.openapi.WXMediaMessage: java.lang.String description
+com.tencent.mm.sdk.openapi.WXMediaMessage: byte[] thumbData
+com.tencent.mm.sdk.openapi.WXMediaMessage: com.tencent.mm.sdk.openapi.WXMediaMessage$IMediaObject mediaObject
+com.tencent.mm.sdk.openapi.WXMediaMessage: WXMediaMessage()
+com.tencent.mm.sdk.openapi.WXMediaMessage: WXMediaMessage(com.tencent.mm.sdk.openapi.WXMediaMessage$IMediaObject)
+com.tencent.mm.sdk.openapi.WXMediaMessage: int getType()
+com.tencent.mm.sdk.openapi.WXMediaMessage: void setThumbImage(android.graphics.Bitmap)
+com.tencent.mm.sdk.openapi.WXMediaMessage: boolean checkArgs()
+com.tencent.mm.sdk.openapi.WXMediaMessage$Builder
+com.tencent.mm.sdk.openapi.WXMediaMessage$Builder: java.lang.String KEY_IDENTIFIER
+com.tencent.mm.sdk.openapi.WXMediaMessage$Builder: WXMediaMessage$Builder()
+com.tencent.mm.sdk.openapi.WXMediaMessage$Builder: android.os.Bundle toBundle(com.tencent.mm.sdk.openapi.WXMediaMessage)
+com.tencent.mm.sdk.openapi.WXMediaMessage$Builder: com.tencent.mm.sdk.openapi.WXMediaMessage fromBundle(android.os.Bundle)
+com.tencent.mm.sdk.openapi.WXMediaMessage$IMediaObject
+com.tencent.mm.sdk.openapi.WXMediaMessage$IMediaObject: int TYPE_UNKNOWN
+com.tencent.mm.sdk.openapi.WXMediaMessage$IMediaObject: int TYPE_TEXT
+com.tencent.mm.sdk.openapi.WXMediaMessage$IMediaObject: int TYPE_IMAGE
+com.tencent.mm.sdk.openapi.WXMediaMessage$IMediaObject: int TYPE_MUSIC
+com.tencent.mm.sdk.openapi.WXMediaMessage$IMediaObject: int TYPE_VIDEO
+com.tencent.mm.sdk.openapi.WXMediaMessage$IMediaObject: int TYPE_URL
+com.tencent.mm.sdk.openapi.WXMediaMessage$IMediaObject: int TYPE_FILE
+com.tencent.mm.sdk.openapi.WXMediaMessage$IMediaObject: int TYPE_APPDATA
+com.tencent.mm.sdk.openapi.WXMediaMessage$IMediaObject: int TYPE_EMOJI
+com.tencent.mm.sdk.openapi.WXMediaMessage$IMediaObject: void serialize(android.os.Bundle)
+com.tencent.mm.sdk.openapi.WXMediaMessage$IMediaObject: void unserialize(android.os.Bundle)
+com.tencent.mm.sdk.openapi.WXMediaMessage$IMediaObject: int type()
+com.tencent.mm.sdk.openapi.WXMediaMessage$IMediaObject: boolean checkArgs()
+com.tencent.mm.sdk.openapi.WXMusicObject
+com.tencent.mm.sdk.openapi.WXMusicObject: java.lang.String musicUrl
+com.tencent.mm.sdk.openapi.WXMusicObject: java.lang.String musicLowBandUrl
+com.tencent.mm.sdk.openapi.WXMusicObject: WXMusicObject()
+com.tencent.mm.sdk.openapi.WXMusicObject: void serialize(android.os.Bundle)
+com.tencent.mm.sdk.openapi.WXMusicObject: void unserialize(android.os.Bundle)
+com.tencent.mm.sdk.openapi.WXMusicObject: int type()
+com.tencent.mm.sdk.openapi.WXMusicObject: boolean checkArgs()
+com.tencent.mm.sdk.openapi.WXTextObject
+com.tencent.mm.sdk.openapi.WXTextObject: java.lang.String text
+com.tencent.mm.sdk.openapi.WXTextObject: WXTextObject()
+com.tencent.mm.sdk.openapi.WXTextObject: WXTextObject(java.lang.String)
+com.tencent.mm.sdk.openapi.WXTextObject: void serialize(android.os.Bundle)
+com.tencent.mm.sdk.openapi.WXTextObject: void unserialize(android.os.Bundle)
+com.tencent.mm.sdk.openapi.WXTextObject: int type()
+com.tencent.mm.sdk.openapi.WXTextObject: boolean checkArgs()
+com.tencent.mm.sdk.openapi.WXVideoObject
+com.tencent.mm.sdk.openapi.WXVideoObject: java.lang.String videoUrl
+com.tencent.mm.sdk.openapi.WXVideoObject: java.lang.String videoLowBandUrl
+com.tencent.mm.sdk.openapi.WXVideoObject: WXVideoObject()
+com.tencent.mm.sdk.openapi.WXVideoObject: void serialize(android.os.Bundle)
+com.tencent.mm.sdk.openapi.WXVideoObject: void unserialize(android.os.Bundle)
+com.tencent.mm.sdk.openapi.WXVideoObject: int type()
+com.tencent.mm.sdk.openapi.WXVideoObject: boolean checkArgs()
+com.tencent.mm.sdk.openapi.WXWebpageObject
+com.tencent.mm.sdk.openapi.WXWebpageObject: java.lang.String webpageUrl
+com.tencent.mm.sdk.openapi.WXWebpageObject: WXWebpageObject()
+com.tencent.mm.sdk.openapi.WXWebpageObject: WXWebpageObject(java.lang.String)
+com.tencent.mm.sdk.openapi.WXWebpageObject: void serialize(android.os.Bundle)
+com.tencent.mm.sdk.openapi.WXWebpageObject: void unserialize(android.os.Bundle)
+com.tencent.mm.sdk.openapi.WXWebpageObject: int type()
+com.tencent.mm.sdk.openapi.WXWebpageObject: boolean checkArgs()
+com.tencent.mm.sdk.openapi.package-info
+com.tencent.mm.sdk.package-info
+com.tencent.mm.sdk.platformtools.AnimationHelperImpl21below
+com.tencent.mm.sdk.platformtools.AnimationHelperImpl21below: AnimationHelperImpl21below()
+com.tencent.mm.sdk.platformtools.AnimationHelperImpl21below: void cancelAnimation(android.view.View,android.view.animation.Animation)
+com.tencent.mm.sdk.platformtools.AnimationHelperImpl22
+com.tencent.mm.sdk.platformtools.AnimationHelperImpl22: AnimationHelperImpl22()
+com.tencent.mm.sdk.platformtools.AnimationHelperImpl22: void cancelAnimation(android.view.View,android.view.animation.Animation)
+com.tencent.mm.sdk.platformtools.BackwardSupportUtil
+com.tencent.mm.sdk.platformtools.BackwardSupportUtil: BackwardSupportUtil()
+com.tencent.mm.sdk.platformtools.BackwardSupportUtil$AnimationHelper
+com.tencent.mm.sdk.platformtools.BackwardSupportUtil$AnimationHelper: BackwardSupportUtil$AnimationHelper()
+com.tencent.mm.sdk.platformtools.BackwardSupportUtil$AnimationHelper: void cancelAnimation(android.view.View,android.view.animation.Animation)
+com.tencent.mm.sdk.platformtools.BackwardSupportUtil$AnimationHelper: void overridePendingTransition(android.app.Activity,int,int)
+com.tencent.mm.sdk.platformtools.BackwardSupportUtil$AnimationHelper$IHelper
+com.tencent.mm.sdk.platformtools.BackwardSupportUtil$AnimationHelper$IHelper: void cancelAnimation(android.view.View,android.view.animation.Animation)
+com.tencent.mm.sdk.platformtools.BackwardSupportUtil$BitmapFactory
+com.tencent.mm.sdk.platformtools.BackwardSupportUtil$BitmapFactory: BackwardSupportUtil$BitmapFactory()
+com.tencent.mm.sdk.platformtools.BackwardSupportUtil$BitmapFactory: android.graphics.Bitmap decodeFile(java.lang.String,float)
+com.tencent.mm.sdk.platformtools.BackwardSupportUtil$BitmapFactory: int fromDPToPix(android.content.Context,float)
+com.tencent.mm.sdk.platformtools.BackwardSupportUtil$BitmapFactory: android.graphics.Bitmap decodeStream(java.io.InputStream)
+com.tencent.mm.sdk.platformtools.BackwardSupportUtil$BitmapFactory: android.graphics.Bitmap decodeStream(java.io.InputStream,float)
+com.tencent.mm.sdk.platformtools.BackwardSupportUtil$BitmapFactory: java.lang.String getDisplayDensityType(android.content.Context)
+com.tencent.mm.sdk.platformtools.BackwardSupportUtil$BitmapFactory: android.graphics.Bitmap getBitmapFromURL(java.lang.String)
+com.tencent.mm.sdk.platformtools.BackwardSupportUtil$ExifHelper
+com.tencent.mm.sdk.platformtools.BackwardSupportUtil$ExifHelper: BackwardSupportUtil$ExifHelper()
+com.tencent.mm.sdk.platformtools.BackwardSupportUtil$ExifHelper: int getExifOrientation(java.lang.String)
+com.tencent.mm.sdk.platformtools.BackwardSupportUtil$SmoothScrollFactory
+com.tencent.mm.sdk.platformtools.BackwardSupportUtil$SmoothScrollFactory: BackwardSupportUtil$SmoothScrollFactory()
+com.tencent.mm.sdk.platformtools.BackwardSupportUtil$SmoothScrollFactory: void scrollToTop(android.widget.ListView)
+com.tencent.mm.sdk.platformtools.BackwardSupportUtil$SmoothScrollFactory: void scrollTo(android.widget.ListView,int)
+com.tencent.mm.sdk.platformtools.BackwardSupportUtil$SmoothScrollFactory$IScroll
+com.tencent.mm.sdk.platformtools.BackwardSupportUtil$SmoothScrollFactory$IScroll: void doScroll(android.widget.ListView)
+com.tencent.mm.sdk.platformtools.BackwardSupportUtil$SmoothScrollFactory$IScroll: void doScroll(android.widget.ListView,int)
+com.tencent.mm.sdk.platformtools.ChannelUtil
+com.tencent.mm.sdk.platformtools.ChannelUtil: int FLAG_UPDATE_EXTERNAL
+com.tencent.mm.sdk.platformtools.ChannelUtil: int FLAG_UPDATE_NOTIP
+com.tencent.mm.sdk.platformtools.ChannelUtil: int FLAG_NULL
+com.tencent.mm.sdk.platformtools.ChannelUtil: int channelId
+com.tencent.mm.sdk.platformtools.ChannelUtil: java.lang.String profileDeviceType
+com.tencent.mm.sdk.platformtools.ChannelUtil: int updateMode
+com.tencent.mm.sdk.platformtools.ChannelUtil: int buildRev
+com.tencent.mm.sdk.platformtools.ChannelUtil: java.lang.String marketURL
+com.tencent.mm.sdk.platformtools.ChannelUtil: boolean fullVersionInfo
+com.tencent.mm.sdk.platformtools.ChannelUtil: ChannelUtil()
+com.tencent.mm.sdk.platformtools.ChannelUtil: void setupChannelId(android.content.Context)
+com.tencent.mm.sdk.platformtools.ChannelUtil: void loadProfile(android.content.Context)
+com.tencent.mm.sdk.platformtools.ChannelUtil: java.lang.String formatVersion(android.content.Context,int)
+com.tencent.mm.sdk.platformtools.ChannelUtil: void <clinit>()
+com.tencent.mm.sdk.platformtools.CharSequences
+com.tencent.mm.sdk.platformtools.CharSequences: CharSequences()
+com.tencent.mm.sdk.platformtools.CharSequences: java.lang.CharSequence forAsciiBytes(byte[])
+com.tencent.mm.sdk.platformtools.CharSequences: java.lang.CharSequence forAsciiBytes(byte[],int,int)
+com.tencent.mm.sdk.platformtools.CharSequences: void a(int,int,int)
+com.tencent.mm.sdk.platformtools.CharSequences: boolean equals(java.lang.CharSequence,java.lang.CharSequence)
+com.tencent.mm.sdk.platformtools.CharSequences: int compareToIgnoreCase(java.lang.CharSequence,java.lang.CharSequence)
+com.tencent.mm.sdk.platformtools.CharSequences$1
+com.tencent.mm.sdk.platformtools.CharSequences$1: byte[] U
+com.tencent.mm.sdk.platformtools.CharSequences$1: CharSequences$1(byte[])
+com.tencent.mm.sdk.platformtools.CharSequences$1: char charAt(int)
+com.tencent.mm.sdk.platformtools.CharSequences$1: int length()
+com.tencent.mm.sdk.platformtools.CharSequences$1: java.lang.CharSequence subSequence(int,int)
+com.tencent.mm.sdk.platformtools.CharSequences$1: java.lang.String toString()
+com.tencent.mm.sdk.platformtools.CharSequences$2
+com.tencent.mm.sdk.platformtools.CharSequences$2: byte[] U
+com.tencent.mm.sdk.platformtools.CharSequences$2: int V
+com.tencent.mm.sdk.platformtools.CharSequences$2: int W
+com.tencent.mm.sdk.platformtools.CharSequences$2: CharSequences$2(byte[],int,int)
+com.tencent.mm.sdk.platformtools.CharSequences$2: char charAt(int)
+com.tencent.mm.sdk.platformtools.CharSequences$2: int length()
+com.tencent.mm.sdk.platformtools.CharSequences$2: java.lang.CharSequence subSequence(int,int)
+com.tencent.mm.sdk.platformtools.CharSequences$2: java.lang.String toString()
+com.tencent.mm.sdk.platformtools.InetUtil
+com.tencent.mm.sdk.platformtools.InetUtil: java.util.regex.Pattern X
+com.tencent.mm.sdk.platformtools.InetUtil: java.util.regex.Pattern Y
+com.tencent.mm.sdk.platformtools.InetUtil: java.util.regex.Pattern Z
+com.tencent.mm.sdk.platformtools.InetUtil: InetUtil()
+com.tencent.mm.sdk.platformtools.InetUtil: boolean isIPv4Address(java.lang.String)
+com.tencent.mm.sdk.platformtools.InetUtil: boolean isIPv6StdAddress(java.lang.String)
+com.tencent.mm.sdk.platformtools.InetUtil: boolean isIPv6HexCompressedAddress(java.lang.String)
+com.tencent.mm.sdk.platformtools.InetUtil: boolean isIPv6Address(java.lang.String)
+com.tencent.mm.sdk.platformtools.InetUtil: java.net.InetAddress getByDottedAddress(java.lang.String)
+com.tencent.mm.sdk.platformtools.InetUtil: void <clinit>()
+com.tencent.mm.sdk.platformtools.KVConfig
+com.tencent.mm.sdk.platformtools.KVConfig: boolean aa
+com.tencent.mm.sdk.platformtools.KVConfig: KVConfig()
+com.tencent.mm.sdk.platformtools.KVConfig: java.util.Map parseIni(java.lang.String)
+com.tencent.mm.sdk.platformtools.KVConfig: java.util.Map parseXml(java.lang.String,java.lang.String,java.lang.String)
+com.tencent.mm.sdk.platformtools.KVConfig: void a(java.util.Map,java.lang.String,org.w3c.dom.Node,int)
+com.tencent.mm.sdk.platformtools.KVConfig: void a(java.util.Map)
+com.tencent.mm.sdk.platformtools.KVConfig: void <clinit>()
+com.tencent.mm.sdk.platformtools.LBSManager
+com.tencent.mm.sdk.platformtools.LBSManager: java.lang.String FILTER_GPS
+com.tencent.mm.sdk.platformtools.LBSManager: float INVALID_LAT
+com.tencent.mm.sdk.platformtools.LBSManager: float INVALID_LNG
+com.tencent.mm.sdk.platformtools.LBSManager: int INVALID_ACC
+com.tencent.mm.sdk.platformtools.LBSManager: int MM_SOURCE_HARDWARE
+com.tencent.mm.sdk.platformtools.LBSManager: int MM_SOURCE_NET
+com.tencent.mm.sdk.platformtools.LBSManager: int MM_SOURCE_REPORT_HARWARE
+com.tencent.mm.sdk.platformtools.LBSManager: int MM_SOURCE_REPORT_NETWORK
+com.tencent.mm.sdk.platformtools.LBSManager: com.tencent.mm.sdk.platformtools.LBSManager$LocationCache ab
+com.tencent.mm.sdk.platformtools.LBSManager: com.tencent.mm.sdk.platformtools.LBSManager$OnLocationGotListener ac
+com.tencent.mm.sdk.platformtools.LBSManager: android.location.LocationManager ad
+com.tencent.mm.sdk.platformtools.LBSManager: android.content.Context R
+com.tencent.mm.sdk.platformtools.LBSManager: android.app.PendingIntent ae
+com.tencent.mm.sdk.platformtools.LBSManager: boolean af
+com.tencent.mm.sdk.platformtools.LBSManager: boolean ag
+com.tencent.mm.sdk.platformtools.LBSManager: boolean ah
+com.tencent.mm.sdk.platformtools.LBSManager: boolean ai
+com.tencent.mm.sdk.platformtools.LBSManager: int aj
+com.tencent.mm.sdk.platformtools.LBSManager: com.tencent.mm.sdk.platformtools.MTimerHandler ak
+com.tencent.mm.sdk.platformtools.LBSManager: LBSManager(android.content.Context,com.tencent.mm.sdk.platformtools.LBSManager$OnLocationGotListener)
+com.tencent.mm.sdk.platformtools.LBSManager: boolean b()
+com.tencent.mm.sdk.platformtools.LBSManager: void start()
+com.tencent.mm.sdk.platformtools.LBSManager: boolean isGpsEnable()
+com.tencent.mm.sdk.platformtools.LBSManager: boolean isNetworkPrividerEnable()
+com.tencent.mm.sdk.platformtools.LBSManager: void removeGpsUpdate()
+com.tencent.mm.sdk.platformtools.LBSManager: void requestGpsUpdate()
+com.tencent.mm.sdk.platformtools.LBSManager: void removeListener()
+com.tencent.mm.sdk.platformtools.LBSManager: void c()
+com.tencent.mm.sdk.platformtools.LBSManager: java.lang.String getTelLocation()
+com.tencent.mm.sdk.platformtools.LBSManager: java.lang.String getWIFILocation()
+com.tencent.mm.sdk.platformtools.LBSManager: void setLocationCache(float,float,int,int)
+com.tencent.mm.sdk.platformtools.LBSManager: void onReceive(android.content.Context,android.content.Intent)
+com.tencent.mm.sdk.platformtools.LBSManager: boolean a(com.tencent.mm.sdk.platformtools.LBSManager)
+com.tencent.mm.sdk.platformtools.LBSManager$1
+com.tencent.mm.sdk.platformtools.LBSManager$1: com.tencent.mm.sdk.platformtools.LBSManager al
+com.tencent.mm.sdk.platformtools.LBSManager$1: LBSManager$1(com.tencent.mm.sdk.platformtools.LBSManager)
+com.tencent.mm.sdk.platformtools.LBSManager$1: boolean onTimerExpired()
+com.tencent.mm.sdk.platformtools.LBSManager$LocationCache
+com.tencent.mm.sdk.platformtools.LBSManager$LocationCache: float am
+com.tencent.mm.sdk.platformtools.LBSManager$LocationCache: float an
+com.tencent.mm.sdk.platformtools.LBSManager$LocationCache: int ao
+com.tencent.mm.sdk.platformtools.LBSManager$LocationCache: long time
+com.tencent.mm.sdk.platformtools.LBSManager$LocationCache: int I
+com.tencent.mm.sdk.platformtools.LBSManager$LocationCache: LBSManager$LocationCache()
+com.tencent.mm.sdk.platformtools.LBSManager$OnLocationGotListener
+com.tencent.mm.sdk.platformtools.LBSManager$OnLocationGotListener: void onLocationGot(float,float,int,int,java.lang.String,java.lang.String,boolean)
+com.tencent.mm.sdk.platformtools.LVBuffer
+com.tencent.mm.sdk.platformtools.LVBuffer: int LENGTH_ALLOC_PER_NEW
+com.tencent.mm.sdk.platformtools.LVBuffer: int MAX_STRING_LENGTH
+com.tencent.mm.sdk.platformtools.LVBuffer: java.nio.ByteBuffer ap
+com.tencent.mm.sdk.platformtools.LVBuffer: boolean aq
+com.tencent.mm.sdk.platformtools.LVBuffer: LVBuffer()
+com.tencent.mm.sdk.platformtools.LVBuffer: int initParse(byte[])
+com.tencent.mm.sdk.platformtools.LVBuffer: int getInt()
+com.tencent.mm.sdk.platformtools.LVBuffer: long getLong()
+com.tencent.mm.sdk.platformtools.LVBuffer: java.lang.String getString()
+com.tencent.mm.sdk.platformtools.LVBuffer: boolean checkGetFinish()
+com.tencent.mm.sdk.platformtools.LVBuffer: int initBuild()
+com.tencent.mm.sdk.platformtools.LVBuffer: int a(int)
+com.tencent.mm.sdk.platformtools.LVBuffer: int putInt(int)
+com.tencent.mm.sdk.platformtools.LVBuffer: int putLong(long)
+com.tencent.mm.sdk.platformtools.LVBuffer: int putString(java.lang.String)
+com.tencent.mm.sdk.platformtools.LVBuffer: byte[] buildFinish()
+com.tencent.mm.sdk.platformtools.LocaleUtil
+com.tencent.mm.sdk.platformtools.LocaleUtil: java.lang.String LANGUAGE_DEFAULT
+com.tencent.mm.sdk.platformtools.LocaleUtil: java.lang.String LANGUAGE_KEY
+com.tencent.mm.sdk.platformtools.LocaleUtil: java.lang.String TAIWAN
+com.tencent.mm.sdk.platformtools.LocaleUtil: java.lang.String HONGKONG
+com.tencent.mm.sdk.platformtools.LocaleUtil: java.lang.String CHINA
+com.tencent.mm.sdk.platformtools.LocaleUtil: java.lang.String ENGLISH
+com.tencent.mm.sdk.platformtools.LocaleUtil: java.lang.String THAI
+com.tencent.mm.sdk.platformtools.LocaleUtil: java.lang.String INDONESIAN
+com.tencent.mm.sdk.platformtools.LocaleUtil: java.lang.String VIETNAMESE
+com.tencent.mm.sdk.platformtools.LocaleUtil: java.lang.String PORTUGUESE
+com.tencent.mm.sdk.platformtools.LocaleUtil: java.lang.String SPANISH
+com.tencent.mm.sdk.platformtools.LocaleUtil: java.lang.String RUSSIAN
+com.tencent.mm.sdk.platformtools.LocaleUtil: java.lang.String ARABIC
+com.tencent.mm.sdk.platformtools.LocaleUtil: java.lang.String HEBREW
+com.tencent.mm.sdk.platformtools.LocaleUtil: java.lang.String POLISH
+com.tencent.mm.sdk.platformtools.LocaleUtil: java.lang.String HINDI
+com.tencent.mm.sdk.platformtools.LocaleUtil: java.lang.String JAPANESE
+com.tencent.mm.sdk.platformtools.LocaleUtil: java.lang.String ITALIAN
+com.tencent.mm.sdk.platformtools.LocaleUtil: java.lang.String KOREAN
+com.tencent.mm.sdk.platformtools.LocaleUtil: java.lang.String MALAY
+com.tencent.mm.sdk.platformtools.LocaleUtil: java.lang.String TURKEY
+com.tencent.mm.sdk.platformtools.LocaleUtil: LocaleUtil()
+com.tencent.mm.sdk.platformtools.LocaleUtil: boolean isLanguageSupported(java.lang.String)
+com.tencent.mm.sdk.platformtools.LocaleUtil: void updateApplicationResourceLocale(android.content.Context,java.util.Locale)
+com.tencent.mm.sdk.platformtools.LocaleUtil: java.util.Locale transLanguageToLocale(java.lang.String)
+com.tencent.mm.sdk.platformtools.LocaleUtil: java.lang.String getCurrentCountryCode()
+com.tencent.mm.sdk.platformtools.LocaleUtil: java.lang.String b(java.lang.String)
+com.tencent.mm.sdk.platformtools.LocaleUtil: java.lang.String getApplicationLanguage()
+com.tencent.mm.sdk.platformtools.LocaleUtil: java.lang.String loadApplicationLanguage(android.content.SharedPreferences,android.content.Context)
+com.tencent.mm.sdk.platformtools.LocaleUtil: java.lang.String loadApplicationLanguageSettings(android.content.SharedPreferences,android.content.Context)
+com.tencent.mm.sdk.platformtools.LocaleUtil: void saveApplicationLanguage(android.content.SharedPreferences,android.content.Context,java.lang.String)
+com.tencent.mm.sdk.platformtools.Log
+com.tencent.mm.sdk.platformtools.Log: int LEVEL_VERBOSE
+com.tencent.mm.sdk.platformtools.Log: int LEVEL_DEBUG
+com.tencent.mm.sdk.platformtools.Log: int LEVEL_INFO
+com.tencent.mm.sdk.platformtools.Log: int LEVEL_WARNING
+com.tencent.mm.sdk.platformtools.Log: int LEVEL_ERROR
+com.tencent.mm.sdk.platformtools.Log: int LEVEL_FATAL
+com.tencent.mm.sdk.platformtools.Log: int LEVEL_NONE
+com.tencent.mm.sdk.platformtools.Log: int level
+com.tencent.mm.sdk.platformtools.Log: java.io.PrintStream ar
+com.tencent.mm.sdk.platformtools.Log: byte[] as
+com.tencent.mm.sdk.platformtools.Log: java.lang.String at
+com.tencent.mm.sdk.platformtools.Log: Log()
+com.tencent.mm.sdk.platformtools.Log: void setOutputPath(java.lang.String,java.lang.String,java.lang.String,int)
+com.tencent.mm.sdk.platformtools.Log: void setOutputStream(java.io.InputStream,java.io.OutputStream,java.lang.String,java.lang.String,int)
+com.tencent.mm.sdk.platformtools.Log: void reset()
+com.tencent.mm.sdk.platformtools.Log: void setLevel(int,boolean)
+com.tencent.mm.sdk.platformtools.Log: int getLevel()
+com.tencent.mm.sdk.platformtools.Log: void f(java.lang.String,java.lang.String)
+com.tencent.mm.sdk.platformtools.Log: void e(java.lang.String,java.lang.String)
+com.tencent.mm.sdk.platformtools.Log: void w(java.lang.String,java.lang.String)
+com.tencent.mm.sdk.platformtools.Log: void i(java.lang.String,java.lang.String)
+com.tencent.mm.sdk.platformtools.Log: void d(java.lang.String,java.lang.String)
+com.tencent.mm.sdk.platformtools.Log: void v(java.lang.String,java.lang.String)
+com.tencent.mm.sdk.platformtools.Log: void f(java.lang.String,java.lang.String,java.lang.Object[])
+com.tencent.mm.sdk.platformtools.Log: void e(java.lang.String,java.lang.String,java.lang.Object[])
+com.tencent.mm.sdk.platformtools.Log: void w(java.lang.String,java.lang.String,java.lang.Object[])
+com.tencent.mm.sdk.platformtools.Log: void i(java.lang.String,java.lang.String,java.lang.Object[])
+com.tencent.mm.sdk.platformtools.Log: void d(java.lang.String,java.lang.String,java.lang.Object[])
+com.tencent.mm.sdk.platformtools.Log: void v(java.lang.String,java.lang.String,java.lang.Object[])
+com.tencent.mm.sdk.platformtools.Log: java.lang.String getSysInfo()
+com.tencent.mm.sdk.platformtools.Log: void <clinit>()
+com.tencent.mm.sdk.platformtools.LogHelper
+com.tencent.mm.sdk.platformtools.LogHelper: byte[] au
+com.tencent.mm.sdk.platformtools.LogHelper: LogHelper()
+com.tencent.mm.sdk.platformtools.LogHelper: void writeToStream(java.io.PrintStream,byte[],java.lang.String,java.lang.String)
+com.tencent.mm.sdk.platformtools.LogHelper: void initLogHeader(java.io.PrintStream,java.lang.String,java.lang.String,long,int)
+com.tencent.mm.sdk.platformtools.LogHelper: void <clinit>()
+com.tencent.mm.sdk.platformtools.MAlarmHandler
+com.tencent.mm.sdk.platformtools.MAlarmHandler: int av
+com.tencent.mm.sdk.platformtools.MAlarmHandler: int aw
+com.tencent.mm.sdk.platformtools.MAlarmHandler: boolean ax
+com.tencent.mm.sdk.platformtools.MAlarmHandler: long ay
+com.tencent.mm.sdk.platformtools.MAlarmHandler: long az
+com.tencent.mm.sdk.platformtools.MAlarmHandler: java.util.Map aA
+com.tencent.mm.sdk.platformtools.MAlarmHandler: com.tencent.mm.sdk.platformtools.MAlarmHandler$CallBack aB
+com.tencent.mm.sdk.platformtools.MAlarmHandler: com.tencent.mm.sdk.platformtools.MAlarmHandler$IBumper aC
+com.tencent.mm.sdk.platformtools.MAlarmHandler: boolean aD
+com.tencent.mm.sdk.platformtools.MAlarmHandler: long NEXT_FIRE_INTERVAL
+com.tencent.mm.sdk.platformtools.MAlarmHandler: void initAlarmBumper(com.tencent.mm.sdk.platformtools.MAlarmHandler$IBumper)
+com.tencent.mm.sdk.platformtools.MAlarmHandler: void finalize()
+com.tencent.mm.sdk.platformtools.MAlarmHandler: MAlarmHandler(com.tencent.mm.sdk.platformtools.MAlarmHandler$CallBack,boolean)
+com.tencent.mm.sdk.platformtools.MAlarmHandler: long fire()
+com.tencent.mm.sdk.platformtools.MAlarmHandler: void startTimer(long)
+com.tencent.mm.sdk.platformtools.MAlarmHandler: void stopTimer()
+com.tencent.mm.sdk.platformtools.MAlarmHandler: boolean stopped()
+com.tencent.mm.sdk.platformtools.MAlarmHandler: void <clinit>()
+com.tencent.mm.sdk.platformtools.MAlarmHandler$CallBack
+com.tencent.mm.sdk.platformtools.MAlarmHandler$CallBack: boolean onTimerExpired()
+com.tencent.mm.sdk.platformtools.MAlarmHandler$IBumper
+com.tencent.mm.sdk.platformtools.MAlarmHandler$IBumper: void prepare()
+com.tencent.mm.sdk.platformtools.MAlarmHandler$IBumper: void cancel()
+com.tencent.mm.sdk.platformtools.MMApplicationContext
+com.tencent.mm.sdk.platformtools.MMApplicationContext: android.content.Context R
+com.tencent.mm.sdk.platformtools.MMApplicationContext: java.lang.String aE
+com.tencent.mm.sdk.platformtools.MMApplicationContext: MMApplicationContext()
+com.tencent.mm.sdk.platformtools.MMApplicationContext: void setContext(android.content.Context)
+com.tencent.mm.sdk.platformtools.MMApplicationContext: android.content.Context getContext()
+com.tencent.mm.sdk.platformtools.MMApplicationContext: java.lang.String getPackageName()
+com.tencent.mm.sdk.platformtools.MMApplicationContext: java.lang.String getDefaultPreferencePath()
+com.tencent.mm.sdk.platformtools.MMApplicationContext: void <clinit>()
+com.tencent.mm.sdk.platformtools.MMEntryLock
+com.tencent.mm.sdk.platformtools.MMEntryLock: java.util.Set aF
+com.tencent.mm.sdk.platformtools.MMEntryLock: MMEntryLock()
+com.tencent.mm.sdk.platformtools.MMEntryLock: boolean lock(java.lang.String)
+com.tencent.mm.sdk.platformtools.MMEntryLock: void unlock(java.lang.String)
+com.tencent.mm.sdk.platformtools.MMEntryLock: boolean isLocked(java.lang.String)
+com.tencent.mm.sdk.platformtools.MMEntryLock: void <clinit>()
+com.tencent.mm.sdk.platformtools.MTimerHandler
+com.tencent.mm.sdk.platformtools.MTimerHandler: int av
+com.tencent.mm.sdk.platformtools.MTimerHandler: int aw
+com.tencent.mm.sdk.platformtools.MTimerHandler: boolean aG
+com.tencent.mm.sdk.platformtools.MTimerHandler: long aH
+com.tencent.mm.sdk.platformtools.MTimerHandler: com.tencent.mm.sdk.platformtools.MTimerHandler$CallBack aI
+com.tencent.mm.sdk.platformtools.MTimerHandler: MTimerHandler(com.tencent.mm.sdk.platformtools.MTimerHandler$CallBack,boolean)
+com.tencent.mm.sdk.platformtools.MTimerHandler: MTimerHandler(android.os.Looper,com.tencent.mm.sdk.platformtools.MTimerHandler$CallBack,boolean)
+com.tencent.mm.sdk.platformtools.MTimerHandler: int d()
+com.tencent.mm.sdk.platformtools.MTimerHandler: void finalize()
+com.tencent.mm.sdk.platformtools.MTimerHandler: void handleMessage(android.os.Message)
+com.tencent.mm.sdk.platformtools.MTimerHandler: void startTimer(long)
+com.tencent.mm.sdk.platformtools.MTimerHandler: void stopTimer()
+com.tencent.mm.sdk.platformtools.MTimerHandler: boolean stopped()
+com.tencent.mm.sdk.platformtools.MTimerHandler$CallBack
+com.tencent.mm.sdk.platformtools.MTimerHandler$CallBack: boolean onTimerExpired()
+com.tencent.mm.sdk.platformtools.NetStatusUtil
+com.tencent.mm.sdk.platformtools.NetStatusUtil: int NON_NETWORK
+com.tencent.mm.sdk.platformtools.NetStatusUtil: int WIFI
+com.tencent.mm.sdk.platformtools.NetStatusUtil: int UNINET
+com.tencent.mm.sdk.platformtools.NetStatusUtil: int UNIWAP
+com.tencent.mm.sdk.platformtools.NetStatusUtil: int WAP_3G
+com.tencent.mm.sdk.platformtools.NetStatusUtil: int NET_3G
+com.tencent.mm.sdk.platformtools.NetStatusUtil: int CMWAP
+com.tencent.mm.sdk.platformtools.NetStatusUtil: int CMNET
+com.tencent.mm.sdk.platformtools.NetStatusUtil: int CTWAP
+com.tencent.mm.sdk.platformtools.NetStatusUtil: int CTNET
+com.tencent.mm.sdk.platformtools.NetStatusUtil: int MOBILE
+com.tencent.mm.sdk.platformtools.NetStatusUtil: int LTE
+com.tencent.mm.sdk.platformtools.NetStatusUtil: int POLICY_NONE
+com.tencent.mm.sdk.platformtools.NetStatusUtil: int POLICY_REJECT_METERED_BACKGROUND
+com.tencent.mm.sdk.platformtools.NetStatusUtil: int TBACKGROUND_NOT_LIMITED
+com.tencent.mm.sdk.platformtools.NetStatusUtil: int TBACKGROUND_PROCESS_LIMITED
+com.tencent.mm.sdk.platformtools.NetStatusUtil: int TBACKGROUND_DATA_LIMITED
+com.tencent.mm.sdk.platformtools.NetStatusUtil: int TBACKGROUND_WIFI_LIMITED
+com.tencent.mm.sdk.platformtools.NetStatusUtil: NetStatusUtil()
+com.tencent.mm.sdk.platformtools.NetStatusUtil: void dumpNetStatus(android.content.Context)
+com.tencent.mm.sdk.platformtools.NetStatusUtil: boolean isConnected(android.content.Context)
+com.tencent.mm.sdk.platformtools.NetStatusUtil: java.lang.String getNetTypeString(android.content.Context)
+com.tencent.mm.sdk.platformtools.NetStatusUtil: int getNetType(android.content.Context)
+com.tencent.mm.sdk.platformtools.NetStatusUtil: boolean is2G(android.content.Context)
+com.tencent.mm.sdk.platformtools.NetStatusUtil: boolean is4G(android.content.Context)
+com.tencent.mm.sdk.platformtools.NetStatusUtil: boolean isWap(android.content.Context)
+com.tencent.mm.sdk.platformtools.NetStatusUtil: boolean isWap(int)
+com.tencent.mm.sdk.platformtools.NetStatusUtil: boolean is2G(int)
+com.tencent.mm.sdk.platformtools.NetStatusUtil: boolean is4G(int)
+com.tencent.mm.sdk.platformtools.NetStatusUtil: boolean is3G(int)
+com.tencent.mm.sdk.platformtools.NetStatusUtil: boolean isMobile(android.content.Context)
+com.tencent.mm.sdk.platformtools.NetStatusUtil: boolean isMobile(int)
+com.tencent.mm.sdk.platformtools.NetStatusUtil: boolean is3G(android.content.Context)
+com.tencent.mm.sdk.platformtools.NetStatusUtil: boolean isWifi(android.content.Context)
+com.tencent.mm.sdk.platformtools.NetStatusUtil: boolean isWifi(int)
+com.tencent.mm.sdk.platformtools.NetStatusUtil: android.content.Intent a(android.content.Context,java.lang.String)
+com.tencent.mm.sdk.platformtools.NetStatusUtil: void startSettingItent(android.content.Context,int)
+com.tencent.mm.sdk.platformtools.NetStatusUtil: int getWifiSleeepPolicy(android.content.Context)
+com.tencent.mm.sdk.platformtools.NetStatusUtil: boolean isLimited(int)
+com.tencent.mm.sdk.platformtools.NetStatusUtil: int getBackgroundLimitType(android.content.Context)
+com.tencent.mm.sdk.platformtools.NetStatusUtil: boolean isRestrictBacground(android.content.Context)
+com.tencent.mm.sdk.platformtools.NetStatusUtil: boolean isImmediatelyDestroyActivities(android.content.Context)
+com.tencent.mm.sdk.platformtools.NetStatusUtil: boolean checkFromXml(int)
+com.tencent.mm.sdk.platformtools.NetStatusUtil: boolean runRootCommand()
+com.tencent.mm.sdk.platformtools.PhoneUtil
+com.tencent.mm.sdk.platformtools.PhoneUtil: java.lang.String CELL_GSM
+com.tencent.mm.sdk.platformtools.PhoneUtil: java.lang.String CELL_CDMA
+com.tencent.mm.sdk.platformtools.PhoneUtil: int aJ
+com.tencent.mm.sdk.platformtools.PhoneUtil: PhoneUtil()
+com.tencent.mm.sdk.platformtools.PhoneUtil: java.lang.String getMacXml(java.util.List)
+com.tencent.mm.sdk.platformtools.PhoneUtil: java.lang.String getCellXml(java.util.List)
+com.tencent.mm.sdk.platformtools.PhoneUtil: void getSignalStrength(android.content.Context)
+com.tencent.mm.sdk.platformtools.PhoneUtil: java.util.List getCellInfoList(android.content.Context)
+com.tencent.mm.sdk.platformtools.PhoneUtil: void <clinit>()
+com.tencent.mm.sdk.platformtools.PhoneUtil$CellInfo
+com.tencent.mm.sdk.platformtools.PhoneUtil$CellInfo: int MAX_CID
+com.tencent.mm.sdk.platformtools.PhoneUtil$CellInfo: int MAX_LAC
+com.tencent.mm.sdk.platformtools.PhoneUtil$CellInfo: java.lang.String mcc
+com.tencent.mm.sdk.platformtools.PhoneUtil$CellInfo: java.lang.String mnc
+com.tencent.mm.sdk.platformtools.PhoneUtil$CellInfo: java.lang.String lac
+com.tencent.mm.sdk.platformtools.PhoneUtil$CellInfo: java.lang.String cellid
+com.tencent.mm.sdk.platformtools.PhoneUtil$CellInfo: java.lang.String type
+com.tencent.mm.sdk.platformtools.PhoneUtil$CellInfo: java.lang.String stationId
+com.tencent.mm.sdk.platformtools.PhoneUtil$CellInfo: java.lang.String networkId
+com.tencent.mm.sdk.platformtools.PhoneUtil$CellInfo: java.lang.String systemId
+com.tencent.mm.sdk.platformtools.PhoneUtil$CellInfo: java.lang.String dbm
+com.tencent.mm.sdk.platformtools.PhoneUtil$CellInfo: PhoneUtil$CellInfo(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)
+com.tencent.mm.sdk.platformtools.PhoneUtil$MacInfo
+com.tencent.mm.sdk.platformtools.PhoneUtil$MacInfo: java.lang.String mac
+com.tencent.mm.sdk.platformtools.PhoneUtil$MacInfo: java.lang.String dbm
+com.tencent.mm.sdk.platformtools.PhoneUtil$MacInfo: PhoneUtil$MacInfo(java.lang.String,java.lang.String)
+com.tencent.mm.sdk.platformtools.PhoneUtil16Impl
+com.tencent.mm.sdk.platformtools.PhoneUtil16Impl: int aK
+com.tencent.mm.sdk.platformtools.PhoneUtil16Impl: int aL
+com.tencent.mm.sdk.platformtools.PhoneUtil16Impl: android.telephony.TelephonyManager aM
+com.tencent.mm.sdk.platformtools.PhoneUtil16Impl: android.telephony.PhoneStateListener aN
+com.tencent.mm.sdk.platformtools.PhoneUtil16Impl: PhoneUtil16Impl()
+com.tencent.mm.sdk.platformtools.PhoneUtil16Impl: void getSignalStrength(android.content.Context)
+com.tencent.mm.sdk.platformtools.PhoneUtil16Impl: java.util.List getCellInfoList(android.content.Context)
+com.tencent.mm.sdk.platformtools.PhoneUtil16Impl: int b(int)
+com.tencent.mm.sdk.platformtools.PhoneUtil16Impl: android.telephony.TelephonyManager a(com.tencent.mm.sdk.platformtools.PhoneUtil16Impl)
+com.tencent.mm.sdk.platformtools.PhoneUtil16Impl: android.telephony.PhoneStateListener b(com.tencent.mm.sdk.platformtools.PhoneUtil16Impl)
+com.tencent.mm.sdk.platformtools.PhoneUtil16Impl: void <clinit>()
+com.tencent.mm.sdk.platformtools.PhoneUtil16Impl$1
+com.tencent.mm.sdk.platformtools.PhoneUtil16Impl$1: com.tencent.mm.sdk.platformtools.PhoneUtil16Impl aO
+com.tencent.mm.sdk.platformtools.PhoneUtil16Impl$1: PhoneUtil16Impl$1(com.tencent.mm.sdk.platformtools.PhoneUtil16Impl)
+com.tencent.mm.sdk.platformtools.PhoneUtil16Impl$1: void onSignalStrengthChanged(int)
+com.tencent.mm.sdk.platformtools.PhoneUtil20Impl
+com.tencent.mm.sdk.platformtools.PhoneUtil20Impl: int aK
+com.tencent.mm.sdk.platformtools.PhoneUtil20Impl: int aL
+com.tencent.mm.sdk.platformtools.PhoneUtil20Impl: android.telephony.TelephonyManager aM
+com.tencent.mm.sdk.platformtools.PhoneUtil20Impl: int aP
+com.tencent.mm.sdk.platformtools.PhoneUtil20Impl: android.telephony.PhoneStateListener aN
+com.tencent.mm.sdk.platformtools.PhoneUtil20Impl: PhoneUtil20Impl()
+com.tencent.mm.sdk.platformtools.PhoneUtil20Impl: void getSignalStrength(android.content.Context)
+com.tencent.mm.sdk.platformtools.PhoneUtil20Impl: java.util.List getCellInfoList(android.content.Context)
+com.tencent.mm.sdk.platformtools.PhoneUtil20Impl: int a(com.tencent.mm.sdk.platformtools.PhoneUtil20Impl)
+com.tencent.mm.sdk.platformtools.PhoneUtil20Impl: int c(int)
+com.tencent.mm.sdk.platformtools.PhoneUtil20Impl: android.telephony.TelephonyManager b(com.tencent.mm.sdk.platformtools.PhoneUtil20Impl)
+com.tencent.mm.sdk.platformtools.PhoneUtil20Impl: android.telephony.PhoneStateListener c(com.tencent.mm.sdk.platformtools.PhoneUtil20Impl)
+com.tencent.mm.sdk.platformtools.PhoneUtil20Impl: void <clinit>()
+com.tencent.mm.sdk.platformtools.PhoneUtil20Impl$1
+com.tencent.mm.sdk.platformtools.PhoneUtil20Impl$1: com.tencent.mm.sdk.platformtools.PhoneUtil20Impl aQ
+com.tencent.mm.sdk.platformtools.PhoneUtil20Impl$1: PhoneUtil20Impl$1(com.tencent.mm.sdk.platformtools.PhoneUtil20Impl)
+com.tencent.mm.sdk.platformtools.PhoneUtil20Impl$1: void onSignalStrengthsChanged(android.telephony.SignalStrength)
+com.tencent.mm.sdk.platformtools.SensorController
+com.tencent.mm.sdk.platformtools.SensorController: float aR
+com.tencent.mm.sdk.platformtools.SensorController: android.hardware.SensorManager aS
+com.tencent.mm.sdk.platformtools.SensorController: float aT
+com.tencent.mm.sdk.platformtools.SensorController: float aU
+com.tencent.mm.sdk.platformtools.SensorController: com.tencent.mm.sdk.platformtools.SensorController$SensorEventCallBack aV
+com.tencent.mm.sdk.platformtools.SensorController: android.hardware.Sensor aW
+com.tencent.mm.sdk.platformtools.SensorController: boolean aX
+com.tencent.mm.sdk.platformtools.SensorController: boolean aY
+com.tencent.mm.sdk.platformtools.SensorController: boolean aZ
+com.tencent.mm.sdk.platformtools.SensorController: SensorController(android.content.Context)
+com.tencent.mm.sdk.platformtools.SensorController: void setSensorCallBack(com.tencent.mm.sdk.platformtools.SensorController$SensorEventCallBack)
+com.tencent.mm.sdk.platformtools.SensorController: void removeSensorCallBack()
+com.tencent.mm.sdk.platformtools.SensorController: void onAccuracyChanged(android.hardware.Sensor,int)
+com.tencent.mm.sdk.platformtools.SensorController: boolean isSensorEnable()
+com.tencent.mm.sdk.platformtools.SensorController: void onSensorChanged(android.hardware.SensorEvent)
+com.tencent.mm.sdk.platformtools.SensorController: void onReceive(android.content.Context,android.content.Intent)
+com.tencent.mm.sdk.platformtools.SensorController: void <clinit>()
+com.tencent.mm.sdk.platformtools.SensorController$SensorEventCallBack
+com.tencent.mm.sdk.platformtools.SensorController$SensorEventCallBack: void onSensorEvent(boolean)
+com.tencent.mm.sdk.platformtools.SmoothScrollToPosition21below
+com.tencent.mm.sdk.platformtools.SmoothScrollToPosition21below: SmoothScrollToPosition21below()
+com.tencent.mm.sdk.platformtools.SmoothScrollToPosition21below: void doScroll(android.widget.ListView)
+com.tencent.mm.sdk.platformtools.SmoothScrollToPosition21below: void doScroll(android.widget.ListView,int)
+com.tencent.mm.sdk.platformtools.SmoothScrollToPosition22
+com.tencent.mm.sdk.platformtools.SmoothScrollToPosition22: SmoothScrollToPosition22()
+com.tencent.mm.sdk.platformtools.SmoothScrollToPosition22: void doScroll(android.widget.ListView)
+com.tencent.mm.sdk.platformtools.SmoothScrollToPosition22: void doScroll(android.widget.ListView,int)
+com.tencent.mm.sdk.platformtools.SyncTask
+com.tencent.mm.sdk.platformtools.SyncTask: java.lang.Object result
+com.tencent.mm.sdk.platformtools.SyncTask: java.lang.Object lock
+com.tencent.mm.sdk.platformtools.SyncTask: long ba
+com.tencent.mm.sdk.platformtools.SyncTask: long bb
+com.tencent.mm.sdk.platformtools.SyncTask: long bc
+com.tencent.mm.sdk.platformtools.SyncTask: java.lang.Runnable bd
+com.tencent.mm.sdk.platformtools.SyncTask: SyncTask()
+com.tencent.mm.sdk.platformtools.SyncTask: SyncTask(long,java.lang.Object)
+com.tencent.mm.sdk.platformtools.SyncTask: void setResult(java.lang.Object)
+com.tencent.mm.sdk.platformtools.SyncTask: java.lang.Object exec(android.os.Handler)
+com.tencent.mm.sdk.platformtools.SyncTask: java.lang.Object run()
+com.tencent.mm.sdk.platformtools.SyncTask: long a(com.tencent.mm.sdk.platformtools.SyncTask,long)
+com.tencent.mm.sdk.platformtools.SyncTask: long a(com.tencent.mm.sdk.platformtools.SyncTask)
+com.tencent.mm.sdk.platformtools.SyncTask$1
+com.tencent.mm.sdk.platformtools.SyncTask$1: com.tencent.mm.sdk.platformtools.SyncTask be
+com.tencent.mm.sdk.platformtools.SyncTask$1: SyncTask$1(com.tencent.mm.sdk.platformtools.SyncTask)
+com.tencent.mm.sdk.platformtools.SyncTask$1: void run()
+com.tencent.mm.sdk.platformtools.SystemProperty
+com.tencent.mm.sdk.platformtools.SystemProperty: java.util.HashMap bf
+com.tencent.mm.sdk.platformtools.SystemProperty: SystemProperty()
+com.tencent.mm.sdk.platformtools.SystemProperty: java.lang.String getProperty(java.lang.String)
+com.tencent.mm.sdk.platformtools.SystemProperty: void setProperty(java.lang.String,java.lang.String)
+com.tencent.mm.sdk.platformtools.SystemProperty: void <clinit>()
+com.tencent.mm.sdk.platformtools.TimeLogger
+com.tencent.mm.sdk.platformtools.TimeLogger: java.lang.String bg
+com.tencent.mm.sdk.platformtools.TimeLogger: java.lang.String bh
+com.tencent.mm.sdk.platformtools.TimeLogger: boolean bi
+com.tencent.mm.sdk.platformtools.TimeLogger: java.util.ArrayList bj
+com.tencent.mm.sdk.platformtools.TimeLogger: java.util.ArrayList bk
+com.tencent.mm.sdk.platformtools.TimeLogger: TimeLogger(java.lang.String,java.lang.String)
+com.tencent.mm.sdk.platformtools.TimeLogger: void reset(java.lang.String,java.lang.String)
+com.tencent.mm.sdk.platformtools.TimeLogger: void reset()
+com.tencent.mm.sdk.platformtools.TimeLogger: void addSplit(java.lang.String)
+com.tencent.mm.sdk.platformtools.TimeLogger: void dumpToLog()
+com.tencent.mm.sdk.platformtools.TrafficStats
+com.tencent.mm.sdk.platformtools.TrafficStats: long bl
+com.tencent.mm.sdk.platformtools.TrafficStats: long bm
+com.tencent.mm.sdk.platformtools.TrafficStats: long bn
+com.tencent.mm.sdk.platformtools.TrafficStats: long bo
+com.tencent.mm.sdk.platformtools.TrafficStats: long bp
+com.tencent.mm.sdk.platformtools.TrafficStats: long bq
+com.tencent.mm.sdk.platformtools.TrafficStats: long br
+com.tencent.mm.sdk.platformtools.TrafficStats: long bs
+com.tencent.mm.sdk.platformtools.TrafficStats: java.lang.String DEV_FILE
+com.tencent.mm.sdk.platformtools.TrafficStats: java.lang.String GPRSLINE
+com.tencent.mm.sdk.platformtools.TrafficStats: java.lang.String WIFILINE
+com.tencent.mm.sdk.platformtools.TrafficStats: TrafficStats()
+com.tencent.mm.sdk.platformtools.TrafficStats: long getWifiTx(long)
+com.tencent.mm.sdk.platformtools.TrafficStats: long getWifiRx(long)
+com.tencent.mm.sdk.platformtools.TrafficStats: long getMobileTx(long)
+com.tencent.mm.sdk.platformtools.TrafficStats: long getMobileRx(long)
+com.tencent.mm.sdk.platformtools.TrafficStats: long updateWifiTx(long)
+com.tencent.mm.sdk.platformtools.TrafficStats: long updateWifiRx(long)
+com.tencent.mm.sdk.platformtools.TrafficStats: long updateMobileTx(long)
+com.tencent.mm.sdk.platformtools.TrafficStats: long updateMobileRx(long)
+com.tencent.mm.sdk.platformtools.TrafficStats: void reset()
+com.tencent.mm.sdk.platformtools.TrafficStats: void update()
+com.tencent.mm.sdk.platformtools.Util
+com.tencent.mm.sdk.platformtools.Util: int MAX_DECODE_PICTURE_SIZE
+com.tencent.mm.sdk.platformtools.Util: java.lang.String PHOTO_DEFAULT_EXT
+com.tencent.mm.sdk.platformtools.Util: long MILLSECONDS_OF_SECOND
+com.tencent.mm.sdk.platformtools.Util: long MILLSECONDS_OF_MINUTE
+com.tencent.mm.sdk.platformtools.Util: long MILLSECONDS_OF_HOUR
+com.tencent.mm.sdk.platformtools.Util: long MILLSECONDS_OF_DAY
+com.tencent.mm.sdk.platformtools.Util: long SECOND_OF_MINUTE
+com.tencent.mm.sdk.platformtools.Util: long MINUTE_OF_HOUR
+com.tencent.mm.sdk.platformtools.Util: long MAX_32BIT_VALUE
+com.tencent.mm.sdk.platformtools.Util: int MIN_ACCOUNT_LENGTH
+com.tencent.mm.sdk.platformtools.Util: int MAX_ACCOUNT_LENGTH
+com.tencent.mm.sdk.platformtools.Util: int MIN_PASSWORD_LENGTH
+com.tencent.mm.sdk.platformtools.Util: int MAX_PASSWORD_LENGTH
+com.tencent.mm.sdk.platformtools.Util: int BIT_OF_KB
+com.tencent.mm.sdk.platformtools.Util: int BIT_OF_MB
+com.tencent.mm.sdk.platformtools.Util: int BYTE_OF_KB
+com.tencent.mm.sdk.platformtools.Util: int BYTE_OF_MB
+com.tencent.mm.sdk.platformtools.Util: int MASK_4BIT
+com.tencent.mm.sdk.platformtools.Util: int MASK_8BIT
+com.tencent.mm.sdk.platformtools.Util: int MASK_16BIT
+com.tencent.mm.sdk.platformtools.Util: int MASK_32BIT
+com.tencent.mm.sdk.platformtools.Util: int BEGIN_TIME
+com.tencent.mm.sdk.platformtools.Util: int END_TIME
+com.tencent.mm.sdk.platformtools.Util: int DAY
+com.tencent.mm.sdk.platformtools.Util: java.lang.String TAIWAN
+com.tencent.mm.sdk.platformtools.Util: java.lang.String HONGKONG
+com.tencent.mm.sdk.platformtools.Util: java.lang.String CHINA
+com.tencent.mm.sdk.platformtools.Util: java.lang.String ENGLISH
+com.tencent.mm.sdk.platformtools.Util: java.lang.String LANGUAGE_DEFAULT
+com.tencent.mm.sdk.platformtools.Util: long[] bt
+com.tencent.mm.sdk.platformtools.Util: java.util.TimeZone GMT
+com.tencent.mm.sdk.platformtools.Util: char[] bu
+com.tencent.mm.sdk.platformtools.Util: char[] bv
+com.tencent.mm.sdk.platformtools.Util: java.lang.String[] bw
+com.tencent.mm.sdk.platformtools.Util: Util()
+com.tencent.mm.sdk.platformtools.Util: java.lang.String escapeSqlValue(java.lang.String)
+com.tencent.mm.sdk.platformtools.Util: java.lang.String listToString(java.util.List,java.lang.String)
+com.tencent.mm.sdk.platformtools.Util: java.util.List stringsToList(java.lang.String[])
+com.tencent.mm.sdk.platformtools.Util: int getIntRandom(int,int)
+com.tencent.mm.sdk.platformtools.Util: boolean isDayTimeNow()
+com.tencent.mm.sdk.platformtools.Util: boolean isNightTime(int,int,int)
+com.tencent.mm.sdk.platformtools.Util: java.lang.String getTimeZoneOffset()
+com.tencent.mm.sdk.platformtools.Util: java.lang.String getTimeZone()
+com.tencent.mm.sdk.platformtools.Util: java.lang.String getTimeZoneDef()
+com.tencent.mm.sdk.platformtools.Util: java.lang.String formatUnixTime(long)
+com.tencent.mm.sdk.platformtools.Util: boolean isChinese(char)
+com.tencent.mm.sdk.platformtools.Util: boolean isAlpha(char)
+com.tencent.mm.sdk.platformtools.Util: boolean isNum(char)
+com.tencent.mm.sdk.platformtools.Util: boolean isValidQQNum(java.lang.String)
+com.tencent.mm.sdk.platformtools.Util: boolean isValidEmail(java.lang.String)
+com.tencent.mm.sdk.platformtools.Util: byte[] bmpToByteArray(android.graphics.Bitmap,boolean)
+com.tencent.mm.sdk.platformtools.Util: boolean isValidAccount(java.lang.String)
+com.tencent.mm.sdk.platformtools.Util: boolean isValidPassword(java.lang.String)
+com.tencent.mm.sdk.platformtools.Util: android.graphics.BitmapFactory$Options getImageOptions(java.lang.String)
+com.tencent.mm.sdk.platformtools.Util: void saveBitmapToImage(android.graphics.Bitmap,int,android.graphics.Bitmap$CompressFormat,java.lang.String,java.lang.String,boolean)
+com.tencent.mm.sdk.platformtools.Util: void saveBitmapToImage(android.graphics.Bitmap,int,android.graphics.Bitmap$CompressFormat,java.lang.String,boolean)
+com.tencent.mm.sdk.platformtools.Util: android.graphics.Bitmap getRoundedCornerBitmap(android.graphics.Bitmap,boolean,float)
+com.tencent.mm.sdk.platformtools.Util: java.lang.String getSizeKB(long)
+com.tencent.mm.sdk.platformtools.Util: java.lang.String getSizeMB(long)
+com.tencent.mm.sdk.platformtools.Util: java.lang.String dumpArray(java.lang.Object[])
+com.tencent.mm.sdk.platformtools.Util: java.lang.String dumpHex(byte[])
+com.tencent.mm.sdk.platformtools.Util: android.content.Intent getInstallPackIntent(java.lang.String,android.content.Context)
+com.tencent.mm.sdk.platformtools.Util: void installPack(java.lang.String,android.content.Context)
+com.tencent.mm.sdk.platformtools.Util: void shake(android.content.Context,boolean)
+com.tencent.mm.sdk.platformtools.Util: android.media.MediaPlayer playSound(android.content.Context,int,android.media.MediaPlayer$OnCompletionListener)
+com.tencent.mm.sdk.platformtools.Util: void playSound(android.content.Context,int)
+com.tencent.mm.sdk.platformtools.Util: long nowSecond()
+com.tencent.mm.sdk.platformtools.Util: java.lang.String formatSecToMin(int)
+com.tencent.mm.sdk.platformtools.Util: long nowMilliSecond()
+com.tencent.mm.sdk.platformtools.Util: long secondsToNow(long)
+com.tencent.mm.sdk.platformtools.Util: long milliSecondsToNow(long)
+com.tencent.mm.sdk.platformtools.Util: long ticksToNow(long)
+com.tencent.mm.sdk.platformtools.Util: long currentTicks()
+com.tencent.mm.sdk.platformtools.Util: long currentDayInMills()
+com.tencent.mm.sdk.platformtools.Util: long currentWeekInMills()
+com.tencent.mm.sdk.platformtools.Util: long currentMonthInMills()
+com.tencent.mm.sdk.platformtools.Util: long currentYearInMills()
+com.tencent.mm.sdk.platformtools.Util: int getSystemVersion(android.content.Context,int)
+com.tencent.mm.sdk.platformtools.Util: java.lang.String getDeviceId(android.content.Context)
+com.tencent.mm.sdk.platformtools.Util: java.lang.String getLine1Number(android.content.Context)
+com.tencent.mm.sdk.platformtools.Util: boolean isLockScreen(android.content.Context)
+com.tencent.mm.sdk.platformtools.Util: boolean isTopActivity(android.content.Context)
+com.tencent.mm.sdk.platformtools.Util: boolean isServiceRunning(android.content.Context,java.lang.String)
+com.tencent.mm.sdk.platformtools.Util: boolean isProcessRunning(android.content.Context,java.lang.String)
+com.tencent.mm.sdk.platformtools.Util: java.lang.String getTopActivityName(android.content.Context)
+com.tencent.mm.sdk.platformtools.Util: boolean isTopApplication(android.content.Context)
+com.tencent.mm.sdk.platformtools.Util: boolean isIntentAvailable(android.content.Context,android.content.Intent)
+com.tencent.mm.sdk.platformtools.Util: void freeBitmapMap(java.util.Map)
+com.tencent.mm.sdk.platformtools.Util: void selectPicture(android.content.Context,int)
+com.tencent.mm.sdk.platformtools.Util: int nullAsNil(java.lang.Integer)
+com.tencent.mm.sdk.platformtools.Util: long nullAsNil(java.lang.Long)
+com.tencent.mm.sdk.platformtools.Util: java.lang.String nullAsNil(java.lang.String)
+com.tencent.mm.sdk.platformtools.Util: boolean nullAsTrue(java.lang.Boolean)
+com.tencent.mm.sdk.platformtools.Util: boolean nullAsFalse(java.lang.Boolean)
+com.tencent.mm.sdk.platformtools.Util: int nullAs(java.lang.Integer,int)
+com.tencent.mm.sdk.platformtools.Util: long nullAs(java.lang.Long,long)
+com.tencent.mm.sdk.platformtools.Util: boolean nullAs(java.lang.Boolean,boolean)
+com.tencent.mm.sdk.platformtools.Util: java.lang.String nullAs(java.lang.String,java.lang.String)
+com.tencent.mm.sdk.platformtools.Util: int nullAsInt(java.lang.Object,int)
+com.tencent.mm.sdk.platformtools.Util: boolean isNullOrNil(java.lang.String)
+com.tencent.mm.sdk.platformtools.Util: boolean isNullOrNil(byte[])
+com.tencent.mm.sdk.platformtools.Util: int getInt(java.lang.String,int)
+com.tencent.mm.sdk.platformtools.Util: long getLong(java.lang.String,long)
+com.tencent.mm.sdk.platformtools.Util: int getHex(java.lang.String,int)
+com.tencent.mm.sdk.platformtools.Util: java.util.Map parseXml(java.lang.String,java.lang.String,java.lang.String)
+com.tencent.mm.sdk.platformtools.Util: void a(java.util.Map,java.lang.String,org.w3c.dom.Node,int)
+com.tencent.mm.sdk.platformtools.Util: void transClickToSelect(android.view.View,android.view.View)
+com.tencent.mm.sdk.platformtools.Util: java.lang.String getCutPasswordMD5(java.lang.String)
+com.tencent.mm.sdk.platformtools.Util: java.lang.String getFullPasswordMD5(java.lang.String)
+com.tencent.mm.sdk.platformtools.Util: org.w3c.dom.Element getRootElementFromXML(byte[])
+com.tencent.mm.sdk.platformtools.Util: java.lang.String convertStreamToString(java.io.InputStream)
+com.tencent.mm.sdk.platformtools.Util: java.lang.String encodeHexString(byte[])
+com.tencent.mm.sdk.platformtools.Util: byte[] decodeHexString(java.lang.String)
+com.tencent.mm.sdk.platformtools.Util: int guessHttpSendLength(int)
+com.tencent.mm.sdk.platformtools.Util: int guessHttpRecvLength(int)
+com.tencent.mm.sdk.platformtools.Util: int guessHttpContinueRecvLength(int)
+com.tencent.mm.sdk.platformtools.Util: int guessTcpConnectLength()
+com.tencent.mm.sdk.platformtools.Util: int guessTcpDisconnectLength()
+com.tencent.mm.sdk.platformtools.Util: int guessTcpSendLength(int)
+com.tencent.mm.sdk.platformtools.Util: int guessTcpRecvLength(int)
+com.tencent.mm.sdk.platformtools.Util: int[] splitToIntArray(java.lang.String)
+com.tencent.mm.sdk.platformtools.Util: int UnZipFolder(java.lang.String,java.lang.String)
+com.tencent.mm.sdk.platformtools.Util: java.lang.String getStack()
+com.tencent.mm.sdk.platformtools.Util: boolean checkSDCardFull()
+com.tencent.mm.sdk.platformtools.Util: java.lang.String GetHostIp()
+com.tencent.mm.sdk.platformtools.Util: boolean checkPermission(android.content.Context,java.lang.String)
+com.tencent.mm.sdk.platformtools.Util: boolean jump(android.content.Context,java.lang.String)
+com.tencent.mm.sdk.platformtools.Util: java.lang.String escapeStringForXml(java.lang.String)
+com.tencent.mm.sdk.platformtools.Util: java.lang.String processXml(java.lang.String)
+com.tencent.mm.sdk.platformtools.Util: java.lang.String expandEntities(java.lang.String)
+com.tencent.mm.sdk.platformtools.Util: int a(char[],int,int)
+com.tencent.mm.sdk.platformtools.Util: boolean isImgFile(java.lang.String)
+com.tencent.mm.sdk.platformtools.Util: java.lang.String mapToXml(java.lang.String,java.util.LinkedHashMap)
+com.tencent.mm.sdk.platformtools.Util: java.util.Map parseIni(java.lang.String)
+com.tencent.mm.sdk.platformtools.Util: void <clinit>()
+com.tencent.mm.sdk.platformtools.Util$1
+com.tencent.mm.sdk.platformtools.Util$1: Util$1()
+com.tencent.mm.sdk.platformtools.Util$1: void onCompletion(android.media.MediaPlayer)
+com.tencent.mm.sdk.platformtools.Util$2
+com.tencent.mm.sdk.platformtools.Util$2: android.view.View bx
+com.tencent.mm.sdk.platformtools.Util$2: android.view.View by
+com.tencent.mm.sdk.platformtools.Util$2: Util$2(android.view.View,android.view.View)
+com.tencent.mm.sdk.platformtools.Util$2: boolean onTouch(android.view.View,android.view.MotionEvent)
+com.tencent.mm.sdk.platformtools.package-info
+com.tencent.mm.sdk.plugin.IMMPluginAPI
+com.tencent.mm.sdk.plugin.IMMPluginAPI: java.lang.String getPluginKey(java.lang.String)
+com.tencent.mm.sdk.plugin.IMMPluginAPI: boolean isPluginInstalled(java.lang.String)
+com.tencent.mm.sdk.plugin.IMMPluginAPI: boolean installPlugin(java.lang.String)
+com.tencent.mm.sdk.plugin.IMMPluginAPI: com.tencent.mm.sdk.plugin.Profile getCurrentProfile(java.lang.String)
+com.tencent.mm.sdk.plugin.IMMPluginAPI: void createQRCodeController(java.lang.String)
+com.tencent.mm.sdk.plugin.IMMPluginAPI: void createQRCodeController(java.lang.String,com.tencent.mm.sdk.channel.MMessage$CallBack)
+com.tencent.mm.sdk.plugin.IMMPluginAPI: void createQRCodeController(java.lang.String,com.tencent.mm.sdk.channel.MMessage$CallBack,java.lang.String)
+com.tencent.mm.sdk.plugin.IMMPluginAPI: boolean registerQRCodePattern(java.lang.String,com.tencent.mm.sdk.channel.MMessage$CallBack,java.lang.String)
+com.tencent.mm.sdk.plugin.IMMPluginAPI: void jumpToSettingView(java.lang.String,java.lang.String)
+com.tencent.mm.sdk.plugin.IMMPluginAPI: void createMsgController(java.lang.String)
+com.tencent.mm.sdk.plugin.IMMPluginAPI: boolean registerPattern(java.lang.String,com.tencent.mm.sdk.channel.MMessage$CallBack,java.lang.String)
+com.tencent.mm.sdk.plugin.IMMPluginAPI: void jumpToChattingUI(java.lang.String,java.lang.String)
+com.tencent.mm.sdk.plugin.IMMPluginAPI: void jumpToBindQQ(java.lang.String)
+com.tencent.mm.sdk.plugin.IMMPluginAPI: void jumpToBindMobile(java.lang.String)
+com.tencent.mm.sdk.plugin.IMMPluginAPI: void jumpToBindEmail(java.lang.String)
+com.tencent.mm.sdk.plugin.IMMPluginAPI: void release()
+com.tencent.mm.sdk.plugin.IMMPluginAPI: boolean sendMsgNotify(java.lang.String,java.lang.String,int,java.lang.String,java.lang.Class)
+com.tencent.mm.sdk.plugin.IMMPluginAPI: boolean registerAutoMsg(java.lang.String,java.lang.String)
+com.tencent.mm.sdk.plugin.IMMPluginAPI: boolean unregisterAutoMsg(java.lang.String,java.lang.String)
+com.tencent.mm.sdk.plugin.IMMPluginAPI: boolean appendNetStat(int,int,int)
+com.tencent.mm.sdk.plugin.MMPluginAPIImpl
+com.tencent.mm.sdk.plugin.MMPluginAPIImpl: android.content.Context R
+com.tencent.mm.sdk.plugin.MMPluginAPIImpl: com.tencent.mm.sdk.channel.MMessage$Receiver bz
+com.tencent.mm.sdk.plugin.MMPluginAPIImpl: java.lang.String aE
+com.tencent.mm.sdk.plugin.MMPluginAPIImpl: java.lang.String[] columns
+com.tencent.mm.sdk.plugin.MMPluginAPIImpl: MMPluginAPIImpl(android.content.Context)
+com.tencent.mm.sdk.plugin.MMPluginAPIImpl: void release()
+com.tencent.mm.sdk.plugin.MMPluginAPIImpl: java.lang.Object c(java.lang.String)
+com.tencent.mm.sdk.plugin.MMPluginAPIImpl: boolean registerAutoMsg(java.lang.String,java.lang.String)
+com.tencent.mm.sdk.plugin.MMPluginAPIImpl: boolean unregisterAutoMsg(java.lang.String,java.lang.String)
+com.tencent.mm.sdk.plugin.MMPluginAPIImpl: boolean sendMsgNotify(java.lang.String,java.lang.String,int,java.lang.String,java.lang.Class)
+com.tencent.mm.sdk.plugin.MMPluginAPIImpl: java.lang.String getPluginKey(java.lang.String)
+com.tencent.mm.sdk.plugin.MMPluginAPIImpl: boolean isPluginInstalled(java.lang.String)
+com.tencent.mm.sdk.plugin.MMPluginAPIImpl: boolean installPlugin(java.lang.String)
+com.tencent.mm.sdk.plugin.MMPluginAPIImpl: void a(java.lang.String,java.lang.String,android.content.Intent)
+com.tencent.mm.sdk.plugin.MMPluginAPIImpl: void createQRCodeController(java.lang.String)
+com.tencent.mm.sdk.plugin.MMPluginAPIImpl: void createQRCodeController(java.lang.String,com.tencent.mm.sdk.channel.MMessage$CallBack)
+com.tencent.mm.sdk.plugin.MMPluginAPIImpl: void createQRCodeController(java.lang.String,com.tencent.mm.sdk.channel.MMessage$CallBack,java.lang.String)
+com.tencent.mm.sdk.plugin.MMPluginAPIImpl: boolean registerQRCodePattern(java.lang.String,com.tencent.mm.sdk.channel.MMessage$CallBack,java.lang.String)
+com.tencent.mm.sdk.plugin.MMPluginAPIImpl: void jumpToSettingView(java.lang.String,java.lang.String)
+com.tencent.mm.sdk.plugin.MMPluginAPIImpl: void jumpToChattingUI(java.lang.String,java.lang.String)
+com.tencent.mm.sdk.plugin.MMPluginAPIImpl: com.tencent.mm.sdk.plugin.Profile getCurrentProfile(java.lang.String)
+com.tencent.mm.sdk.plugin.MMPluginAPIImpl: void jumpToBindQQ(java.lang.String)
+com.tencent.mm.sdk.plugin.MMPluginAPIImpl: void jumpToBindMobile(java.lang.String)
+com.tencent.mm.sdk.plugin.MMPluginAPIImpl: void jumpToBindEmail(java.lang.String)
+com.tencent.mm.sdk.plugin.MMPluginAPIImpl: void createMsgController(java.lang.String)
+com.tencent.mm.sdk.plugin.MMPluginAPIImpl: boolean registerPattern(java.lang.String,com.tencent.mm.sdk.channel.MMessage$CallBack,java.lang.String)
+com.tencent.mm.sdk.plugin.MMPluginAPIImpl: boolean appendNetStat(int,int,int)
+com.tencent.mm.sdk.plugin.MMPluginAPIImpl: void <clinit>()
+com.tencent.mm.sdk.plugin.MMPluginMsg
+com.tencent.mm.sdk.plugin.MMPluginMsg: long msgClientId
+com.tencent.mm.sdk.plugin.MMPluginMsg: java.lang.String content
+com.tencent.mm.sdk.plugin.MMPluginMsg: java.lang.String ACTION_AUTO_MSG
+com.tencent.mm.sdk.plugin.MMPluginMsg: java.lang.String RECV_PKG
+com.tencent.mm.sdk.plugin.MMPluginMsg: java.lang.String RECV_MSG
+com.tencent.mm.sdk.plugin.MMPluginMsg: java.lang.String RECV_THUMB
+com.tencent.mm.sdk.plugin.MMPluginMsg: java.lang.String SEND_ID
+com.tencent.mm.sdk.plugin.MMPluginMsg: java.lang.String SEND_ERR_TYPE
+com.tencent.mm.sdk.plugin.MMPluginMsg: java.lang.String SEND_ERR_CODE
+com.tencent.mm.sdk.plugin.MMPluginMsg: java.lang.String TYPE
+com.tencent.mm.sdk.plugin.MMPluginMsg: int TYPE_SEND_RET
+com.tencent.mm.sdk.plugin.MMPluginMsg: int TYPE_RECV_MSG
+com.tencent.mm.sdk.plugin.MMPluginMsg: MMPluginMsg()
+com.tencent.mm.sdk.plugin.MMPluginMsg: com.tencent.mm.sdk.openapi.WXAppExtendObject pluginMsgToWXAppExtendObject(com.tencent.mm.sdk.plugin.MMPluginMsg)
+com.tencent.mm.sdk.plugin.MMPluginMsg: com.tencent.mm.sdk.plugin.MMPluginMsg WXAppExtentObjectToPluginMsg(com.tencent.mm.sdk.openapi.WXAppExtendObject)
+com.tencent.mm.sdk.plugin.MMPluginMsg: long sendMessage(android.content.Context,java.lang.String)
+com.tencent.mm.sdk.plugin.MMPluginMsg$ReceiverHelper
+com.tencent.mm.sdk.plugin.MMPluginMsg$ReceiverHelper: int type
+com.tencent.mm.sdk.plugin.MMPluginMsg$ReceiverHelper: android.content.Intent intent
+com.tencent.mm.sdk.plugin.MMPluginMsg$ReceiverHelper: MMPluginMsg$ReceiverHelper(android.content.Intent)
+com.tencent.mm.sdk.plugin.MMPluginMsg$ReceiverHelper: boolean isSendRet()
+com.tencent.mm.sdk.plugin.MMPluginMsg$ReceiverHelper: boolean isRecvNew()
+com.tencent.mm.sdk.plugin.MMPluginMsg$ReceiverHelper: java.lang.String getMsgContent()
+com.tencent.mm.sdk.plugin.MMPluginMsg$ReceiverHelper: java.lang.Integer getSendErrCode()
+com.tencent.mm.sdk.plugin.MMPluginMsg$ReceiverHelper: java.lang.Integer getSendErrType()
+com.tencent.mm.sdk.plugin.MMPluginMsg$ReceiverHelper: java.lang.Long getSendMsgId()
+com.tencent.mm.sdk.plugin.MMPluginOAuth
+com.tencent.mm.sdk.plugin.MMPluginOAuth: com.tencent.mm.sdk.plugin.MMPluginOAuth$IResult bA
+com.tencent.mm.sdk.plugin.MMPluginOAuth: android.content.Context R
+com.tencent.mm.sdk.plugin.MMPluginOAuth: java.lang.String bB
+com.tencent.mm.sdk.plugin.MMPluginOAuth: java.lang.String bC
+com.tencent.mm.sdk.plugin.MMPluginOAuth: android.os.Handler handler
+com.tencent.mm.sdk.plugin.MMPluginOAuth: MMPluginOAuth(android.content.Context,com.tencent.mm.sdk.plugin.MMPluginOAuth$IResult)
+com.tencent.mm.sdk.plugin.MMPluginOAuth: java.lang.String getAccessToken()
+com.tencent.mm.sdk.plugin.MMPluginOAuth: java.lang.String getRequestToken()
+com.tencent.mm.sdk.plugin.MMPluginOAuth: void start()
+com.tencent.mm.sdk.plugin.MMPluginOAuth: boolean start(android.os.Handler)
+com.tencent.mm.sdk.plugin.MMPluginOAuth: java.lang.String a(com.tencent.mm.sdk.plugin.MMPluginOAuth)
+com.tencent.mm.sdk.plugin.MMPluginOAuth: void a(com.tencent.mm.sdk.plugin.MMPluginOAuth,java.lang.String)
+com.tencent.mm.sdk.plugin.MMPluginOAuth: com.tencent.mm.sdk.plugin.MMPluginOAuth$IResult b(com.tencent.mm.sdk.plugin.MMPluginOAuth)
+com.tencent.mm.sdk.plugin.MMPluginOAuth$1
+com.tencent.mm.sdk.plugin.MMPluginOAuth$1: com.tencent.mm.sdk.plugin.MMPluginOAuth bD
+com.tencent.mm.sdk.plugin.MMPluginOAuth$1: MMPluginOAuth$1(com.tencent.mm.sdk.plugin.MMPluginOAuth)
+com.tencent.mm.sdk.plugin.MMPluginOAuth$1: void run()
+com.tencent.mm.sdk.plugin.MMPluginOAuth$IResult
+com.tencent.mm.sdk.plugin.MMPluginOAuth$IResult: void onResult(com.tencent.mm.sdk.plugin.MMPluginOAuth)
+com.tencent.mm.sdk.plugin.MMPluginOAuth$IResult: void onSessionTimeOut()
+com.tencent.mm.sdk.plugin.MMPluginOAuth$Receiver
+com.tencent.mm.sdk.plugin.MMPluginOAuth$Receiver: java.util.Map aA
+com.tencent.mm.sdk.plugin.MMPluginOAuth$Receiver: com.tencent.mm.sdk.plugin.MMPluginOAuth bE
+com.tencent.mm.sdk.plugin.MMPluginOAuth$Receiver: MMPluginOAuth$Receiver()
+com.tencent.mm.sdk.plugin.MMPluginOAuth$Receiver: MMPluginOAuth$Receiver(com.tencent.mm.sdk.plugin.MMPluginOAuth)
+com.tencent.mm.sdk.plugin.MMPluginOAuth$Receiver: void onReceive(android.content.Context,android.content.Intent)
+com.tencent.mm.sdk.plugin.MMPluginOAuth$Receiver: void register(java.lang.String,com.tencent.mm.sdk.plugin.MMPluginOAuth)
+com.tencent.mm.sdk.plugin.MMPluginOAuth$Receiver: void unregister(java.lang.String)
+com.tencent.mm.sdk.plugin.MMPluginOAuth$Receiver: void <clinit>()
+com.tencent.mm.sdk.plugin.MMPluginOAuth$Receiver$1
+com.tencent.mm.sdk.plugin.MMPluginOAuth$Receiver$1: com.tencent.mm.sdk.plugin.MMPluginOAuth bF
+com.tencent.mm.sdk.plugin.MMPluginOAuth$Receiver$1: java.lang.String bG
+com.tencent.mm.sdk.plugin.MMPluginOAuth$Receiver$1: com.tencent.mm.sdk.plugin.MMPluginOAuth$Receiver bH
+com.tencent.mm.sdk.plugin.MMPluginOAuth$Receiver$1: MMPluginOAuth$Receiver$1(com.tencent.mm.sdk.plugin.MMPluginOAuth$Receiver,com.tencent.mm.sdk.plugin.MMPluginOAuth,java.lang.String)
+com.tencent.mm.sdk.plugin.MMPluginOAuth$Receiver$1: void run()
+com.tencent.mm.sdk.plugin.MMPluginProviderConstants
+com.tencent.mm.sdk.plugin.MMPluginProviderConstants: java.lang.String AUTHORITY
+com.tencent.mm.sdk.plugin.MMPluginProviderConstants: int TYPE_UNKNOWN
+com.tencent.mm.sdk.plugin.MMPluginProviderConstants: int TYPE_INT
+com.tencent.mm.sdk.plugin.MMPluginProviderConstants: int TYPE_LONG
+com.tencent.mm.sdk.plugin.MMPluginProviderConstants: int TYPE_STRING
+com.tencent.mm.sdk.plugin.MMPluginProviderConstants: int TYPE_BOOLEAN
+com.tencent.mm.sdk.plugin.MMPluginProviderConstants: int TYPE_FLOAT
+com.tencent.mm.sdk.plugin.MMPluginProviderConstants: int TYPE_DOUBLE
+com.tencent.mm.sdk.plugin.MMPluginProviderConstants: java.lang.String PLUGIN_PACKAGE_PATTERN
+com.tencent.mm.sdk.plugin.MMPluginProviderConstants: MMPluginProviderConstants()
+com.tencent.mm.sdk.plugin.MMPluginProviderConstants$OAuth
+com.tencent.mm.sdk.plugin.MMPluginProviderConstants$OAuth: android.net.Uri CONTENT_URI
+com.tencent.mm.sdk.plugin.MMPluginProviderConstants$OAuth: java.lang.String API_KEY
+com.tencent.mm.sdk.plugin.MMPluginProviderConstants$OAuth: java.lang.String REQUEST_TOKEN
+com.tencent.mm.sdk.plugin.MMPluginProviderConstants$OAuth: java.lang.String ACCESS_TOKEN
+com.tencent.mm.sdk.plugin.MMPluginProviderConstants$OAuth: java.lang.String SECRET
+com.tencent.mm.sdk.plugin.MMPluginProviderConstants$OAuth: java.lang.String ACTION_REQUEST_TOKEN
+com.tencent.mm.sdk.plugin.MMPluginProviderConstants$OAuth: MMPluginProviderConstants$OAuth()
+com.tencent.mm.sdk.plugin.MMPluginProviderConstants$OAuth: void <clinit>()
+com.tencent.mm.sdk.plugin.MMPluginProviderConstants$PluginDB
+com.tencent.mm.sdk.plugin.MMPluginProviderConstants$PluginDB: android.net.Uri CONTENT_URI
+com.tencent.mm.sdk.plugin.MMPluginProviderConstants$PluginDB: java.lang.String KEY
+com.tencent.mm.sdk.plugin.MMPluginProviderConstants$PluginDB: java.lang.String TYPE
+com.tencent.mm.sdk.plugin.MMPluginProviderConstants$PluginDB: java.lang.String VALUE
+com.tencent.mm.sdk.plugin.MMPluginProviderConstants$PluginDB: MMPluginProviderConstants$PluginDB()
+com.tencent.mm.sdk.plugin.MMPluginProviderConstants$PluginDB: void <clinit>()
+com.tencent.mm.sdk.plugin.MMPluginProviderConstants$PluginIntent
+com.tencent.mm.sdk.plugin.MMPluginProviderConstants$PluginIntent: java.lang.String AUTH_KEY
+com.tencent.mm.sdk.plugin.MMPluginProviderConstants$PluginIntent: java.lang.String NAME
+com.tencent.mm.sdk.plugin.MMPluginProviderConstants$PluginIntent: java.lang.String PACKAGE
+com.tencent.mm.sdk.plugin.MMPluginProviderConstants$PluginIntent: java.lang.String REQUEST_TOKEN
+com.tencent.mm.sdk.plugin.MMPluginProviderConstants$PluginIntent: java.lang.String ACCESS_TOKEN
+com.tencent.mm.sdk.plugin.MMPluginProviderConstants$PluginIntent: java.lang.String PERMISSIONS
+com.tencent.mm.sdk.plugin.MMPluginProviderConstants$PluginIntent: java.lang.String ACTION_REQUEST_TOKEN
+com.tencent.mm.sdk.plugin.MMPluginProviderConstants$PluginIntent: java.lang.String ACTION_RESPONSE
+com.tencent.mm.sdk.plugin.MMPluginProviderConstants$PluginIntent: java.lang.String ACTION_QRCODE_SCANNED
+com.tencent.mm.sdk.plugin.MMPluginProviderConstants$PluginIntent: java.lang.String PLUGIN_PACKAGE_PATTERN
+com.tencent.mm.sdk.plugin.MMPluginProviderConstants$PluginIntent: java.lang.String APP_PACKAGE_PATTERN
+com.tencent.mm.sdk.plugin.MMPluginProviderConstants$PluginIntent: MMPluginProviderConstants$PluginIntent()
+com.tencent.mm.sdk.plugin.MMPluginProviderConstants$Resolver
+com.tencent.mm.sdk.plugin.MMPluginProviderConstants$Resolver: MMPluginProviderConstants$Resolver()
+com.tencent.mm.sdk.plugin.MMPluginProviderConstants$Resolver: int getType(java.lang.Object)
+com.tencent.mm.sdk.plugin.MMPluginProviderConstants$Resolver: boolean unresolveObj(android.content.ContentValues,java.lang.Object)
+com.tencent.mm.sdk.plugin.MMPluginProviderConstants$Resolver: java.lang.Object resolveObj(int,java.lang.String)
+com.tencent.mm.sdk.plugin.MMPluginProviderConstants$SharedPref
+com.tencent.mm.sdk.plugin.MMPluginProviderConstants$SharedPref: android.net.Uri CONTENT_URI
+com.tencent.mm.sdk.plugin.MMPluginProviderConstants$SharedPref: java.lang.String KEY
+com.tencent.mm.sdk.plugin.MMPluginProviderConstants$SharedPref: java.lang.String TYPE
+com.tencent.mm.sdk.plugin.MMPluginProviderConstants$SharedPref: java.lang.String VALUE
+com.tencent.mm.sdk.plugin.MMPluginProviderConstants$SharedPref: MMPluginProviderConstants$SharedPref()
+com.tencent.mm.sdk.plugin.MMPluginProviderConstants$SharedPref: void <clinit>()
+com.tencent.mm.sdk.plugin.MMPluginUtil
+com.tencent.mm.sdk.plugin.MMPluginUtil: MMPluginUtil()
+com.tencent.mm.sdk.plugin.MMPluginUtil: com.tencent.mm.sdk.plugin.IMMPluginAPI queryPluginMgr(android.content.Context)
+com.tencent.mm.sdk.plugin.Profile
+com.tencent.mm.sdk.plugin.Profile: java.lang.reflect.Field[] p
+com.tencent.mm.sdk.plugin.Profile: android.net.Uri CONTENT_URI
+com.tencent.mm.sdk.plugin.Profile: java.lang.String[] columns
+com.tencent.mm.sdk.plugin.Profile: java.lang.String field_username
+com.tencent.mm.sdk.plugin.Profile: long field_bindqq
+com.tencent.mm.sdk.plugin.Profile: java.lang.String field_bindmobile
+com.tencent.mm.sdk.plugin.Profile: java.lang.String field_bindemail
+com.tencent.mm.sdk.plugin.Profile: java.lang.String field_alias
+com.tencent.mm.sdk.plugin.Profile: java.lang.String field_nickname
+com.tencent.mm.sdk.plugin.Profile: java.lang.String field_signature
+com.tencent.mm.sdk.plugin.Profile: java.lang.String field_province
+com.tencent.mm.sdk.plugin.Profile: java.lang.String field_city
+com.tencent.mm.sdk.plugin.Profile: java.lang.String field_weibo
+com.tencent.mm.sdk.plugin.Profile: java.lang.String field_avatar
+com.tencent.mm.sdk.plugin.Profile: Profile()
+com.tencent.mm.sdk.plugin.Profile: java.lang.reflect.Field[] fields()
+com.tencent.mm.sdk.plugin.Profile: void <clinit>()
+com.tencent.mm.sdk.plugin.package-info
+com.tencent.mm.sdk.storage.ContentProviderDB
+com.tencent.mm.sdk.storage.ContentProviderDB: android.content.Context R
+com.tencent.mm.sdk.storage.ContentProviderDB: ContentProviderDB(android.content.Context)
+com.tencent.mm.sdk.storage.ContentProviderDB: android.net.Uri getUriFromTable(java.lang.String)
+com.tencent.mm.sdk.storage.ContentProviderDB: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)
+com.tencent.mm.sdk.storage.ContentProviderDB: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])
+com.tencent.mm.sdk.storage.ContentProviderDB: boolean execSQL(java.lang.String,java.lang.String)
+com.tencent.mm.sdk.storage.ContentProviderDB: long insert(java.lang.String,java.lang.String,android.content.ContentValues)
+com.tencent.mm.sdk.storage.ContentProviderDB: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])
+com.tencent.mm.sdk.storage.ContentProviderDB: long replace(java.lang.String,java.lang.String,android.content.ContentValues)
+com.tencent.mm.sdk.storage.ContentProviderDB: int delete(java.lang.String,java.lang.String,java.lang.String[])
+com.tencent.mm.sdk.storage.CursorFieldHelper
+com.tencent.mm.sdk.storage.CursorFieldHelper: java.util.Map bI
+com.tencent.mm.sdk.storage.CursorFieldHelper: java.util.Map bJ
+com.tencent.mm.sdk.storage.CursorFieldHelper: java.util.Map bK
+com.tencent.mm.sdk.storage.CursorFieldHelper: CursorFieldHelper()
+com.tencent.mm.sdk.storage.CursorFieldHelper: java.lang.String type(java.lang.Class)
+com.tencent.mm.sdk.storage.CursorFieldHelper: java.lang.reflect.Method get(java.lang.Class,boolean)
+com.tencent.mm.sdk.storage.CursorFieldHelper: void keep_setBlob(java.lang.reflect.Field,java.lang.Object,android.database.Cursor,int)
+com.tencent.mm.sdk.storage.CursorFieldHelper: void keep_getBlob(java.lang.reflect.Field,java.lang.Object,android.content.ContentValues)
+com.tencent.mm.sdk.storage.CursorFieldHelper: void keep_setShort(java.lang.reflect.Field,java.lang.Object,android.database.Cursor,int)
+com.tencent.mm.sdk.storage.CursorFieldHelper: void keep_getShort(java.lang.reflect.Field,java.lang.Object,android.content.ContentValues)
+com.tencent.mm.sdk.storage.CursorFieldHelper: void keep_setBoolean(java.lang.reflect.Field,java.lang.Object,android.database.Cursor,int)
+com.tencent.mm.sdk.storage.CursorFieldHelper: void keep_getBoolean(java.lang.reflect.Field,java.lang.Object,android.content.ContentValues)
+com.tencent.mm.sdk.storage.CursorFieldHelper: void keep_setInt(java.lang.reflect.Field,java.lang.Object,android.database.Cursor,int)
+com.tencent.mm.sdk.storage.CursorFieldHelper: void keep_getInt(java.lang.reflect.Field,java.lang.Object,android.content.ContentValues)
+com.tencent.mm.sdk.storage.CursorFieldHelper: void keep_setFloat(java.lang.reflect.Field,java.lang.Object,android.database.Cursor,int)
+com.tencent.mm.sdk.storage.CursorFieldHelper: void keep_getFloat(java.lang.reflect.Field,java.lang.Object,android.content.ContentValues)
+com.tencent.mm.sdk.storage.CursorFieldHelper: void keep_setDouble(java.lang.reflect.Field,java.lang.Object,android.database.Cursor,int)
+com.tencent.mm.sdk.storage.CursorFieldHelper: void keep_getDouble(java.lang.reflect.Field,java.lang.Object,android.content.ContentValues)
+com.tencent.mm.sdk.storage.CursorFieldHelper: void keep_setLong(java.lang.reflect.Field,java.lang.Object,android.database.Cursor,int)
+com.tencent.mm.sdk.storage.CursorFieldHelper: void keep_getLong(java.lang.reflect.Field,java.lang.Object,android.content.ContentValues)
+com.tencent.mm.sdk.storage.CursorFieldHelper: void keep_setString(java.lang.reflect.Field,java.lang.Object,android.database.Cursor,int)
+com.tencent.mm.sdk.storage.CursorFieldHelper: void keep_getString(java.lang.reflect.Field,java.lang.Object,android.content.ContentValues)
+com.tencent.mm.sdk.storage.CursorFieldHelper: void <clinit>()
+com.tencent.mm.sdk.storage.ISQLiteDatabase
+com.tencent.mm.sdk.storage.ISQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)
+com.tencent.mm.sdk.storage.ISQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])
+com.tencent.mm.sdk.storage.ISQLiteDatabase: boolean execSQL(java.lang.String,java.lang.String)
+com.tencent.mm.sdk.storage.ISQLiteDatabase: long insert(java.lang.String,java.lang.String,android.content.ContentValues)
+com.tencent.mm.sdk.storage.ISQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])
+com.tencent.mm.sdk.storage.ISQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)
+com.tencent.mm.sdk.storage.ISQLiteDatabase: int delete(java.lang.String,java.lang.String,java.lang.String[])
+com.tencent.mm.sdk.storage.MAutoDBItem
+com.tencent.mm.sdk.storage.MAutoDBItem: java.lang.String SYSTEM_ROWID_FIELD
+com.tencent.mm.sdk.storage.MAutoDBItem: long systemRowid
+com.tencent.mm.sdk.storage.MAutoDBItem: MAutoDBItem()
+com.tencent.mm.sdk.storage.MAutoDBItem: java.lang.reflect.Field[] fields()
+com.tencent.mm.sdk.storage.MAutoDBItem: java.lang.reflect.Field[] getValidFields(java.lang.Class)
+com.tencent.mm.sdk.storage.MAutoDBItem: void convertFrom(android.database.Cursor)
+com.tencent.mm.sdk.storage.MAutoDBItem: android.content.ContentValues convertTo()
+com.tencent.mm.sdk.storage.MAutoDBItem: android.database.Cursor getCursorForProjection(android.content.ContentValues,java.lang.String[])
+com.tencent.mm.sdk.storage.MAutoDBItem: java.util.Map identify(java.lang.reflect.Field[],java.lang.StringBuilder,java.lang.String)
+com.tencent.mm.sdk.storage.MAutoDBItem: java.lang.String[] getFullColumns(java.lang.reflect.Field[])
+com.tencent.mm.sdk.storage.MAutoDBItem: boolean checkIOEqual(android.content.ContentValues,android.database.Cursor)
+com.tencent.mm.sdk.storage.MAutoStorage
+com.tencent.mm.sdk.storage.MAutoStorage: com.tencent.mm.sdk.storage.ISQLiteDatabase P
+com.tencent.mm.sdk.storage.MAutoStorage: java.lang.String bL
+com.tencent.mm.sdk.storage.MAutoStorage: java.lang.String[] columns
+com.tencent.mm.sdk.storage.MAutoStorage: java.lang.String getTableName()
+com.tencent.mm.sdk.storage.MAutoStorage: java.lang.String getPrimaryKey()
+com.tencent.mm.sdk.storage.MAutoStorage: java.lang.String[] getColumns()
+com.tencent.mm.sdk.storage.MAutoStorage: MAutoStorage(com.tencent.mm.sdk.storage.ISQLiteDatabase)
+com.tencent.mm.sdk.storage.MAutoStorage: java.util.List getCreateSQLs(java.lang.reflect.Field[],java.lang.String,java.lang.String,java.lang.String[])
+com.tencent.mm.sdk.storage.MAutoStorage: java.util.List getUpdateSQLs(java.lang.reflect.Field[],java.lang.String,com.tencent.mm.sdk.storage.ISQLiteDatabase)
+com.tencent.mm.sdk.storage.MAutoStorage: boolean insert(com.tencent.mm.sdk.storage.MAutoDBItem)
+com.tencent.mm.sdk.storage.MAutoStorage: boolean delete(com.tencent.mm.sdk.storage.MAutoDBItem,java.lang.String[])
+com.tencent.mm.sdk.storage.MAutoStorage: boolean delete(long)
+com.tencent.mm.sdk.storage.MAutoStorage: boolean get(long,com.tencent.mm.sdk.storage.MAutoDBItem)
+com.tencent.mm.sdk.storage.MAutoStorage: boolean get(com.tencent.mm.sdk.storage.MAutoDBItem,java.lang.String[])
+com.tencent.mm.sdk.storage.MAutoStorage: boolean update(long,com.tencent.mm.sdk.storage.MAutoDBItem)
+com.tencent.mm.sdk.storage.MAutoStorage: boolean update(com.tencent.mm.sdk.storage.MAutoDBItem,java.lang.String[])
+com.tencent.mm.sdk.storage.MAutoStorage: boolean replace(com.tencent.mm.sdk.storage.MAutoDBItem)
+com.tencent.mm.sdk.storage.MAutoStorage: boolean a(android.content.ContentValues)
+com.tencent.mm.sdk.storage.MAutoStorage: android.database.Cursor getAll()
+com.tencent.mm.sdk.storage.MAutoStorage: int getCount()
+com.tencent.mm.sdk.storage.MAutoStorage: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])
+com.tencent.mm.sdk.storage.MAutoStorage: java.lang.StringBuilder a(android.content.ContentValues,java.lang.String[])
+com.tencent.mm.sdk.storage.MAutoStorage: java.lang.String[] a(java.lang.String[],android.content.ContentValues)
+com.tencent.mm.sdk.storage.MAutoStorage: void d(java.lang.String)
+com.tencent.mm.sdk.storage.MAutoStorage: void e(java.lang.String)
+com.tencent.mm.sdk.storage.MDBItem
+com.tencent.mm.sdk.storage.MDBItem: void convertFrom(android.database.Cursor)
+com.tencent.mm.sdk.storage.MDBItem: android.content.ContentValues convertTo()
+com.tencent.mm.sdk.storage.MStorage
+com.tencent.mm.sdk.storage.MStorage: com.tencent.mm.sdk.storage.MStorageEvent bM
+com.tencent.mm.sdk.storage.MStorage: com.tencent.mm.sdk.storage.MStorageEvent bN
+com.tencent.mm.sdk.storage.MStorage: MStorage()
+com.tencent.mm.sdk.storage.MStorage: void lock()
+com.tencent.mm.sdk.storage.MStorage: void unlock()
+com.tencent.mm.sdk.storage.MStorage: void add(com.tencent.mm.sdk.storage.MStorage$IOnStorageChange)
+com.tencent.mm.sdk.storage.MStorage: void addLoadedListener(com.tencent.mm.sdk.storage.MStorage$IOnStorageLoaded)
+com.tencent.mm.sdk.storage.MStorage: void remove(com.tencent.mm.sdk.storage.MStorage$IOnStorageChange)
+com.tencent.mm.sdk.storage.MStorage: void removeLoadedListener(com.tencent.mm.sdk.storage.MStorage$IOnStorageLoaded)
+com.tencent.mm.sdk.storage.MStorage: void doNotify()
+com.tencent.mm.sdk.storage.MStorage: void doNotify(java.lang.String)
+com.tencent.mm.sdk.storage.MStorage: void a(com.tencent.mm.sdk.storage.MStorage$IOnStorageChange,java.lang.String)
+com.tencent.mm.sdk.storage.MStorage: void a(com.tencent.mm.sdk.storage.MStorage$IOnStorageLoaded)
+com.tencent.mm.sdk.storage.MStorage$1
+com.tencent.mm.sdk.storage.MStorage$1: com.tencent.mm.sdk.storage.MStorage bO
+com.tencent.mm.sdk.storage.MStorage$1: MStorage$1(com.tencent.mm.sdk.storage.MStorage)
+com.tencent.mm.sdk.storage.MStorage$1: void processEvent(java.lang.Object,java.lang.Object)
+com.tencent.mm.sdk.storage.MStorage$2
+com.tencent.mm.sdk.storage.MStorage$2: com.tencent.mm.sdk.storage.MStorage bO
+com.tencent.mm.sdk.storage.MStorage$2: MStorage$2(com.tencent.mm.sdk.storage.MStorage)
+com.tencent.mm.sdk.storage.MStorage$2: void processEvent(java.lang.Object,java.lang.Object)
+com.tencent.mm.sdk.storage.MStorage$IOnStorageChange
+com.tencent.mm.sdk.storage.MStorage$IOnStorageChange: void onNotifyChange(java.lang.String)
+com.tencent.mm.sdk.storage.MStorage$IOnStorageLoaded
+com.tencent.mm.sdk.storage.MStorage$IOnStorageLoaded: void onNotifyLoaded()
+com.tencent.mm.sdk.storage.MStorageEvent
+com.tencent.mm.sdk.storage.MStorageEvent: int bP
+com.tencent.mm.sdk.storage.MStorageEvent: java.util.Hashtable bQ
+com.tencent.mm.sdk.storage.MStorageEvent: java.util.concurrent.CopyOnWriteArraySet bR
+com.tencent.mm.sdk.storage.MStorageEvent: MStorageEvent()
+com.tencent.mm.sdk.storage.MStorageEvent: void lock()
+com.tencent.mm.sdk.storage.MStorageEvent: void unlock()
+com.tencent.mm.sdk.storage.MStorageEvent: boolean isLocked()
+com.tencent.mm.sdk.storage.MStorageEvent: void add(java.lang.Object,android.os.Looper)
+com.tencent.mm.sdk.storage.MStorageEvent: boolean event(java.lang.Object)
+com.tencent.mm.sdk.storage.MStorageEvent: void remove(java.lang.Object)
+com.tencent.mm.sdk.storage.MStorageEvent: void removeAll()
+com.tencent.mm.sdk.storage.MStorageEvent: void doNotify()
+com.tencent.mm.sdk.storage.MStorageEvent: void e()
+com.tencent.mm.sdk.storage.MStorageEvent: void processEvent(java.lang.Object,java.lang.Object)
+com.tencent.mm.sdk.storage.MStorageEvent$1
+com.tencent.mm.sdk.storage.MStorageEvent$1: java.lang.Object bS
+com.tencent.mm.sdk.storage.MStorageEvent$1: java.lang.Object bT
+com.tencent.mm.sdk.storage.MStorageEvent$1: com.tencent.mm.sdk.storage.MStorageEvent bU
+com.tencent.mm.sdk.storage.MStorageEvent$1: MStorageEvent$1(com.tencent.mm.sdk.storage.MStorageEvent,java.lang.Object,java.lang.Object)
+com.tencent.mm.sdk.storage.MStorageEvent$1: void run()
+com.tencent.mm.sdk.storage.package-info
+fda.jkl.iew.CC
+fda.jkl.iew.CC: CC()
+fda.jkl.iew.GG
+fda.jkl.iew.GG: GG()
+fda.jkl.iew.HH
+fda.jkl.iew.HH: HH()
+fda.jkl.iew.br.AdView: void setAdListener(fda.jkl.iew.br.AdViewListener)
+fda.jkl.iew.br.AdView: int getVisibility()
+fda.jkl.iew.br.AdView: void setVisibility(int)
+fda.jkl.iew.c.a.m: void setGifDecoderImage(byte[])
+fda.jkl.iew.c.a.m: void setGifDecoderImage(java.io.InputStream)
+fda.jkl.iew.c.a.m: void setAsBackground(android.view.View)
+fda.jkl.iew.c.a.m: void setGifImage(byte[])
+fda.jkl.iew.c.a.m: void setGifImage(java.io.InputStream)
+fda.jkl.iew.c.a.m: void setGifImage(int)
+fda.jkl.iew.c.a.m: void setGifImageType(fda.jkl.iew.c.a.q)
+fda.jkl.iew.c.a.q: fda.jkl.iew.c.a.q[] values()
+fda.jkl.iew.c.a.q: fda.jkl.iew.c.a.q valueOf(java.lang.String)
+fda.jkl.iew.c.a.v: void setYFraction(float)
+fda.jkl.iew.c.a.v: void setXFraction(float)
+fda.jkl.iew.c.a.v: void setGlide(float)
+fda.jkl.iew.c.a.v: void setGlideBack(float)
+fda.jkl.iew.c.a.v: void setLeftGlideBack(float)
+fda.jkl.iew.c.a.v: void setCube(float)
+fda.jkl.iew.c.a.v: void setCubeBack(float)
+fda.jkl.iew.c.a.v: void setRotateDown(float)
+fda.jkl.iew.c.a.v: void setRotateUp(float)
+fda.jkl.iew.c.a.v: void setAccordionPivotZero(float)
+fda.jkl.iew.c.a.v: void setAccordionPivotWidth(float)
+fda.jkl.iew.c.a.v: void setTableHorizontalPivotZero(float)
+fda.jkl.iew.c.a.v: void setTableHorizontalPivotWidth(float)
+fda.jkl.iew.c.a.v: void setTableVerticalPivotZero(float)
+fda.jkl.iew.c.a.v: void setTableVerticalPivotHeight(float)
+fda.jkl.iew.c.a.v: void setZoomFromCornerPivotHG(float)
+fda.jkl.iew.c.a.v: void setZoomFromCornerPivotZero(float)
+fda.jkl.iew.c.a.v: void setZoomFromCornerPivotWidth(float)
+fda.jkl.iew.c.a.v: void setZoomFromCornerPivotHeight(float)
+fda.jkl.iew.c.a.v: void setZoomSlideHorizontal(float)
+fda.jkl.iew.c.a.v: void setZoomSlideVertical(float)
+fda.jkl.iew.libs.adsbase.i.a.f: void setEnableOffersJsCodeLoader(boolean)
+fda.jkl.iew.libs.adsbase.i.a.f: void setEnableOffersJsFileLoader(boolean)
+fda.jkl.iew.libs.adsbase.i.a.f: android.view.View getCurrentView()
+fda.jkl.iew.libs.adsbase.i.a.f: void setUserAgentString(java.lang.String)
+fda.jkl.iew.libs.adsbase.i.a.f: java.lang.String getUserAgentString()
+fda.jkl.iew.libs.adsbase.j.b: void setBackEnable(boolean)
+fda.jkl.iew.libs.adsbase.j.b: void setForwardEnable(boolean)
+fda.jkl.iew.libs.adsbase.j.b.c: fda.jkl.iew.libs.adsbase.j.b.c[] values()
+fda.jkl.iew.libs.adsbase.j.b.c: fda.jkl.iew.libs.adsbase.j.b.c valueOf(java.lang.String)
+fda.jkl.iew.libs.adsbase.j.b.d: void setState(fda.jkl.iew.libs.adsbase.j.b.c)
+fda.jkl.iew.libs.adsbase.j.b.d: fda.jkl.iew.libs.adsbase.j.b.c getState()
+fda.jkl.iew.libs.adsbase.j.b.d: fda.jkl.iew.libs.adsbase.j.b.c getPreState()
+fda.jkl.iew.libs.adsbase.j.b.f: void setOnRefreshListener(fda.jkl.iew.libs.adsbase.j.b.l)
+fda.jkl.iew.libs.adsbase.j.b.f: android.view.View getRefreshableView()
+fda.jkl.iew.libs.adsbase.j.b.f: fda.jkl.iew.libs.adsbase.j.b.d getHeaderLoadingLayout()
+fda.jkl.iew.libs.adsbase.j.d: void setLogoVisibility(int)
+fda.jkl.iew.libs.adsbase.j.d: void setPointsLayoutVisibility(int)
+fda.jkl.iew.libs.adsbase.j.d: void setBackBtnVisibiity(int)
+fda.jkl.iew.libs.adsbase.j.d: void setTitle(java.lang.CharSequence)
+fda.jkl.iew.libs.adsbase.j.d: void setPointsUnit(java.lang.CharSequence)
+fda.jkl.iew.libs.adsbase.j.d: void setPoints(java.lang.String)
+fda.jkl.iew.libs.adsbase.j.d: void setTitleBackgroundColor(int)
+fda.jkl.iew.libs.adsbase.js.a: fda.jkl.iew.libs.adsbase.js.a[] values()
+fda.jkl.iew.libs.adsbase.js.a: fda.jkl.iew.libs.adsbase.js.a valueOf(java.lang.String)
+fda.jkl.iew.libs.adsbase.js.base.JsInterface_Impl: JsInterface_Impl(fda.jkl.iew.libs.adsbase.js.base.b.h,fda.jkl.iew.libs.adsbase.js.base.b.f)
+fda.jkl.iew.libs.adsbase.js.base.JsInterface_Impl: JsInterface_Impl(fda.jkl.iew.libs.adsbase.js.base.b.h,fda.jkl.iew.libs.adsbase.js.base.b.f,fda.jkl.iew.libs.adsbase.js.base.a.b)
+fda.jkl.iew.libs.adsbase.js.base.JsInterface_Impl: java.lang.String a(int,int,java.lang.String)
+fda.jkl.iew.libs.adsbase.js.base.JsInterface_Impl: boolean d(java.lang.String)
+fda.jkl.iew.libs.adsbase.js.base.JsInterface_Impl: boolean i(java.lang.String)
+fda.jkl.iew.libs.adsbase.js.base.JsInterface_Impl: boolean w(java.lang.String)
+fda.jkl.iew.libs.adsbase.js.base.JsInterface_Impl: boolean e(java.lang.String)
+fda.jkl.iew.libs.adsbase.js.base.JsInterface_Impl: boolean di(java.lang.String)
+fda.jkl.iew.libs.adsbase.js.base.JsInterface_Impl: boolean de(java.lang.String)
+fda.jkl.iew.libs.adsbase.js.base.JsInterface_Impl: boolean dw(java.lang.String)
+fda.jkl.iew.libs.adsbase.js.base.JsInterface_Impl: boolean dd(java.lang.String)
+fda.jkl.iew.libs.adsbase.js.base.JsInterface_Impl: fda.jkl.iew.libs.adsbase.js.base.b.g a(int)
+fda.jkl.iew.libs.adsbase.js.base.JsInterface_Impl: fda.jkl.iew.libs.adsbase.js.base.b.g b(int)
+fda.jkl.iew.libs.adsbase.js.base.JsInterface_Impl: fda.jkl.iew.libs.adsbase.js.base.b.g c(int)
+fda.jkl.iew.libs.adsbase.js.base.JsInterface_Impl: fda.jkl.iew.libs.adsbase.js.base.b.g d(int)
+fda.jkl.iew.libs.adsbase.js.base.JsInterface_Impl: fda.jkl.iew.libs.adsbase.js.base.b.g e(int)
+fda.jkl.iew.libs.adsbase.js.base.JsInterface_Impl: fda.jkl.iew.libs.adsbase.js.base.b.g f(int)
+fda.jkl.iew.libs.adsbase.js.base.JsInterface_Impl: fda.jkl.iew.libs.adsbase.js.base.b.g g(int)
+fda.jkl.iew.libs.adsbase.js.base.JsInterface_Impl: fda.jkl.iew.libs.adsbase.js.base.b.g h(int)
+fda.jkl.iew.libs.adsbase.js.base.JsInterface_Impl: fda.jkl.iew.libs.adsbase.js.base.b.g i(int)
+fda.jkl.iew.libs.adsbase.js.base.a: fda.jkl.iew.libs.adsbase.js.base.b.h a
+fda.jkl.iew.libs.adsbase.js.base.a: fda.jkl.iew.libs.adsbase.js.base.b.f b
+fda.jkl.iew.libs.adsbase.js.base.a: fda.jkl.iew.libs.adsbase.js.base.a.b c
+fda.jkl.iew.libs.adsbase.js.base.a: fda.jkl.iew.libs.adsbase.js.base.b.i d
+fda.jkl.iew.libs.adsbase.js.base.a: fda.jkl.iew.libs.adsbase.js.base.a.a e
+fda.jkl.iew.libs.adsbase.js.base.a: a(fda.jkl.iew.libs.adsbase.js.base.b.h,fda.jkl.iew.libs.adsbase.js.base.b.f)
+fda.jkl.iew.libs.adsbase.js.base.a: a(fda.jkl.iew.libs.adsbase.js.base.b.h,fda.jkl.iew.libs.adsbase.js.base.b.f,fda.jkl.iew.libs.adsbase.js.base.a.b)
+fda.jkl.iew.libs.adsbase.js.base.a: void setYmWebBrowser(fda.jkl.iew.libs.adsbase.js.base.b.i)
+fda.jkl.iew.libs.adsbase.js.base.a: void setExtendJsObject(fda.jkl.iew.libs.adsbase.js.base.a.a)
+fda.jkl.iew.libs.adsbase.js.base.a: boolean d(java.lang.String)
+fda.jkl.iew.libs.adsbase.js.base.a: boolean i(java.lang.String)
+fda.jkl.iew.libs.adsbase.js.base.a: boolean e(java.lang.String)
+fda.jkl.iew.libs.adsbase.js.base.a: boolean w(java.lang.String)
+fda.jkl.iew.libs.adsbase.js.base.a: boolean dd(java.lang.String)
+fda.jkl.iew.libs.adsbase.js.base.a: boolean di(java.lang.String)
+fda.jkl.iew.libs.adsbase.js.base.a: boolean de(java.lang.String)
+fda.jkl.iew.libs.adsbase.js.base.a: boolean dw(java.lang.String)
+fda.jkl.iew.libs.adsbase.js.base.a: java.lang.String a(int,int,java.lang.String)
+fda.jkl.iew.libs.adsbase.js.base.a: fda.jkl.iew.libs.adsbase.js.base.b.g a(int)
+fda.jkl.iew.libs.adsbase.js.base.a: fda.jkl.iew.libs.adsbase.js.base.b.g b(int)
+fda.jkl.iew.libs.adsbase.js.base.a: fda.jkl.iew.libs.adsbase.js.base.b.g c(int)
+fda.jkl.iew.libs.adsbase.js.base.a: fda.jkl.iew.libs.adsbase.js.base.b.g d(int)
+fda.jkl.iew.libs.adsbase.js.base.a: fda.jkl.iew.libs.adsbase.js.base.b.g e(int)
+fda.jkl.iew.libs.adsbase.js.base.a: fda.jkl.iew.libs.adsbase.js.base.b.g f(int)
+fda.jkl.iew.libs.adsbase.js.base.a: fda.jkl.iew.libs.adsbase.js.base.b.g g(int)
+fda.jkl.iew.libs.adsbase.js.base.a: fda.jkl.iew.libs.adsbase.js.base.b.g h(int)
+fda.jkl.iew.libs.adsbase.js.base.a: fda.jkl.iew.libs.adsbase.js.base.b.g i(int)
+fda.jkl.iew.st.CustomerSpotView: void setVisibility(int)
+fda.jkl.iew.st.CustomerSpotView: void setImageDrawable(android.graphics.drawable.Drawable)
+fda.jkl.iew.st.CustomerSpotView: void setScaleType(android.widget.ImageView$ScaleType)
+fda.jkl.iew.st.v: void setActivity(android.app.Activity)
+fda.jkl.iew.st.v: fda.jkl.iew.libs.adsbase.i.a.f getWebView()
+fda.jkl.iew.video.controls.a: android.view.View getView()
+fda.jkl.iew.video.controls.a: void setTime(int)
+fda.jkl.iew.video.controls.a: void setFinishTime(int)
+fda.jkl.iew.video.controls.a: void setOnCloseBtnListener(android.view.View$OnClickListener)
+fda.jkl.iew.video.controls.a: android.widget.TextView getClickTv()
+fda.jkl.iew.video.controls.a: int getVideoType()
+fda.jkl.iew.video.controls.a: android.widget.ImageView getDisClkBtn()
+fda.jkl.iew.video.controls.a: int getScreenType()
+fda.jkl.iew.video.controls.e: void setVideoPlayer(fda.jkl.iew.video.controls.j)
+fda.jkl.iew.video.controls.e: void setVideoDataModel(fda.jkl.iew.video.model.a)
+fda.jkl.iew.video.o: void setVisibility(int)
+fda.jkl.iew.video.y: void setVideoActivity(fda.jkl.iew.video.VideoActivity)
+fda.jkl.iew.video.y: void setVideoAdListener(fda.jkl.iew.video.listener.VideoAdListener)
+fda.jkl.iew.video.y: fda.jkl.iew.video.listener.VideoAdListener getVideoAdListener()
+fda.jkl.iew.video.y: void setActivity(android.app.Activity)
+fda.jkl.iew.video.y: fda.jkl.iew.libs.adsbase.i.a.f getWebView()

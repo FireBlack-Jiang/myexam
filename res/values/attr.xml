@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<attr name="qqRightPadding" format="dimension"></attr>
+	<attr name="qqheightPadding" format="dimension"></attr>
+    <declare-styleable name="SlidingMenuSelf">
+        <attr name="qqRightPadding"></attr>
+        <attr name="qqheightPadding"></attr>
+    </declare-styleable>
+
+    <declare-styleable name="FAB">
+        <!-- Background color -->
+        <attr name="bg_color" format="color|reference"/>
+        <attr name="bg_color_pressed" format="color|reference"/>
+    </declare-styleable>
+
+    
+</resources>

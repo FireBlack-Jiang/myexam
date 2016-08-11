@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:layout_gravity="top"
+    android:background="@drawable/title_bg"
+    android:nextFocusUp="@color/blue" >
+
+    <ImageView
+        android:id="@+id/img_title1"
+        android:layout_width="42dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="left"
+        android:layout_marginLeft="5dp"
+        android:layout_weight="0.2"
+        android:src="@drawable/ic_launcher" />
+
+    <TextView
+        android:id="@+id/title_text"
+        android:layout_width="50dp"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="Title Text"
+        android:textColor="#fff"
+        android:textSize="15sp" />
+
+
+    <Button
+        android:id="@+id/title_button"
+        android:layout_width="0dip"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:layout_weight="1"
+        android:background="@drawable/title_bg"
+        android:gravity="center"
+        android:text="进度"
+        android:textColor="#fff"
+        android:textSize="15sp" />
+
+</LinearLayout>
