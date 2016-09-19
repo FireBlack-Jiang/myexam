@@ -49,7 +49,7 @@ public class OptionActivity extends Activity {
 		myseekBar=(SeekBar)findViewById(R.id.seekBar1);
 		//CONGIG≥ı ºªØ
 		configInit();
-		//int defaultvalue=Integer.valueOf(textsizevalue+"");
+		int defaultvalue=Integer.valueOf(textsizevalue+"");
 		myseekBar.setProgress(50);
 		CommanOperation.ChangeTextSizeOp(this, lv, textsizevalue+"");
 		myseekBar.setOnSeekBarChangeListener(new OnSeekBarChangeListener() {
