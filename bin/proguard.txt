@@ -1,7 +1,7 @@
 # view AndroidManifest.xml #generated:89
 -keep class abc.myexam.AppRegister { <init>(...); }
 
-# view res/layout/new_exerciselayout.xml #generated:126
+# view res/layout/new_exerciselayout.xml #generated:127
 -keep class abc.myexam.CustomFAB { <init>(...); }
 
 # view AndroidManifest.xml #generated:46

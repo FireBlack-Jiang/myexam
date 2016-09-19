@@ -5,15 +5,25 @@
     android:layout_height="fill_parent"
     android:background="@drawable/bg_lianxi"
     >
-    <LinearLayout android:orientation="vertical"
-		android:layout_width="fill_parent" android:layout_height="wrap_content"
+    <LinearLayout 
+       android:id="@+id/mylinearLayout"
+        android:orientation="vertical"
+		android:layout_width="fill_parent" 
+		android:layout_height="wrap_content"
 		android:paddingLeft="50px"
 		 android:paddingTop="30px"
 		android:paddingRight="50px"
 		 android:scrollbars="vertical"
 		 android:layout_weight="4"
 >
-		
+		<TextView 
+		    android:id="@+id/mychangeTextviewid"
+		    android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:layout_gravity="center"
+		    android:text="程序设置"
+		    android:textSize="10px"
+		    ></TextView>
 		<CheckBox
 			android:id="@+id/chk_autocheck"
 			android:layout_width="fill_parent"
@@ -56,6 +66,19 @@
 		    android:layout_width="match_parent"
 		    
 		    android:layout_height="wrap_content" /> -->
+        <TextView 
+            android:layout_width="fill_parent"
+                  android:layout_height="39dp"
+                  android:layout_gravity="center"
+                  android:layout_marginLeft="5px"
+				    android:text="字体大小设置"
+				    ></TextView>
+		<SeekBar
+		    android:id="@+id/seekBar1"
+		    android:max="100"
+		    android:progress="50"
+		    android:layout_width="match_parent"
+		    android:layout_height="wrap_content" />
 				
 	</LinearLayout>
 	
@@ -64,7 +87,18 @@
 	    android:layout_height="70dp"
 	    android:gravity="bottom"
 	    android:orientation="horizontal" >
-
+        <Button android:id="@+id/btn_changgesizebigger" 
+		     android:layout_width="wrap_content"
+			 android:layout_height="wrap_content" android:text="变大"
+			android:textSize="9pt" android:textColor="#FF0000"
+			android:background="@drawable/exametime_bg"
+			android:textStyle="bold"></Button>
+        <Button android:id="@+id/btn_changgesizesmaller" 
+		     android:layout_width="wrap_content"
+			 android:layout_height="wrap_content" android:text="变小"
+			android:textSize="9pt" android:textColor="#FF0000"
+			android:background="@drawable/exametime_bg"
+			android:textStyle="bold"></Button>
 		<Button android:id="@+id/btn_savesetting" 
 		     android:layout_width="wrap_content"
 			 android:layout_height="wrap_content" android:text="保存"

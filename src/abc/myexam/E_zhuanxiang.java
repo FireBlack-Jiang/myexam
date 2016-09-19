@@ -14,6 +14,7 @@ import android.app.Activity;
 import android.app.AlertDialog;
 import android.app.AlertDialog.Builder;
 import android.content.ContentValues;
+import android.content.Context;
 import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.SharedPreferences;
@@ -37,6 +38,7 @@ import android.widget.CheckBox;
 import android.widget.EditText;
 import android.widget.ImageButton;
 import android.widget.ImageView;
+import android.widget.LinearLayout;
 import android.widget.RadioButton;
 import android.widget.RadioGroup;
 import android.widget.ScrollView;
@@ -70,7 +72,8 @@ public class E_zhuanxiang extends Activity {
 	int TESTTPYE;
 	int TESTBELONG;
 	int EXPR1;
-
+    float textsizevalue;
+    LinearLayout new_exerciselayout_mylinearlayout;
 	boolean autoCheck;
 	boolean auto2next;
 	boolean auto2addWAset;
@@ -536,6 +539,7 @@ public class E_zhuanxiang extends Activity {
 		fankuiButton=(Button) findViewById(R.id.fankuiBtn);
 		myscroll=(ScrollView)findViewById(R.id.myScrollView);//myScrollView
 		myfabButton=(ImageButton)findViewById(R.id.customFAB2);
+		new_exerciselayout_mylinearlayout=(LinearLayout)findViewById(R.id.new_exerciselayout_mylinearlayout);
 		for (int i = 0; i <problemless; i++) {
 			problemTurn1.add(i);
 			
@@ -595,6 +599,7 @@ public class E_zhuanxiang extends Activity {
 					false);
 			auto2addWAset = sharedPreferences.getBoolean(
 					MainActivity.CONFIG_AUTO2ADDWRONGSET, false);
+			textsizevalue=sharedPreferences.getFloat(MainActivity.CONFIG_TEXTSIZE, 43);
 		}
 		catch(Exception ex){
 			ex.printStackTrace();
@@ -605,7 +610,9 @@ public class E_zhuanxiang extends Activity {
 	public void OnPaint() {
 		if (cursor.getCount() == 0) {
 			Toast.makeText(this, "我靠，没有题，玩个屁！", Toast.LENGTH_LONG).show();
-		} else {
+		} 
+		else 
+		{
 			/*
 			 * 初始化View
 			 */
@@ -757,6 +764,7 @@ public class E_zhuanxiang extends Activity {
 				CheckBoxF.setVisibility(View.GONE);
 			}
 		}
+		CommanOperation.ChangeTextSizeOp(this, new_exerciselayout_mylinearlayout, textsizevalue+"");
 	}
 
 	@Override

@@ -4,11 +4,11 @@
 	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
 	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
 	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK/SlidingMenuLib_github"/>
-	<classpathentry exported="true" kind="lib" path="libs/YoumiSdk_v5.1.1_2015-12-07.jar"/>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="gen"/>
 	<classpathentry exported="true" kind="src" path="/SlidingMenuLib_github"/>
 	<classpathentry exported="true" kind="lib" path="libs/libammsdk.jar"/>
 	<classpathentry kind="lib" path="libs/jxl.jar"/>
+	<classpathentry kind="lib" path="libs/YoumiSdk_v5.1.1_2015-12-07.jar"/>
 	<classpathentry kind="output" path="bin/classes"/>
 </classpath>

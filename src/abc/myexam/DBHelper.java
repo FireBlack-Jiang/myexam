@@ -39,7 +39,7 @@ public class DBHelper extends SQLiteOpenHelper {
 		//当创建的时候调用
 		String DATABASE_CREATE = "create table " + DATABSE_TABLE + " (TestID integer primary key autoincrement,"  
 			    + "TestSubject text not null, TestAnswer text not null, TestType integer,TestBelong integer,AnswerA text," +
-			    		"AnswerB text,AnswerC text,AnswerD text,AnswerE text,AnswerF text,ImageName text,Expr1 integer);"; 
+			    		"AnswerB text,AnswerC text,AnswerD text,AnswerE text,AnswerF text,ImageName text,Expr1 integer,TestTips text);"; 
 		db.execSQL(DATABASE_CREATE);
 	}
 

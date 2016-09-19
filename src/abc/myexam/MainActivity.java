@@ -1,6 +1,8 @@
 package abc.myexam;
 
 import java.io.IOException;
+
+import android.R.string;
 import android.content.Context;
 import android.app.Activity;
 import android.content.Intent;
@@ -38,8 +40,8 @@ import fda.jkl.iew.st.SpotDialogListener;
 import fda.jkl.iew.st.SpotManager;
 import fda.jkl.iew.update.AppUpdateInfo;
 import fda.jkl.iew.update.CheckAppUpdateCallBack;
-
-
+ // 在线参数获取异步回调
+import fda.jkl.iew.onlineconfig.OnlineConfigCallBack;
 public class MainActivity extends SlidingFragmentActivity implements OnClickListener,CallBack,CheckAppUpdateCallBack /*implements OnGestureListener*/ {
 
 	private static final String TAG="MainActivity";
@@ -73,7 +75,7 @@ public class MainActivity extends SlidingFragmentActivity implements OnClickList
 	public static final String CONFIG_AUTO2ADDWRONGSET = "config_auto2addwrongset";
 	public static final String CONFIG_SOUND = "config_SOUND";
 	public static final String CONFIG_CHECKBYRANDOM = "config_checkbyrandom";
-
+    public static final String CONFIG_TEXTSIZE="config_textsize"; 
 	private TextView tv = null;
 	private ImageButton btn_order = null;
 	private ImageButton btn_rdm = null;
@@ -165,14 +167,11 @@ public class MainActivity extends SlidingFragmentActivity implements OnClickList
  		 ImageButton_share=(ImageButton) findViewById(R.id.ImageButton01);
 		judgeTheFirstTime2Run();
 	     init_db();
-	     //广告
-	   
+	     //广告 
 	  // 加载插播资源
-	  			//setSpotAd();
+	  			setSpotAd();
 	   //广告初始化
 			showBanner();
-			
-
 		btn_order.setOnClickListener(new OnClickListener() {
 
 			@Override
@@ -332,6 +331,8 @@ public class MainActivity extends SlidingFragmentActivity implements OnClickList
 			}
 		});
 
+		
+		
 	}
 
 	@Override
@@ -737,4 +738,14 @@ public void onCheckAppUpdateFinish(AppUpdateInfo updateInfo) {
          }).create().show();
     }
 }
+
+
+
 }
+
+
+
+
+
+
+
