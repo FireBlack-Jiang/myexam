@@ -20,9 +20,8 @@
 		    android:id="@+id/mychangeTextviewid"
 		    android:layout_width="fill_parent"
 			android:layout_height="wrap_content"
-			android:layout_gravity="center"
-		    android:text="程序设置"
-		    android:textSize="10px"
+			android:gravity="center_horizontal"
+		    android:text="程序设置"  
 		    ></TextView>
 		<CheckBox
 			android:id="@+id/chk_autocheck"
@@ -87,6 +86,12 @@
 	    android:layout_height="70dp"
 	    android:gravity="bottom"
 	    android:orientation="horizontal" >
+		 <Button android:id="@+id/btn_programConfig_reset" 
+		     android:layout_width="wrap_content"
+			 android:layout_height="wrap_content" android:text="重置"
+			android:textSize="9pt" android:textColor="#FF0000"
+			android:background="@drawable/exametime_bg"
+			android:textStyle="bold"></Button>
         <Button android:id="@+id/btn_changgesizebigger" 
 		     android:layout_width="wrap_content"
 			 android:layout_height="wrap_content" android:text="变大"
@@ -110,6 +115,6 @@
             android:layout_height="wrap_content"
              android:background="@drawable/review_email"
 			android:text="返回"
-			android:textSize="8pt"></Button>
+			android:textSize="9pt"></Button>
 	</LinearLayout>
 </LinearLayout>

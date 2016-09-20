@@ -1,10 +1,9 @@
 package abc.myexam;
 
 import fda.jkl.iew.AdManager;
-import abc.myexam.R.integer;
-import android.animation.FloatEvaluator;
 import android.app.Activity;
 import android.content.Context;
+import android.content.SharedPreferences;
 import android.content.pm.PackageInfo;
 import android.content.pm.PackageManager;
 import android.os.Bundle;
@@ -156,5 +155,10 @@ public  class CommanOperation extends Activity{
 				tv.setTextSize(TypedValue.COMPLEX_UNIT_PX,Float.valueOf(flag));
 			}
 	}
-	
+	//获取xml文件存储的字体大小
+	public  float get_textsizeconfig() {
+		SharedPreferences sharedPreferences = getSharedPreferences(
+				MainActivity.PREFERENCE_NAME, MainActivity.MODE);
+		return sharedPreferences.getFloat(MainActivity.CONFIG_TEXTSIZE, 45);
+	}
 }

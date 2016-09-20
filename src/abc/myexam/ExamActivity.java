@@ -13,6 +13,7 @@ import android.app.AlertDialog;
 import android.app.AlertDialog.Builder;
 import android.content.DialogInterface;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.database.Cursor;
 import android.graphics.Color;
 import android.graphics.drawable.Drawable;
@@ -33,6 +34,7 @@ import android.widget.Chronometer.OnChronometerTickListener;
 import android.widget.CompoundButton;
 import android.widget.EditText;
 import android.widget.ImageView;
+import android.widget.LinearLayout;
 import android.widget.RadioButton;
 import android.widget.RadioGroup;
 import android.widget.TextView;
@@ -114,6 +116,7 @@ public class ExamActivity extends Activity {
 	Chronometer exam_chronometer;
 	TextView title_text;
 	Button title_count;
+	LinearLayout examlayout_linearlayout;
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		// TODO Auto-generated method stub
@@ -562,6 +565,7 @@ public class ExamActivity extends Activity {
 		radioGroup = (RadioGroup) findViewById(R.id.radioGroup);
 		promptText = (TextView) findViewById(R.id.promptText);
 		chronometer = (Chronometer) findViewById(R.id.exam_chronometer);
+		examlayout_linearlayout=(LinearLayout)findViewById(R.id.examlayout_linearlayout);
 		check_btn.setText("交卷");
 		addWAset_btn.setVisibility(View.GONE);
 		minutes = 45;
@@ -671,7 +675,9 @@ public class ExamActivity extends Activity {
 	public void OnPaint() {
 		if (cursor.getCount() == 0) {
 			Toast.makeText(this, "没有题，出错了啦！", Toast.LENGTH_LONG).show();
-		} else {
+		} 
+		
+		else {
 			/*
 			 * 初始化View
 			 */
@@ -881,6 +887,7 @@ public class ExamActivity extends Activity {
 				
 			}
 		}
+		CommanOperation.ChangeTextSizeOp(this, examlayout_linearlayout, gettextsize());
 	}
 
 	/*
@@ -1170,6 +1177,11 @@ private CharSequence title_name(String data2) {
 		Toast.makeText(this, "获取题库失败", Toast.LENGTH_LONG).show();
 	}
 	return my_title;
+}
+private String gettextsize() {
+	SharedPreferences sharedPreferences = getSharedPreferences(MainActivity.PREFERENCE_NAME, MainActivity.MODE);
+	float refloatstring=sharedPreferences.getFloat(MainActivity.CONFIG_TEXTSIZE, 45);
+	return refloatstring+"";
 }
 
 }

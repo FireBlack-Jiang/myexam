@@ -26,6 +26,7 @@ public class OptionActivity extends Activity {
 	Button btn_return;
     Button bt_changesizebigger;
     Button bt_changesizesmaller;
+    Button bt_programconfigreset;
     TextView tView;
     LinearLayout lv;
     public  float textsizevalue;//字体大小默认值
@@ -47,17 +48,38 @@ public class OptionActivity extends Activity {
 		btn_saveSetting = (Button) findViewById(R.id.btn_savesetting);
 		btn_return = (Button) findViewById(R.id.btn_return);
 		myseekBar=(SeekBar)findViewById(R.id.seekBar1);
+		bt_programconfigreset=(Button)findViewById(R.id.btn_programConfig_reset);
 		//CONGIG初始化
 		configInit();
-		int defaultvalue=Integer.valueOf(textsizevalue+"");
-		myseekBar.setProgress(50);
+		int defaultvalue=(int)Math.ceil(textsizevalue);
+		myseekBar.setProgress(defaultvalue);
 		CommanOperation.ChangeTextSizeOp(this, lv, textsizevalue+"");
+		bt_programconfigreset.setOnClickListener(new OnClickListener() {
+			
+			@Override
+			public void onClick(View v) {
+				// TODO Auto-generated method stub
+				chk_autocheck.setChecked(false);
+				chk_auto2next.setChecked(false);
+				chk_auto2addWAset.setChecked(false);
+				chk_sound.setChecked(false);
+				chk_auto2addWAset.setChecked(false);
+				chk_checkbyrdm.setChecked(false);
+				textsizevalue=45;
+				saveSettingAction();
+				configInit();
+				int defaultvalue=(int)Math.ceil(textsizevalue);
+				myseekBar.setProgress(defaultvalue);
+				CommanOperation.ChangeTextSizeOp(OptionActivity.this, lv, textsizevalue+"");
+				
+			}
+		});
 		myseekBar.setOnSeekBarChangeListener(new OnSeekBarChangeListener() {
 			
 			@Override
 			public void onStopTrackingTouch(SeekBar seekBar) {
 				// TODO Auto-generated method stub
-				textsizevalue=tView.getTextSize();
+				
 			}
 			
 			@Override
@@ -71,6 +93,7 @@ public class OptionActivity extends Activity {
 					boolean fromUser) {
 				// TODO Auto-generated method stub
 				CommanOperation.ChangeTextSizeOp(OptionActivity.this,lv , progress+"");
+				textsizevalue=tView.getTextSize();
 			}
 		});
 		bt_changesizebigger.setOnClickListener(new OnClickListener() {
@@ -108,6 +131,8 @@ public class OptionActivity extends Activity {
 				finish();
 			}
 		});
+		bt_changesizebigger.setVisibility(View.GONE);
+		bt_changesizesmaller.setVisibility(View.GONE);
 	}
 
 	public void saveSettingAction(){

@@ -5,6 +5,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 import android.app.Activity;
+import android.content.SharedPreferences;
 import android.database.Cursor;
 import android.graphics.drawable.Drawable;
 import android.os.Bundle;
@@ -16,6 +17,7 @@ import android.widget.CheckBox;
 import android.widget.EditText;
 import android.widget.ImageButton;
 import android.widget.ImageView;
+import android.widget.LinearLayout;
 import android.widget.ProgressBar;
 import android.widget.RadioButton;
 import android.widget.RadioGroup;
@@ -72,6 +74,7 @@ public class Search_detail extends Activity {
 	DBAdapter dbAdapter;
     Button title_count;
     TextView title_text;
+    LinearLayout search_detail_lineralayout;
 	protected void onCreate(Bundle savedInstanceState) {
 		// TODO Auto-generated method stub
 		super.onCreate(savedInstanceState);
@@ -86,7 +89,9 @@ public class Search_detail extends Activity {
 		// TODO Auto-generated method stub
 		if (cursor.getCount() == 0) {
 			Toast.makeText(this, "我靠，没有题，玩个屁！", Toast.LENGTH_LONG).show();
-		} else {
+		} 
+		else 
+		{
 			/*
 			 * 初始化View
 			 */
@@ -207,7 +212,8 @@ public class Search_detail extends Activity {
 					CheckBoxF.setVisibility(View.GONE);
 				} 
 		}
-	
+		//设置字体大小
+	CommanOperation.ChangeTextSizeOp(Search_detail.this, search_detail_lineralayout, gettextsize());
 	}
 	public void Init() {
 		
@@ -236,7 +242,7 @@ public class Search_detail extends Activity {
 			title_count=(Button)findViewById(R.id.title_button);
 			title_count.setText((1+my_turn)+" / "+cursor.getCount());
 			title_text.setText(title_name(data));
-			
+			search_detail_lineralayout=(LinearLayout)findViewById(R.id.search_detail_lineralayout);
 	}
 	private CharSequence title_name(String data2) 
 	{
@@ -336,5 +342,11 @@ public class Search_detail extends Activity {
 		CheckBoxD.setClickable(false);
 		CheckBoxE.setClickable(false);
 		CheckBoxF.setClickable(false);
+	}
+	protected String gettextsize()
+	{
+		SharedPreferences sharedPreferences = getSharedPreferences(MainActivity.PREFERENCE_NAME, MainActivity.MODE);
+		float refloatstring=sharedPreferences.getFloat(MainActivity.CONFIG_TEXTSIZE, 45);
+		return refloatstring+"";
 	}
 }
